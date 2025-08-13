@@ -171,29 +171,30 @@ of these 100 claims over and over again).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Inflation</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-1. <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">Falsely claimed</a> in April that grocery prices “are down” <a href="https://truthsocial.com/@realDonaldTrump/posts/114392734082544469">and “WAY DOWN.”</a> 
-Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">continued to increase since he took office</a> – and the jump from February to March, about 0.49%, was the biggest one-month increase since October 2022.
+<ol>
+  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">Falsely claimed</a> in April that grocery prices “are down” <a href="https://truthsocial.com/@realDonaldTrump/posts/114392734082544469">and “WAY DOWN.”</a><br>
+  Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">continued to increase since he took office</a> – and the jump from February to March, about 0.49%, was the biggest one-month increase since October 2022.</li>
 
-2. <a href="https://www.cnn.com/2025/04/23/politics/price-of-eggs-gas-trump-fact-check/index.html">Falsely claimed</a> in April that “the cost of eggs has come down like 93, 94% since we took office.” The consumer price of eggs <a href="https://fred.stlouisfed.org/series/APU0000708111">hit a record high in March</a>, and while they might well have fallen in April, the decline certainly wasn’t 93% or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.
+  <li><a href="https://www.cnn.com/2025/04/23/politics/price-of-eggs-gas-trump-fact-check/index.html">Falsely claimed</a> in April that “the cost of eggs has come down like 93, 94% since we took office.” The consumer price of eggs <a href="https://fred.stlouisfed.org/series/APU0000708111">hit a record high in March</a>, and while they might well have fallen in April, the decline certainly wasn’t 93% or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.</li>
 
-3. <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.
+  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.</li>
 
-4. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.
+  <li><a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.</li>
 
-5. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation <a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
+  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation <a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
 rate hit a 40-year high under Biden in June 2022</a>, when it was 9.1%, but that was not close to the 
-<a href="https://fred.stlouisfed.org/series/CPIAUCNS">all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.
+<a href="https://fred.stlouisfed.org/series/CPIAUCNS">all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.</li>
 
-6. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
 Falsely claimed</a> the price of bacon “quadrupled” during Biden’s presidency. 
 <a href="https://fred.stlouisfed.org/series/APU0000704111">
-Federal statistics show</a> the average price of a pound of sliced bacon in December 2024, Biden’s last full month in office, was up about 19% since January 2021, the month Biden was inaugurated; the average price in January 2025, Biden’s last partial month in office, was up about 21% since January 2021. Neither was close to the 300% increase Trump claimed.
+Federal statistics show</a> the average price of a pound of sliced bacon in December 2024, Biden’s last full month in office, was up about 19% since January 2021, the month Biden was inaugurated; the average price in January 2025, Biden’s last partial month in office, was up about 21% since January 2021. Neither was close to the 300% increase Trump claimed.</li>
 
-7. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
 Falsely claimed</a> the price of apples doubled during Biden’s presidency. 
 <a href="https://data.bls.gov/timeseries/CUUR0000SEFK01">
-Federal statistics show</a> the price of apples increased by about 7% between the month Biden was sworn in as president and December 2024; it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% increase Trump claimed.
-
+Federal statistics show</a> the price of apples increased by about 7% between the month Biden was sworn in as president and December 2024; it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% increase Trump claimed.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trade, the economy, taxes</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
