@@ -475,23 +475,37 @@ Falsely claimed</a> the EU was “formed for the purpose of taking advantage of 
 <h3>Canada</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="56">
-  <li>56. <a href="">
-Falsely claimed</a> Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that tens of thousands of metric tons of imported US milk per year, not merely a single carton, will face no tariffs at all – and the US is not even close to hitting its tariff-free milk quota, so US exports aren’t being hit with the high tariffs at all.</li>
+  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+Falsely claimed</a> Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that 
+<a href="https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/fact-sheets/market-access-and-dairy-outcomes">
+tens of thousands of metric tons of imported US milk per year</a>, not merely a single carton, will face no tariffs at all – and the US is
+ <a href="https://www.cnn.com/2025/03/10/politics/trump-canada-dairy-tariffs-fact-check/index.html">
+ not even close to hitting its tariff-free milk quota</a>, so US exports aren’t being hit with the high tariffs at all.</li>
 
-  <li>57. <a href="">
+  <li><a href="https://www.cnn.com/2025/03/10/politics/trump-canada-dairy-tariffs-fact-check/index.html">
 Falsely claimed</a> he had Canada’s dairy-tariff situation “well taken care of” at the time he left office the first time, “but under Biden, they just kept raising it.” In fact, Canada did not raise its dairy tariffs during the Biden administration; the tariffs Trump is denouncing were left in place by his own USMCA.</li>
 
-  <li>58. <a href="">
-Falsely claimed</a> the US has a $200 billion trade deficit with Canada. Federal statistics show the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.</li>
+  <li><a href="https://www.cnn.com/2025/03/12/politics/fact-check-trump-canada-claims/index.html">
+Falsely claimed</a> the US has a $200 billion trade deficit with Canada. 
+<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">
+Federal statistics show</a> the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.</li>
 
-  <li>59. <a href="">
-Falsely claimed</a> Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, just 102nd-highest on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)</li>
+  <li><a href="https://www.cnn.com/2025/03/12/politics/fact-check-trump-canada-claims/index.html">
+Falsely claimed</a> Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, <a href="https://data.worldbank.org/indicator/TM.TAX.MRCH.WM.AR.ZS?most_recent_value_desc=true">
+just 102nd-highest</a> on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)</li>
 
-  <li>60. <a href="">
-Falsely claimed</a>, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, according to the US Department of Agriculture, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA notes on its website that “almost all” US agricultural exports to Canada face zero tariffs or quotas.</li>
+  <li><a href="https://www.cnn.com/2025/03/12/politics/fact-check-trump-canada-claims/index.html">
+Falsely claimed</a>, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, 
+<a href="https://www.fas.usda.gov/data/trade-spotlight-us-agricultural-exports-close-2024-on-strong-note">
+according to the US Department of Agriculture</a>, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA 
+<a href="https://www.ers.usda.gov/topics/international-markets-us-trade/countries-regions/usmca-canada-mexico/canada-trade-fdi#:~:text=In%20general%2C%20USMCA%20continues%20NAFTA's,%2C%20poultry%2C%20and%20egg%20products.">
+notes on its website</a> that “almost all” US agricultural exports to Canada face zero tariffs or quotas.</li>
 
-  <li>61. <a href="">
-Falsely claimed</a> Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like Bank of America, Wells Fargo, Citigroup and US Bank operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.</li>
+  <li><a href="https://www.cnn.com/2025/03/04/politics/fact-check-trump-repeats-false-claim-that-canada-prohibits-us-banks/index.html">
+Falsely claimed</a> Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like
+<a href="https://newsroom.bankofamerica.com/content/newsroom/press-releases/2023/08/bofa-launches-global-digital-disbursements-in-canada-via-interac.html">Bank of America</a>, <a href="https://www.wellsfargo.com/cib/global-services/canada/">Wells Fargo</a>, <a href="https://www.citigroup.com/global/about-us/global-presence/canada">Citigroup</a> and 
+<a href="https://www.usbankcanada.com/en/index.html">
+US Bank</a> operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Environment and energy</h3>
