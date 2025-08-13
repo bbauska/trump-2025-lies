@@ -247,35 +247,39 @@ of these 100 claims over and over again).
 	country had been announced yet, “I’ve made 200 deals.” He simply had not done so, and his supposed 
 	explanation for this assertion – “The deal is a deal that I choose…We are a department store, and 
 	we set the price” – did not substantiate it.</li>
-
   <li><a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
-Falsely claimed</a>, while touting the supposed benefits of tariffs, that Honda “just announced” it is building “a really big plant in Indiana.” Honda subsequently told CNN: “Honda did not announce plans for a new plant in the U.S. at this time.” Reuters, citing anonymous sources, had 
-<a href="https://www.reuters.com/business/autos-transportation/honda-produce-next-civic-indiana-not-mexico-due-us-tariffs-sources-say-2025-03-03/">
-reported</a> that Honda was planning to build its next-generation Civic hybrid in Indiana rather than Mexico as originally planned, but the report did not say Honda was building a new factory.</li>
-
+    Falsely claimed</a>, while touting the supposed benefits of tariffs, that Honda “just announced” it 
+	is building “a really big plant in Indiana.” Honda subsequently told CNN: “Honda did not announce 
+	plans for a new plant in the U.S. at this time.” Reuters, citing anonymous sources, had 
+	<a href="https://www.reuters.com/business/autos-transportation/honda-produce-next-civic-indiana-not-mexico-due-us-tariffs-sources-say-2025-03-03/">reported</a> that Honda was planning to build its next-generation Civic hybrid in Indiana 
+	rather than Mexico as originally planned, but the report did not say Honda was building a new 
+	factory.</li>
   <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
-Falsely claimed</a> “the United States was proportionately the wealthiest it has ever been” from 1789 to 1913, when tariffs made up a higher percentage of federal revenue, 
-<a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#119">
-and that 1870 to 1913</a>, before the reintroduction of the federal income tax, was “the richest period in the history of the United States, relatively speaking.” Trump didn’t explain what he meant by “proportionately the wealthiest” or “the richest…relatively speaking,” but economists say that by any standard measure, the US is far wealthier today than it was in the early 20th century and prior; per capita gross domestic product 
-<a href="https://www.latimes.com/business/story/2024-10-01/column-trumps-glorification-of-the-1890s-in-america-displays-his-dangerous-ignorance-of-economics-and-history">
-is  now many times higher than it was then</a>.</li>
-
+    Falsely claimed</a> “the United States was proportionately the wealthiest it has ever been” from 
+	1789 to 1913, when tariffs made up a higher percentage of federal revenue, <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#119">
+	and that 1870 to 1913</a>, before the reintroduction of the federal income tax, was “the 
+	richest period in the history of the United States, relatively speaking.” Trump didn’t 
+	explain what he meant by “proportionately the wealthiest” or “the richest…relatively 
+	speaking,” but economists say that by any standard measure, the US is far wealthier 
+	today than it was in the early 20th century and prior; per capita gross domestic product 
+	<a href="https://www.latimes.com/business/story/2024-10-01/column-trumps-glorification-of-the-1890s-in-america-displays-his-dangerous-ignorance-of-economics-and-history">
+	is  now many times higher than it was then</a>.</li>
   <li><a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
-Falsely claimed</a> he signed “the largest tax cut in history” during his first presidency. Expert analyses have 
-<a href="https://www.cnn.com/2024/08/13/politics/fact-check-trump-musk-20-false-claims/index.html">
-found  his 2017 tax cut law</a> was not the largest in US history, either in percentage of gross domestic product or in inflation-adjusted dollars.</li>
+    Falsely claimed</a> he signed “the largest tax cut in history” during his first 
+	presidency. Expert analyses have <a href="https://www.cnn.com/2024/08/13/politics/fact-check-trump-musk-20-false-claims/index.html">
+	found  his 2017 tax cut law</a> was not the largest in US history, either in 
+	percentage of gross domestic product or in inflation-adjusted dollars.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Ukraine and Russia</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="15">
-    <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
-Falsely claimed</a> Ukraine started the war with Russia, saying, “You should’ve never started it. You could’ve made a deal.” Russia started the war, 
-<a href="https://www.cnn.com/2014/03/18/world/europe/ukraine-crisis/index.html">
-annexing Ukraine’s Crimea region in 2014</a> and then 
-<a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-invasion-thursday-intl/index.html">
-launching a full-scale invasion in 2022</a>.</li>
-
+  <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+    Falsely claimed</a> Ukraine started the war with Russia, saying, “You should’ve never started 
+	it. You could’ve made a deal.” Russia started the war, <a href="https://www.cnn.com/2014/03/18/world/europe/ukraine-crisis/index.html">
+	annexing Ukraine’s Crimea region in 2014</a> and then 
+	<a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-invasion-thursday-intl/index.html">
+	launching a full-scale invasion in 2022</a>.</li>
   <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
 Falsely claimed</a> the US had provided “$350 billion” in wartime aid to Ukraine. There is no basis for this figure. 
 <a href="https://www.ifw-kiel.de/publications/ukraine-support-tracker-data-20758/">
@@ -840,7 +844,10 @@ to oil industry billionaires at the expense of one of the wildest places left in
 
 – June 2, 2025 – David Richardson, the acting head of FEMA, told employees that he did 
 not know the United States had a hurricane season. “Yesterday, as everybody knows, was 
-the first day of hurricane season,” he said. “I didn’t realize it was a season.” FEMA staff were unclear if Richardson was serious or making a joke. The DHS, which oversees FEMA, stated in a press release that Mr. Richardson was joking. Before heading FEMA, Richardson worked in the DHS’s Countering Weapons of Mass Destruction Office.
+the first day of hurricane season,” he said. “I didn’t realize it was a season.” FEMA 
+staff were unclear if Richardson was serious or making a joke. The DHS, which oversees 
+FEMA, stated in a press release that Mr. Richardson was joking. Before heading FEMA, 
+Richardson worked in the DHS’s Countering Weapons of Mass Destruction Office.
 
 – June 3, 2025 – Former DOGE director Elon Musk blasted President Trump’s “Big Beautiful 
 Bill” of tax cuts and spending plans just days after departing the administration. Musk 
@@ -1327,20 +1334,20 @@ Trump’s first term
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Donald Trump Lest We Forget</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, 
-Corruptions, and Crimes
+<h4>Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, 
+Corruptions, and Crimes</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-May 2025: Atrocities 207-272
-by Emily Greenberg and Cliff Mayotte
+<h5>May 2025: Atrocities 207-272</h5>
+<h6>by Emily Greenberg and Cliff Mayotte</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Early in President Trump’s first term, McSweeney’s editors began to catalog the head-
+<p>Early in President Trump’s first term, McSweeney’s editors began to catalog the head-
 spinning number of misdeeds coming from his administration. We called this list a 
 collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent 
 to track them, to ensure these horrors—happening almost daily—would not be forgotten. 
 Now that Trump has returned to office, amid civil rights, humanitarian, economic, and 
 constitutional crises, we felt it critical to make an inventory of this new round of 
 horrors. This list will be updated monthly between now and the end of Donald Trump’s 
-second term.
+second term.</p>
 
 - - -
 
@@ -1512,29 +1519,123 @@ honest, we need that for national and international security.”
 <h3>Carney says Canada “not for sale” after Trump pushes 51st state in Oval Office meeting. (ABC)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– May 7, 2025 – The Trump administration announced plans to deport migrants without legal status to Libya, a country plagued by violence. Human rights groups have called Libya’s migrant detention centers “horrific” and “deplorable.” The move was meant to communicate to those in the country illegally that they could be deported to countries with dangerous living conditions. US District Court Judge Brian Murphy said the proposed plan violated his court order that barred officials from deporting migrants to countries other than their own without first weighing whether they risk persecution or torture if sent there. The US State Department has warned against traveling to Libya “due to crime, terrorism, unexploded land mines, civil unrest, kidnapping, and armed conflict.”
+– May 7, 2025 – The Trump administration announced plans to deport migrants without legal 
+status to Libya, a country plagued by violence. Human rights groups have called Libya’s 
+migrant detention centers “horrific” and “deplorable.” The move was meant to communicate 
+to those in the country illegally that they could be deported to countries with dangerous 
+living conditions. US District Court Judge Brian Murphy said the proposed plan violated 
+his court order that barred officials from deporting migrants to countries other than 
+their own without first weighing whether they risk persecution or torture if sent there. 
+The US State Department has warned against traveling to Libya “due to crime, terrorism, 
+unexploded land mines, civil unrest, kidnapping, and armed conflict.”
 
-– May 8, 2025 – Trump’s tariff wars began to impact thousands of working-class and middle-class Americans. Sandy Alonso needed a new wheelchair. “It’s ten years old. Pieces are starting to break.” She wanted to replace the model she already had, which was made in China. It was light enough to load into her car herself. When she ordered her new chair, she discovered she would have to pay a 20 percent tariff fee. Before receiving her chair, Trump imposed more tariffs, and by the time the wheelchair arrived in Canada via China and crossed the border into the US, Alonso faced a steeper tariff of 145 percent. The total cost of her wheelchair was close to $6,000, of which nearly $3,500 was for tariffs alone.
+– May 8, 2025 – Trump’s tariff wars began to impact thousands of working-class and middle-
+class Americans. Sandy Alonso needed a new wheelchair. “It’s ten years old. Pieces are 
+starting to break.” She wanted to replace the model she already had, which was made in 
+China. It was light enough to load into her car herself. When she ordered her new chair, 
+she discovered she would have to pay a 20 percent tariff fee. Before receiving her chair, 
+Trump imposed more tariffs, and by the time the wheelchair arrived in Canada via China 
+and crossed the border into the US, Alonso faced a steeper tariff of 145 percent. The 
+total cost of her wheelchair was close to $6,000, of which nearly $3,500 was for 
+tariffs alone.
 
-– May 9, 2025 – White House Deputy Chief of Staff Stephen Miller said that the Trump administration was “actively looking at” suspending habeas corpus, the right of a person to challenge their detention in court. Miller told reporters. “[Trump] said, ‘The Constitution is clear,’ stating that habeas corpus, ‘could be suspended in time of invasion.’” Article I of the Constitution says habeas corpus “shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.” Stephen I. Vladeck, a law professor at Georgetown University, said that direction “is almost universally understood to authorize only Congress to suspend habeas corpus … The only reason why they would do this is because they’re losing in court.”
+– May 9, 2025 – White House Deputy Chief of Staff Stephen Miller said that the Trump 
+administration was “actively looking at” suspending habeas corpus, the right of a person 
+to challenge their detention in court. Miller told reporters. “[Trump] said, ‘The 
+Constitution is clear,’ stating that habeas corpus, ‘could be suspended in time of 
+invasion.’” Article I of the Constitution says habeas corpus “shall not be suspended, 
+unless when in cases of rebellion or invasion the public safety may require it.” 
+Stephen I. Vladeck, a law professor at Georgetown University, said that direction 
+“is almost universally understood to authorize only Congress to suspend habeas corpus … 
+The only reason why they would do this is because they’re losing in court.”
 
-– May 10, 2025 – Trump ordered the US Department of Homeland Security (DHS) to add at least 20,000 officers to enforce his deportation policies. He called on the department to begin “deputizing and contracting with state and local law enforcement officers, former federal officers, officers and personnel within other federal agencies, and other individuals.” In the preceding weeks, the DHS increased their raids in major cities, arresting international students and allowing officers more freedom where they make arrests, most recently in courthouses. The president’s order did not specify how the increase in staffing at the DHS would be funded. The proposed expansion comes as Trump is slashing federal government jobs in an attempt to downsize several government agencies and “eliminate waste.” A federal judge issued an emergency order, blocking further layoffs for at least two weeks.
+– May 10, 2025 – Trump ordered the US Department of Homeland Security (DHS) to add at 
+least 20,000 officers to enforce his deportation policies. He called on the department 
+to begin “deputizing and contracting with state and local law enforcement officers, 
+former federal officers, officers and personnel within other federal agencies, and 
+other individuals.” In the preceding weeks, the DHS increased their raids in major 
+cities, arresting international students and allowing officers more freedom where 
+they make arrests, most recently in courthouses. The president’s order did not specify 
+how the increase in staffing at the DHS would be funded. The proposed expansion comes as 
+Trump is slashing federal government jobs in an attempt to downsize several government 
+agencies and “eliminate waste.” A federal judge issued an emergency order, blocking 
+further layoffs for at least two weeks.
 
-– May 11, 2025 – ABC reported that President Trump planned to accept a $400 million luxury jet from the Qatari royal family to replace Air Force One and that he planned to continue using the jet after his presidency. Democrats quickly criticized Trump’s plan as a “grift” with Senate Minority Leader Chuck Schumer adding, “It’s not just bribery, it’s premium foreign influence with extra legroom.” Trump quickly responded on social media, “So the fact that the Defense Department is getting a GIFT, FREE OF CHARGE, of a 747 aircraft to replace the 40-year-old Air Force One, temporarily, in a very public and transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP DOLLAR, for the plane. Anybody can do that! The Dems are World Class Losers!!! MAGA.” He later added that only a “stupid” person would turn down such an offer. Security and defense officials noted that the plane would also pose significant security problems, and even right-wing media stars criticized the move. “President Trump promised to drain the swamp,” said conservative podcaster Ben Shapiro. “This is not, in fact, draining the swamp.”
+– May 11, 2025 – ABC reported that President Trump planned to accept a $400 million 
+luxury jet from the Qatari royal family to replace Air Force One and that he planned to 
+continue using the jet after his presidency. Democrats quickly criticized Trump’s plan as 
+a “grift” with Senate Minority Leader Chuck Schumer adding, “It’s not just bribery, it’s 
+premium foreign influence with extra legroom.” Trump quickly responded on social media, 
+“So the fact that the Defense Department is getting a GIFT, FREE OF CHARGE, of a 747 
+aircraft to replace the 40-year-old Air Force One, temporarily, in a very public and 
+transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP 
+DOLLAR, for the plane. Anybody can do that! The Dems are World Class Losers!!! MAGA.” He 
+later added that only a “stupid” person would turn down such an offer. Security and 
+defense officials noted that the plane would also pose significant security problems, and 
+even right-wing media stars criticized the move. “President Trump promised to drain the 
+swamp,” said conservative podcaster Ben Shapiro. “This is not, in fact, draining the 
+swamp.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trump says only a “stupid person” would refuse Qatar’s gift of a New Air Force One jet. (Global News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– May 12, 2025 – The Trump administration announced a $1.4 million weapons sale to the United Arab Emirates, which included $1.3 billion for Chinook helicopters and $130 million for parts and support for F-16 fighter jets. Earlier in the year, Democratic Senator Chris Van Hollen and Representative Sara Jacobs criticized the UAE for providing weapons to the Rapid Support Forces, which the US has charged with genocide, war crimes, and ethnic cleansing in Sudan. “It is imperative that the United States not provide weapons to countries that are, in turn, providing military support to the RSF and complicit in its genocidal actions,” Van Hollen said.
+– May 12, 2025 – The Trump administration announced a $1.4 million weapons sale to the 
+United Arab Emirates, which included $1.3 billion for Chinook helicopters and $130 
+million for parts and support for F-16 fighter jets. Earlier in the year, Democratic 
+Senator Chris Van Hollen and Representative Sara Jacobs criticized the UAE for 
+providing weapons to the Rapid Support Forces, which the US has charged with genocide, 
+war crimes, and ethnic cleansing in Sudan. “It is imperative that the United States 
+not provide weapons to countries that are, in turn, providing military support to 
+the RSF and complicit in its genocidal actions,” Van Hollen said.
 
-– May 12, 2025 – President Trump named Todd Blanche, his former defense attorney and the current deputy attorney general, as the acting Librarian of Congress. The previous Librarian of Congress, Carla Hayden, was abruptly fired on May 8 after conservative groups accused her of promoting “wokeness.” The first woman and first Black Librarian of Congress, Hayden had served in the role since 2016. Blanche has never worked in a library or archive.
+– May 12, 2025 – President Trump named Todd Blanche, his former defense attorney and the 
+current deputy attorney general, as the acting Librarian of Congress. The previous 
+Librarian of Congress, Carla Hayden, was abruptly fired on May 8 after conservative 
+groups accused her of promoting “wokeness.” The first woman and first Black Librarian of 
+Congress, Hayden had served in the role since 2016. Blanche has never worked in a 
+library or archive.
 
-– May 12, 2025 – The Department of Homeland Security announced that it would end temporary protected status for Afghans in the US, putting more than nine thousand people at risk for deportation. After the withdrawal of US troops in Afghanistan, the Biden administration, recognizing worsening conditions under the Taliban, offered temporary protected status to Afghans in the US because it was not safe for them to return to their home country. “Afghanistan has had an improved security situation, and its stabilizing economy no longer prevent [sic] them from returning to their home country,” said DHS Secretary Kristi Noem. However, many resettlement advocacy groups disputed Noem’s claims. “The decision to terminate TPS for Afghanistan is not rooted in reality—it’s rooted in politics. Afghanistan remains under the control of the Taliban. There is no functioning asylum system. There are still assassinations, arbitrary arrests and ongoing human rights abuses, especially against women and ethnic minorities,” said Shawn VanDiver, president of #AfghanEvac. “What the administration has done today is betray people who risked their lives for America, built lives here, and believed in our promises.”
+– May 12, 2025 – The Department of Homeland Security announced that it would end 
+temporary protected status for Afghans in the US, putting more than nine thousand 
+people at risk for deportation. After the withdrawal of US troops in Afghanistan, 
+the Biden administration, recognizing worsening conditions under the Taliban, offered 
+temporary protected status to Afghans in the US because it was not safe for them to 
+return to their home country. “Afghanistan has had an improved security situation, and 
+its stabilizing economy no longer prevent [sic] them from returning to their home 
+country,” said DHS Secretary Kristi Noem. However, many resettlement advocacy groups 
+disputed Noem’s claims. “The decision to terminate TPS for Afghanistan is not rooted 
+in reality—it’s rooted in politics. Afghanistan remains under the control of the Taliban. 
+There is no functioning asylum system. There are still assassinations, arbitrary arrests 
+and ongoing human rights abuses, especially against women and ethnic minorities,” said 
+Shawn VanDiver, president of #AfghanEvac. “What the administration has done today is 
+betray people who risked their lives for America, built lives here, and believed in 
+our promises.”
 
-– May 12, 2025 – The first white South Africans granted refugee status by the Trump administration arrived in the US, their pathway expedited by an executive order signed in February even as other refugee admission programs were halted on the first day of Trump’s presidency. The South African refugees, who claim they have faced racial discrimination and violence in South Africa, are Afrikaners, the white ethnic minority descended from European colonizers who created South Africa’s apartheid system in 1948. While most refugee applications take years to approve, the Trump administration approved the Afrikaners’ applications in under three months. “White farmers are being brutally killed, and the land is being confiscated in South Africa,” said Trump, claiming that there was a “genocide that’s taking place.” South African police data does not support Trump’s claims, and his characterization has been strongly disputed by South Africa’s government, experts, and even the Afrikaner group AfriForum.
+– May 12, 2025 – The first white South Africans granted refugee status by the Trump 
+administration arrived in the US, their pathway expedited by an executive order signed in 
+February even as other refugee admission programs were halted on the first day of Trump’s
+presidency. The South African refugees, who claim they have faced racial discrimination 
+and violence in South Africa, are Afrikaners, the white ethnic minority descended from 
+European colonizers who created South Africa’s apartheid system in 1948. While most 
+refugee applications take years to approve, the Trump administration approved the 
+Afrikaners’ applications in under three months. “White farmers are being brutally killed, 
+and the land is being confiscated in South Africa,” said Trump, claiming that there was 
+a “genocide that’s taking place.” South African police data does not support Trump’s 
+claims, and his characterization has been strongly disputed by South Africa’s 
+government, experts, and even the Afrikaner group AfriForum.
 
-– May 13, 2025 – The Trump administration unveiled a massive $4.9 trillion tax plan with cuts to Medicaid, food stamps, and green energy programs. Named “THE ONE, BIG, BEAUTIFUL BILL,” it also included a new tax on private university endowments, a new requirement aimed at preventing the US citizen children of undocumented immigrants from receiving the child tax credit, and a provision terminating tax-exempt status for groups the State Department says support “terrorists,” which some warn could allow the Trump administration to punish groups it opposes. The bipartisan Joint Committee on Taxation stated that tax breaks would reduce revenue by $4.9 trillion over the next ten years, without even factoring in the new tax breaks; the nonpartisan Congressional Budget Office further estimated that the bill would cause 8.6 million people to lose their health care.
+– May 13, 2025 – The Trump administration unveiled a massive $4.9 trillion tax plan with 
+cuts to Medicaid, food stamps, and green energy programs. Named “THE ONE, BIG, BEAUTIFUL 
+BILL,” it also included a new tax on private university endowments, a new requirement 
+aimed at preventing the US citizen children of undocumented immigrants from receiving 
+the child tax credit, and a provision terminating tax-exempt status for groups the 
+State Department says support “terrorists,” which some warn could allow the Trump 
+administration to punish groups it opposes. The bipartisan Joint Committee on Taxation 
+stated that tax breaks would reduce revenue by $4.9 trillion over the next ten years, 
+without even factoring in the new tax breaks; the nonpartisan Congressional Budget 
+Office further estimated that the bill would cause 8.6 million people to lose their 
+health care.
 
 – May 13, 2025 – President Trump began the first major international trip of his second term with intended stops in Saudi Arabia, Qatar, and the United Arab Emirates—all countries where the Trump Organization holds significant business interests. Throughout the week, Trump brushed off concerns about mixing personal business with political policy, telling reporters he didn’t know how a UAE firm had struck a deal with the Trump family company’s digital coin and sidestepping questions about the luxury jet Qatar had offered him. At a White House press briefing later in the week, Press Secretary Karoline Leavitt added, “It’s frankly ridiculous that anyone in this room would even suggest that President Trump is doing anything for his own benefit. This White House holds ourselves to the highest ethical standards.” However, according to CNN, the Trump family’s business ties with the Middle East have more than tripled since Trump’s first term in office. Government ethicists and watchdogs have warned that foreign governments may use business deals to try to influence Trump’s policy decisions. While US presidents typically divest their businesses or put them in blind trusts, Trump has instead allowed his children to manage his assets. Though the Trump Organization pledged to make no new deals with foreign governments during Trump’s term, the business recently announced a deal for a golf course in Qatar with a firm backed by Qatar’s sovereign wealth fund, Qatari Diar.
 
@@ -1707,7 +1808,20 @@ APRIL 2025
 
 – April 4, 2025 – As President Trump golfed in Florida, over 1,400 anti-Trump “Hands Off Rallies” involving an estimated one million people took place across all fifty states. The organizers called for “an end to the billionaire takeover and rampant corruption of the Trump administration”; “an end to slashing federal funds for Medicaid, Social Security, and other programs working people rely on”; and “an end to the attacks on immigrants, trans people, and other communities.” In response, the White House released a statement defending the president and attacking Democrats: “President Trump’s position is clear: he will always protect Social Security, Medicare, and Medicaid for eligible beneficiaries. Meanwhile, the Democrats’ stance is giving Social Security, Medicaid, and Medicare benefits to illegal aliens, which will bankrupt these programs and crush American seniors.” In a segment that aired two days later on Fox News, White House Press Secretary Karoline Leavitt also referred to the protesters as “far-left lunatics” and called Democrats the “party of crazy.”
 
-– April 4, 2025 – An unvaccinated eight-year-old Texas girl with no underlying health conditions died from measles. Following the death of another unvaccinated Texas child with no underlying health conditions on February 25, it was the second such US death since 2015 and the second such US death of a child since 2003. Another unvaccinated person died on March 6 after testing positive for measles, though officials have not yet confirmed the cause of death. As of April 6, 480 measles cases were reported in West Texas, 54 in New Mexico, and 10 in Oklahoma. In an opinion essay for Fox News that was published in early March, Secretary of Health and Human Services Robert Kennedy Jr., a known vaccine skeptic, stopped short of explicitly recommending universal MMR vaccination, calling the decision to vaccinate a “personal” choice. He also advocated for vitamin A treatment, which experts have recommended against using in most measles cases. More recently, Kennedy emphasized untested measles treatments like cod liver oil and hired a discredited vaccine skeptic to research long-debunked links between vaccines and autism.
+– April 4, 2025 – An unvaccinated eight-year-old Texas girl with no underlying health 
+conditions died from measles. Following the death of another unvaccinated Texas child 
+with no underlying health conditions on February 25, it was the second such US death 
+since 2015 and the second such US death of a child since 2003. Another unvaccinated 
+person died on March 6 after testing positive for measles, though officials have not 
+yet confirmed the cause of death. As of April 6, 480 measles cases were reported in 
+West Texas, 54 in New Mexico, and 10 in Oklahoma. In an opinion essay for Fox News 
+that was published in early March, Secretary of Health and Human Services Robert 
+Kennedy Jr., a known vaccine skeptic, stopped short of explicitly recommending 
+universal MMR vaccination, calling the decision to vaccinate a “personal” choice. He 
+also advocated for vitamin A treatment, which experts have recommended against using 
+in most measles cases. More recently, Kennedy emphasized untested measles treatments 
+like cod liver oil and hired a discredited vaccine skeptic to research long-debunked 
+links between vaccines and autism.
 
 – April 4, 2025 – Erez Reuveni, a Justice Department lawyer who expressed frustration with the government’s deportation of Kilmar Abrego Garcia, was placed on indefinite leave. Garcia, a Maryland man with protected legal status, was deported in March due to what the government has described as an “administrative error.” In court, Reuveni said that Abrego Garcia “should not have been removed” and added that he did not know why Abrego Garcia was arrested. “I am also frustrated that I have no answers for you on a lot of these questions,” said Reuveni. When asked why the government couldn’t bring Abrego Garcia back, Reuveni responded, “I will say for the court’s awareness that when this case landed on my desk, the first thing I did was ask my client the same question. I have not yet received a satisfactory answer.”
 
@@ -1753,7 +1867,8 @@ APRIL 2025
 <h3>President Trump hosts El Salvador President Bukele at the White House. (Fox News)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– April 14, 2025 – The Trump administration froze over $2 billion in grants to Harvard University after the school announced it would not comply with the federal government’s demands. In March, Trump’s antisemitism task force placed $9 billion, most of it dedicated to health research and hospital funding, on hold while they investigated the nation’s oldest university’s efforts to stop antisemitism on campus and reviewed its policies around student and faculty protests. On April 11, members of the task force sent a letter to Harvard saying it must change its admissions and hiring policies, as well as end all its DEI programs. In an open letter, Harvard’s president, Alan Garber explained why the school would not agree to the Trump administatrion’s orders, “No government—regardless of which party is in power—should dictate what private universities can teach, whom they can admit and hire, and which areas of study and inquiry they can pursue.” Republican congresswoman Elise Stefanik released a statement, condemning her alma mater’s decision. “Harvard University has rightfully earned its place as the epitome of the moral and academic rot in higher education,” she wrote. “It is time to totally cut off U.S. taxpayer funding to this institution that has failed to live up to its founding motto, Veritas.” The money pulled back by the government was to be used for research on HIV, tuberculosis, and traumatic brain injuries.
+– April 14, 2025 – The Trump administration froze over $2 billion in grants to Harvard University after the school announced it would not comply with the federal government’s demands. In March, Trump’s antisemitism task force placed $9 billion, most of it dedicated to health research and hospital funding, on hold while they investigated the nation’s oldest university’s efforts to stop antisemitism on campus and reviewed its policies around student and faculty protests. On April 11, members of the task force sent a letter to Harvard saying it must change its admissions and hiring policies, as well as end all its DEI programs. 
+In an open letter, Harvard’s president, Alan Garber explained why the school would not agree to the Trump administatrion’s orders, “No government—regardless of which party is in power—should dictate what private universities can teach, whom they can admit and hire, and which areas of study and inquiry they can pursue.” Republican congresswoman Elise Stefanik released a statement, condemning her alma mater’s decision. “Harvard University has rightfully earned its place as the epitome of the moral and academic rot in higher education,” she wrote. “It is time to totally cut off U.S. taxpayer funding to this institution that has failed to live up to its founding motto, Veritas.” The money pulled back by the government was to be used for research on HIV, tuberculosis, and traumatic brain injuries.
 
 – April 14, 2025 – During an Oval Office meeting with Salvadoran President Nayib Bukele, President Trump expressed enthusiasm yet again for deporting US citizens convicted of violent crimes to El Salvador. “Homegrown criminals are next. I said homegrowns are next, the homegrowns. You’ve gotta build about five more places,” Trump told Bukele, in an exchange that was livestreamed. Speaking to reporters, Trump said, “We always have to obey the laws, but we also have homegrown criminals that push people into subways, that hit elderly ladies on the back of the head with a baseball bat when they’re not looking, that are absolute monsters. I’d like to include them in the group of people to get them out of the country.” Although Trump said that Attorney General Pam Bondi was studying the matter, legal experts said there was nothing to look into: “It is pretty obviously illegal and unconstitutional,” said Ilya Somin, a professor at George Mason University’s Antonin Scalia Law School.
 
@@ -1763,9 +1878,24 @@ APRIL 2025
 
 – April 14, 2025 – Stephen Miller, US Homeland Security advisor and White House deputy chief of staff, contradicted Department of Justice documents acknowledging that the Trump administration had made “an administrative error” in deporting Kilmar Abrego Garcia, who had protected legal status, to El Salvador. “Nobody was mistakenly deported anywhere,” Miller told reporters outside the White House. “That’s a big mistake that all of you, most of you, have gotten wrong. No one was mistakenly sent anywhere. The only mistake that was made is a lawyer put an incorrect line in a legal filing that’s since been relieved… [Abrego Garcia] is El Salvadorian. He is an illegal alien. He was deported to El Salvador.” On Fox News, Miller doubled down, arguing that Abrego Garcia was not mistakenly deported and stating without evidence that he was a member of MS-13. Mr. Abrego Garcia has denied being a member of any gang, and he has not been convicted of any crime.
 
-– April 14, 2025 – State Department official Pete Marocco, who oversaw the dismantling of USAID, stepped down after less than three months on the job. Marocco, who fired thousands of USAID staffers and supported plans to cancel 83 percent of USAID programs, had previously described USAID as “a money laundering scheme” and accused the agency of advancing LGBTQ causes in developing countries and antiauthoritarian movements in former Soviet states. Senior USAID officials previously warned Trump administration officials that the closure of USAID would result in hundreds of thousands of deaths.
+– April 14, 2025 – State Department official Pete Marocco, who oversaw the dismantling of USAID, stepped down afterless than three months on the job. Marocco, who fired thousands of USAID staffers and supported plans to cancel 83 percent of USAID programs, had previously described USAID as “a money laundering scheme” and accused the agency of advancing LGBTQ causes in developing countries and antiauthoritarian movements in former Soviet states. Senior USAID officials previously warned Trump administration officials that the closure of USAID would result in hundreds of thousands of deaths.
 
-– April 14, 2025 – Mohsen Mahdawi, a legal permanent resident, was arrested by immigration officials after arriving for an appointment to take his citizenship test, the final step in the process of becoming a citizen. A Palestinian student at Columbia University who has lived in the US for ten years, Mahdawi participated in pro-Palestinian demonstrations at Columbia, though he stepped back from organizing in March 2024. In a memo, Secretary of State Marco Rubio accused Mahdawi—without evidence—of undermining the Middle East peace process by reinforcing antisemitic sentiment, stating that Mahdawi had “engaged in threatening rhetoric and intimidation of pro-Israeli bystanders.” However, statements from Mahdawi’s friends and Mahdawi’s own previous statements contradict Rubio’s assertions. “[Mahdawi’s] willingness to actually hear and actively learn and understand the Israeli experience—I mean, I’ve never met anyone who so quickly was willing to take feedback,” said Mikey Baratz, an Israeli who recently graduated from Columbia. In a December 2023 interview about his childhood experience seeing his friend killed by an Israeli soldier, Mahdawi said he wanted a peaceful end to the Israeli-Palestinian conflict: “My motivation comes out of love now, not out of anger, not out of hate.”
+– April 14, 2025 – Mohsen Mahdawi, a legal permanent resident, was arrested by immigration 
+officials after arriving for an appointment to take his citizenship test, the final step in 
+the process of becoming a citizen. A Palestinian student at Columbia University who has 
+lived in the US for ten years, Mahdawi participated in pro-Palestinian demonstrations at 
+Columbia, though he stepped back from organizing in March 2024. In a memo, Secretary of 
+State Marco Rubio accused Mahdawi—without evidence—of undermining the Middle East peace 
+process by reinforcing antisemitic sentiment, stating that Mahdawi had “engaged in 
+threatening rhetoric and intimidation of pro-Israeli bystanders.” 
+However, statements from Mahdawi’s friends and Mahdawi’s own previous statements 
+contradict Rubio’s assertions. “[Mahdawi’s] willingness to actually hear and actively 
+learn and understand the Israeli experience—I mean, I’ve never met anyone who so 
+quickly was willing to take feedback,” said Mikey Baratz, an Israeli who recently 
+graduated from Columbia. In a December 2023 interview about his childhood experience 
+seeing his friend killed by an Israeli soldier, Mahdawi said he wanted a peaceful 
+end to the Israeli-Palestinian conflict: “My motivation comes out of love now, not 
+out of anger, not out of hate.”
 
 – April 15, 2025 – In an interview on Fox News, border czar Tom Homan said he would deport Kilmar Abrego Garcia again if he were returned to the US, openly defying court orders. “Now, if somehow he comes back and that happens, he’s going to be detained and removed again. He’s an MS-13 gang member based on our intelligence and El Salvador’s intelligence,” said Homan without providing details or evidence to support his claims. Abrego Garcia, who has protected legal status, was mistakenly deported to El Salvador in March in what the Trump administration has admitted was “an administrative error.” The Supreme Court ordered the Trump administration to “facilitate” Abrego’s return, but so far, little has been done.
 
@@ -1781,7 +1911,8 @@ APRIL 2025
 
 – April 17, 2025 – Following a deadly shooting at Florida State University that left two dead and six injured, President Trump said he would not support stricter gun control measures. “These things are terrible. But the gun doesn’t do the shooting, the people do,” Trump told reporters. “I have an obligation to protect the Second Amendment. I ran on the Second Amendment, among many other things, and I will always protect the Second Amendment.” One FSU student who survived the shooting, Robbie Alhadeff, previously lost his sister Alyssa in the 2018 Parkland High School massacre. “A lot of the people I’m friends with are from Parkland, and a lot of them go to FSU. This is the second time it’s happened—and no one I know wants to go back to school,” said Alhadeff. In February, Trump signed an executive order directing the attorney general to withdraw several Biden administration gun regulations.
 
-– April 17, 2025 – During an Oval Office meeting with Italian Prime Minister Giorgia Meloni, President Trump told reporters that he had the power to remove Federal Reserve Chair Jerome Powell, who had recently warned that Trump’s tariffs would likely lead to significant economic damage. “Oh, he’ll leave. If I ask him to, he’ll be out of there,” Trump said. “I don’t think he’s doing the job. He’s too late, always too late. Little slow, and I’m not happy with him. I let him know it, and if I want him out, he’ll be out of there real fast.” Earlier in the day, Trump had criticized Powell and called for his removal in a social media post riddled with inaccurate and misleading information: “The ECB is expected to cut interest rates for the 7th time, and yet, ‘Too Late’ Jerome Powell of the Fed, who is always TOO LATE AND WRONG, yesterday issued a report which was another, and typical, complete ‘mess!’ Oil prices are down, groceries (even eggs!) are down, and the USA is getting RICH ON TARIFFS. Too Late should have lowered Interest Rates, like the ECB, long ago, but he should certainly lower them now. Powell’s termination cannot come fast enough!” No Federal Reserve chair has ever been fired by a president, and the Federal Reserve Act states that board members may only be removed “for cause,” which has historically been interpreted as misconduct or incapacity.
+– April 17, 2025 – During an Oval Office meeting with Italian Prime Minister Giorgia Meloni, President Trump told reporters that he had the power to remove Federal Reserve Chair Jerome Powell, who had recently warned that Trump’s tariffs would likely lead to significant economic damage. “Oh, he’ll leave. If I ask him to, he’ll be out of there,” Trump said. “I don’t think he’s doing the job. He’s too late, always too late. Little slow, and I’m not happy with him. I let him know it, and if I want him out, he’ll be out of there real fast.” 
+Earlier in the day, Trump had criticized Powell and called for his removal in a social media post riddled with inaccurate and misleading information: “The ECB is expected to cut interest rates for the 7th time, and yet, ‘Too Late’ Jerome Powell of the Fed, who is always TOO LATE AND WRONG, yesterday issued a report which was another, and typical, complete ‘mess!’ Oil prices are down, groceries (even eggs!) are down, and the USA is getting RICH ON TARIFFS. Too Late should have lowered Interest Rates, like the ECB, long ago, but he should certainly lower them now. Powell’s termination cannot come fast enough!” No Federal Reserve chair has ever been fired by a president, and the Federal Reserve Act states that board members may only be removed “for cause,” which has historically been interpreted as misconduct or incapacity.
 
 – April 17, 2025 – At the direction of DOGE, three-quarters of AmeriCorps staff members were placed on administrative leave. Established in 1993 under a different name, AmeriCorps was designed as a domestic version of the Peace Corps. Its young volunteers work on community service projects related to disaster services, environmental stewardship, education, and veterans’ affairs, among others. The layoffs included employees who work for a national disaster response program and may affect work in areas impacted by Hurricane Helene. The following day, California Governor Gavin Newsom decried the layoffs and announced that California would sue to stop the dismantling of AmeriCorps: “We’ve gone from the New Deal, the New Frontier, and the Great Society to a federal government that gives a middle finger to volunteers serving their fellow Americans.”
 
@@ -1791,7 +1922,8 @@ APRIL 2025
 
 – April 18, 2025 – Escalating its crackdown on Harvard University, the Trump administration accused Harvard of failing to report large foreign donations. In a letter to the university’s president, the Department of Education demanded that Harvard provide a list of all foreign donors, turn over all records of foreign donor communication dating back to 2020, and provide details on foreigners who had spent time at Harvard, dating back to 2010. “Today’s records request is the Trump administration’s first step to ensure Harvard is not being manipulated by, or doing the bidding of, foreign entities,” Education Secretary Linda McMahon said, without providing any evidence to support her department’s accusations against Harvard. Pushing back against the accusations, Harvard responded that it had filed such reports for decades “as part of its ongoing compliance with the law”:https://www.wsj.com/us-news/education/trump-demands-harvards-foreign-funding-records-acc11947 “As is required, Harvard’s reports include information on gifts and contracts from foreign sources exceeding $250K annually. This includes contracts to provide executive education, other training, and academic publications.”
 
-– April 19, 2025 – Vice President JD Vance attempted to airbrush his meeting with Vatican officials after Pope Francis did not attend, instead sending his deputy, Cardinal Pietro Parolin, to reportedly lecture Vance about compassion. “There was an exchange of opinions on the international situation, especially regarding countries affected by war, political tensions, and difficult humanitarian situations, with particular attention to migrants, refugees, and prisoners,” the Vatican said in a statement. In response, Vance’s office released photos of the vice president smiling and laughing with Vatican officials and walking through the Vatican with his children. “The Vice President and Cardinal Parolin discussed their shared religious faith, Catholicism in the United States, the plight of persecuted Christian communities around the world, and President Trump’s commitment to restoring world peace,” Vance’s office said. In February, Pope Francis criticized the Trump administration’s deportation policies and urged Catholics to reject anti-immigrant narratives. Without mentioning Vance by name, the pope rebuked the vice president’s invocation of ordo amoris, which Vance had characterized as a hierarchy of duties prioritizing one’s family and community over the rest of the world, to defend the administration’s deportations: “Christian love is not a concentric expansion of interests that little by little extend to other persons and groups.” In his final public statement on Easter Sunday, Pope Francis reiterated the importance of rejecting xenophobia: “How much contempt is stirred up at times towards the vulnerable, the marginalized, and migrants! On this day, I would like all of us to hope anew and to revive our trust in others, including those different from ourselves, or who come from distant lands, bringing unfamiliar customs, ways of life, and ideas! For all of us are children of God!” Hours later, Pope Francis died of a stroke and cardiovascular arrest.
+– April 19, 2025 – Vice President JD Vance attempted to airbrush his meeting with Vatican officials after Pope Francis did not attend, instead sending his deputy, Cardinal Pietro Parolin, to reportedly lecture Vance about compassion. “There was an exchange of opinions on the international situation, especially regarding countries affected by war, political tensions, and difficult humanitarian situations, with particular attention to migrants, refugees, and prisoners,” the Vatican said in a statement. In response, Vance’s office released photos of the vice president smiling and laughing with Vatican officials and walking through the Vatican with his children. “The Vice President and Cardinal Parolin discussed their shared religious faith, Catholicism in the United States, the plight of persecuted Christian communities around the world, and President Trump’s commitment to restoring world peace,” Vance’s office said. 
+In February, Pope Francis criticized the Trump administration’s deportation policies and urged Catholics to reject anti-immigrant narratives. Without mentioning Vance by name, the pope rebuked the vice president’s invocation of ordo amoris, which Vance had characterized as a hierarchy of duties prioritizing one’s family and community over the rest of the world, to defend the administration’s deportations: “Christian love is not a concentric expansion of interests that little by little extend to other persons and groups.” In his final public statement on Easter Sunday, Pope Francis reiterated the importance of rejecting xenophobia: “How much contempt is stirred up at times towards the vulnerable, the marginalized, and migrants! On this day, I would like all of us to hope anew and to revive our trust in others, including those different from ourselves, or who come from distant lands, bringing unfamiliar customs, ways of life, and ideas! For all of us are children of God!” Hours later, Pope Francis died of a stroke and cardiovascular arrest.
 
 – April 19, 2025 – Two weeks after hundreds of thousands marched against the Trump administration in 1,400 “Hands Off!” rallies across the country, a new wave of “50501” anti-Trump protests were held nationwide to coincide with the 250th anniversary of the start of the American Revolution. According to the protest’s organizers, over three million people attended the 50501 protests. While some protesters gathered outside the White House, Trump was at his golf course.
 
@@ -1870,8 +2002,6 @@ by Emily Greenberg and Cliff Mayotte
 Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.
 
 - - -
-These lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subscribe to our website’s Patreon, please do. This will help support this project and our other work.
-
 - - -
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>ATROCITY KEY</h3>
@@ -1979,7 +2109,13 @@ APRIL 2025
 
 – April 14, 2025 – Stephen Miller, US Homeland Security advisor and White House deputy chief of staff, contradicted Department of Justice documents acknowledging that the Trump administration had made “an administrative error” in deporting Kilmar Abrego Garcia, who had protected legal status, to El Salvador. “Nobody was mistakenly deported anywhere,” Miller told reporters outside the White House. “That’s a big mistake that all of you, most of you, have gotten wrong. No one was mistakenly sent anywhere. The only mistake that was made is a lawyer put an incorrect line in a legal filing that’s since been relieved… [Abrego Garcia] is El Salvadorian. He is an illegal alien. He was deported to El Salvador.” On Fox News, Miller doubled down, arguing that Abrego Garcia was not mistakenly deported and stating without evidence that he was a member of MS-13. Mr. Abrego Garcia has denied being a member of any gang, and he has not been convicted of any crime.
 
-– April 14, 2025 – State Department official Pete Marocco, who oversaw the dismantling of USAID, stepped down after less than three months on the job. Marocco, who fired thousands of USAID staffers and supported plans to cancel 83 percent of USAID programs, had previously described USAID as “a money laundering scheme” and accused the agency of advancing LGBTQ causes in developing countries and antiauthoritarian movements in former Soviet states. Senior USAID officials previously warned Trump administration officials that the closure of USAID would result in hundreds of thousands of deaths.
+– April 14, 2025 – State Department official Pete Marocco, who oversaw the dismantling of 
+USAID, stepped down after less than three months on the job. Marocco, who fired thousands 
+of USAID staffers and supported plans to cancel 83 percent of USAID programs, had 
+previously described USAID as “a money laundering scheme” and accused the agency of 
+advancing LGBTQ causes in developing countries and antiauthoritarian movements in former 
+Soviet states. Senior USAID officials previously warned Trump administration officials 
+that the closure of USAID would result in hundreds of thousands of deaths.
 
 – April 14, 2025 – Mohsen Mahdawi, a legal permanent resident, was arrested by immigration officials after arriving for an appointment to take his citizenship test, the final step in the process of becoming a citizen. A Palestinian student at Columbia University who has lived in the US for ten years, Mahdawi participated in pro-Palestinian demonstrations at Columbia, though he stepped back from organizing in March 2024. In a memo, Secretary of State Marco Rubio accused Mahdawi—without evidence—of undermining the Middle East peace process by reinforcing antisemitic sentiment, stating that Mahdawi had “engaged in threatening rhetoric and intimidation of pro-Israeli bystanders.” However, statements from Mahdawi’s friends and Mahdawi’s own previous statements contradict Rubio’s assertions. “[Mahdawi’s] willingness to actually hear and actively learn and understand the Israeli experience—I mean, I’ve never met anyone who so quickly was willing to take feedback,” said Mikey Baratz, an Israeli who recently graduated from Columbia. In a December 2023 interview about his childhood experience seeing his friend killed by an Israeli soldier, Mahdawi said he wanted a peaceful end to the Israeli-Palestinian conflict: “My motivation comes out of love now, not out of anger, not out of hate.”
 
@@ -2003,11 +2139,34 @@ APRIL 2025
 
 – April 17, 2025 – The Trump administration sent termination notices to 90 percent of employees at the Consumer Financial Protection Bureau, a watchdog agency that supervises financial institutions and enforces federal consumer protection laws. Created in response to the 2008 financial crisis, the CFPB has returned $21 billion to defrauded consumers since its founding in 2011. The layoffs are part of the administration’s larger attempts to dismantle the CFPB, which has been criticized by prominent Trump donors, including Elon Musk, as a barrier to their business interests. In February, Elon Musk’s X announced a deal with Visa to offer mobile payment services, which would be regulated by the CFPB. “The fact that Musk is now engaged in payment businesses that would be regulated by the CFPB at the same time he’s trying to tear down the CFPB puts in sharp relief the conflicts of interest here and how much this disserves the general public,” said Richard Cordray, a former director of the CFPB. “The whole situation is rife with conflicts of interest.”
 
-– April 17, 2025 – President Trump signed two executive orders aimed at the commercial fishing industry. The first, “Unleashing American Commercial Fishing in the Pacific,” opened the Pacific Islands Heritage Marine National Monument, one of the world’s largest ocean reserves, to commercial fishing; the second, “Restoring American Seafood Competitiveness,” ordered the Commerce Department to loosen regulations on the commercial fishing industry. While some fishermen celebrated the move, environmentalists argued that opening the Pacific Islands National Monument to commercial fishing would harm the area’s ecosystem and endanger marine life. In response, Angelo Villagomez, a senior fellow at the Center for American Progress, said that opening up marine monuments to industrial fishing “sets a dangerous precedent that our public lands and waters are for sale to the highest bidder.”
+– April 17, 2025 – President Trump signed two executive orders aimed at the commercial
+fishing industry. The first, “Unleashing American Commercial Fishing in the Pacific,”
+opened the Pacific Islands Heritage Marine National Monument, one of the world’s largest 
+ocean reserves, to commercial fishing; the second, “Restoring American Seafood 
+Competitiveness,” ordered the Commerce Department to loosen regulations on the 
+commercial fishing industry. While some fishermen celebrated the move, environmentalists 
+argued that opening the Pacific Islands National Monument to commercial fishing would 
+harm the area’s ecosystem and endanger marine life. In response, Angelo Villagomez, a 
+senior fellow at the Center for American Progress, said that opening up marine monuments 
+to industrial fishing “sets a dangerous precedent that our public lands and waters are 
+for sale to the highest bidder.”
 
-– April 18, 2025 – Escalating its crackdown on Harvard University, the Trump administration accused Harvard of failing to report large foreign donations. In a letter to the university’s president, the Department of Education demanded that Harvard provide a list of all foreign donors, turn over all records of foreign donor communication dating back to 2020, and provide details on foreigners who had spent time at Harvard, dating back to 2010. “Today’s records request is the Trump administration’s first step to ensure Harvard is not being manipulated by, or doing the bidding of, foreign entities,” Education Secretary Linda McMahon said, without providing any evidence to support her department’s accusations against Harvard. Pushing back against the accusations, Harvard responded that it had filed such reports for decades “as part of its ongoing compliance with the law”:https://www.wsj.com/us-news/education/trump-demands-harvards-foreign-funding-records-acc11947 “As is required, Harvard’s reports include information on gifts and contracts from foreign sources exceeding $250K annually. This includes contracts to provide executive education, other training, and academic publications.”
+– April 18, 2025 – Escalating its crackdown on Harvard University, the Trump 
+administration accused Harvard of failing to report large foreign donations. In a 
+letter to the university’s president, the Department of Education demanded that 
+Harvard provide a list of all foreign donors, turn over all records of foreign 
+donor communication dating back to 2020, and provide details on foreigners who 
+had spent time at Harvard, dating back to 2010. “Today’s records request is the 
+Trump administration’s first step to ensure Harvard is not being manipulated by, 
+or doing the bidding of, foreign entities,” Education Secretary Linda McMahon said, 
+without providing any evidence to support her department’s accusations against 
+Harvard. Pushing back against the accusations, Harvard responded that it had 
+filed such reports for decades “as part of its ongoing compliance with the law”:https://www.wsj.com/us-news/education/trump-demands-harvards-foreign-funding-records-acc11947 
+“As is required, Harvard’s reports include information on gifts and contracts from 
+foreign sources exceeding $250K annually. This includes contracts to provide 
+executive education, other training, and academic publications.”
 
- – April 19, 2025 – Vice President JD Vance attempted to airbrush his meeting with Vatican officials after Pope Francis did not attend, instead sending his deputy, Cardinal Pietro Parolin, to reportedly lecture Vance about compassion. “There was an exchange of opinions on the international situation, especially regarding countries affected by war, political tensions, and difficult humanitarian situations, with particular attention to migrants, refugees, and prisoners,” the Vatican said in a statement. In response, Vance’s office released photos of the vice president smiling and laughing with Vatican officials and walking through the Vatican with his children. “The Vice President and Cardinal Parolin discussed their shared religious faith, Catholicism in the United States, the plight of persecuted Christian communities around the world, and President Trump’s commitment to restoring world peace,” Vance’s office said. In February, Pope Francis criticized the Trump administration’s deportation policies and urged Catholics to reject anti-immigrant narratives. Without mentioning Vance by name, the pope rebuked the vice president’s invocation of ordo amoris, which Vance had characterized as a hierarchy of duties prioritizing one’s family and community over the rest of the world, to defend the administration’s deportations: “Christian love is not a concentric expansion of interests that little by little extend to other persons and groups.” In his final public statement on Easter Sunday, Pope Francis reiterated the importance of rejecting xenophobia: “How much contempt is stirred up at times towards the vulnerable, the marginalized, and migrants! On this day, I would like all of us to hope anew and to revive our trust in others, including those different from ourselves, or who come from distant lands, bringing unfamiliar customs, ways of life, and ideas! For all of us are children of God!” Hours later, Pope Francis died of a stroke and cardiovascular arrest.
+– April 19, 2025 – Vice President JD Vance attempted to airbrush his meeting with Vatican officials after Pope Francis did not attend, instead sending his deputy, Cardinal Pietro Parolin, to reportedly lecture Vance about compassion. “There was an exchange of opinions on the international situation, especially regarding countries affected by war, political tensions, and difficult humanitarian situations, with particular attention to migrants, refugees, and prisoners,” the Vatican said in a statement. In response, Vance’s office released photos of the vice president smiling and laughing with Vatican officials and walking through the Vatican with his children. “The Vice President and Cardinal Parolin discussed their shared religious faith, Catholicism in the United States, the plight of persecuted Christian communities around the world, and President Trump’s commitment to restoring world peace,” Vance’s office said. In February, Pope Francis criticized the Trump administration’s deportation policies and urged Catholics to reject anti-immigrant narratives. Without mentioning Vance by name, the pope rebuked the vice president’s invocation of ordo amoris, which Vance had characterized as a hierarchy of duties prioritizing one’s family and community over the rest of the world, to defend the administration’s deportations: “Christian love is not a concentric expansion of interests that little by little extend to other persons and groups.” In his final public statement on Easter Sunday, Pope Francis reiterated the importance of rejecting xenophobia: “How much contempt is stirred up at times towards the vulnerable, the marginalized, and migrants! On this day, I would like all of us to hope anew and to revive our trust in others, including those different from ourselves, or who come from distant lands, bringing unfamiliar customs, ways of life, and ideas! For all of us are children of God!” Hours later, Pope Francis died of a stroke and cardiovascular arrest.
 
 – April 19, 2025 – Two weeks after hundreds of thousands marched against the Trump administration in 1,400 “Hands Off!” rallies across the country, a new wave of “50501” anti-Trump protests were held nationwide to coincide with the 250th anniversary of the start of the American Revolution. According to the protest’s organizers, over three million people attended the 50501 protests. While some protesters gathered outside the White House, Trump was at his golf course.
 
@@ -2218,9 +2377,34 @@ March 22, 2025 – Trump attacked Maine Governor Janet Mills again over her stat
 
 – March 24, 2025 – Jeffrey Goldberg, editor in chief of The Atlantic, revealed that he was accidentally included in a group chat where top Trump administration officials posted about “operational details of forthcoming strikes in Yemen, including information about targets, weapons the U.S. would be deploying, and attack sequencing.” The emoji-filled chat took place on Signal, a commercial messaging app, and included Vice President JD Vance, Defense Secretary Pete Hegseth, Secretary of State Marco Rubio, National Security Advisor Michael Waltz, and other top officials. National security lawyers stated that the chat may have violated provisions of the Espionage Act; the messages were also set to disappear, possibly violating federal records laws. “This is one of the most stunning breaches of military intelligence I have read about in a very, very long time,” said Senate Minority Leader Chuck Schumer. Hillary Clinton, who was heavily criticized for using a private email server as secretary of state, added: “You have got to be kidding me.”
 
-– March 24, 2025 – Yunseo Chung, a legal permanent resident who has lived in the US since childhood, sued the Trump administration after ICE attempted to arrest and deport her. The Department of Homeland Security stated that Chung had “engaged in concerning conduct, including when she was arrested by NYPD during a pro-Hamas protest at Barnard College” and that she was “being sought for removal proceedings under the immigration laws.” A Columbia University student, Chung attended a pro-Palestinian student sit-in on March 5 and was arrested by police on misdemeanor charges of obstructing a government building. Several days after Chung’s release, ICE showed up at Chung’s parents’ home and began texting her. Federal prosecutors subsequently informed Chung that her legal permanent residency was being “revoked,” and her university housing was also searched. “It can’t be the case that a straight-A student who has lived here most of her life can be whisked away and potentially deported,” said Naz Ahmad, codirector of CLEAR legal clinic and one of Chung’s lawyers. “All because she dares to speak up.”
+– March 24, 2025 – Yunseo Chung, a legal permanent resident who has lived in the US since 
+childhood, sued the Trump administration after ICE attempted to arrest and deport her. 
+The Department of Homeland Security stated that Chung had “engaged in concerning conduct, 
+including when she was arrested by NYPD during a pro-Hamas protest at Barnard College” 
+and that she was “being sought for removal proceedings under the immigration laws.” A 
+Columbia University student, Chung attended a pro-Palestinian student sit-in on March 
+5 and was arrested by police on misdemeanor charges of obstructing a government building. 
+Several days after Chung’s release, ICE showed up at Chung’s parents’ home and began 
+texting her. Federal prosecutors subsequently informed Chung that her legal permanent 
+residency was being “revoked,” and her university housing was also searched. “It can’t 
+be the case that a straight-A student who has lived here most of her life can be 
+whisked away and potentially deported,” said Naz Ahmad, codirector of CLEAR legal 
+clinic and one of Chung’s lawyers. “All because she dares to speak up.”
 
-– March 25, 2025 – Rumeysa Ozturk, a Turkish graduate student at Tufts University, was detained by Department of Homeland Security agents despite having a valid student visa and no criminal charges filed against her. Surveillance video showed six plainclothes officers approach Ozturk on the street, restrain her, and then hide their faces. At the time of her arrest, Ozturk, who is Muslim and wears a head covering, was headed to a Ramadan break fast with friends. Without access to her medication, she suffered an asthma attack en route to a detention center in Louisiana. A senior DHS spokesperson said that Ozturk had “engaged in activities in support of Hamas” without providing any details or evidence. Ozturk’s friends and colleagues pushed back against DHS’s characterization: “She doesn’t drive, but if she was to drive she wouldn’t even have a parking ticket. That’s the kind of person we’re talking about,” said Reyyan Bilge, a psychology professor at Northeastern. In March 2024, Ozturk cowrote an opinion essay in The Tufts Daily criticizing Tufts’ response to student demands to “acknowledge the Palestinian genocide” and divest from companies connected to Israel.
+– March 25, 2025 – Rumeysa Ozturk, a Turkish graduate student at Tufts University, was 
+detained by Department of Homeland Security agents despite having a valid student visa 
+and no criminal charges filed against her. Surveillance video showed six plainclothes 
+officers approach Ozturk on the street, restrain her, and then hide their faces. At the 
+time of her arrest, Ozturk, who is Muslim and wears a head covering, was headed to a 
+Ramadan break fast with friends. Without access to her medication, she suffered an 
+asthma attack en route to a detention center in Louisiana. A senior DHS spokesperson 
+said that Ozturk had “engaged in activities in support of Hamas” without providing any 
+details or evidence. Ozturk’s friends and colleagues pushed back against DHS’s 
+characterization: “She doesn’t drive, but if she was to drive she wouldn’t even have 
+a parking ticket. That’s the kind of person we’re talking about,” said Reyyan Bilge, 
+a psychology professor at Northeastern. In March 2024, Ozturk cowrote an opinion 
+essay in The Tufts Daily criticizing Tufts’ response to student demands to “acknowledge 
+the Palestinian genocide” and divest from companies connected to Israel.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Surveillance footage of Rumeysa Ozturk being detained in front of her home. (AP)</h3>
@@ -2260,7 +2444,22 @@ March 22, 2025 – Trump attacked Maine Governor Janet Mills again over her stat
 
 – March 30, 2025 – The Trump administration deported seventeen more men to a maximum security prison in El Salvador. Although officials claimed the men were deported under regular immigration law rather than under the controversial Alien Enemies Act of 1798, both Secretary of State Marco Rubio and Pentagon Chief of Staff Joe Kasper still described the deportations as “counterterrorism” operations. In a statement released the following day, Rubio described the deportees as “violent criminals from the Tren de Aragua and MS-13 organizations, including murderers and rapists.” The administration did not provide detailed information about the identities of the deportees, their alleged crimes, or the legal authority under which they were removed. The Trump administration has faced significant criticism and multiple lawsuits over its handling of earlier deportations to El Salvador and the possibility that it defied a judge’s order. Family members of those deported earlier in the month said their relatives were not gang members and were denied due process. The Trump administration also acknowledged that at least one man was mistakenly deported due to “administrative error.”
 
-– March 30, 2025 – At a rally in Green Bay, Elon Musk gave two Wisconsin voters $1 million checks and promised additional smaller payments to those who help elect conservative Brad Schimel to the State Supreme Court. In a video posted by Elon Musk’s America PAC, one of the recipients, Ekaterina Deistler, explicitly linked her payment to following Musk’s instructions to vote. “I did exactly what Elon Musk told everyone to do: sign the petition, refer friends and family, vote, and now I have a million dollars,” said Deistler. The cash giveaways came after Musk previously offered voters one hundred dollars to sign a petition denouncing “activist judges.” Earlier in the day, the Wisconsin Supreme Court had declined to accept a lawsuit from the attorney general arguing that Musk’s actions violated anti-bribery laws. Musk and affiliated groups have spent over $20 million on the race, which they have argued will impact congressional redistricting. “Whichever party controls the House to a significant degree controls the country, which then steers the course of Western civilization,” said Musk. According to The New York Times, Musk began directing money to the Wisconsin judicial race shortly after Tesla sued Wisconsin over laws prohibiting auto manufacturers from selling directly to consumers.
+– March 30, 2025 – At a rally in Green Bay, Elon Musk gave two Wisconsin voters $1 
+million checks and promised additional smaller payments to those who help elect 
+conservative Brad Schimel to the State Supreme Court. In a video posted by Elon Musk’s 
+America PAC, one of the recipients, Ekaterina Deistler, explicitly linked her payment to 
+following Musk’s instructions to vote. “I did exactly what Elon Musk told everyone to 
+do: sign the petition, refer friends and family, vote, and now I have a million 
+dollars,” said Deistler. The cash giveaways came after Musk previously offered voters 
+one hundred dollars to sign a petition denouncing “activist judges.” Earlier in the day, 
+the Wisconsin Supreme Court had declined to accept a lawsuit from the attorney general 
+arguing that Musk’s actions violated anti-bribery laws. Musk and affiliated groups have 
+spent over $20 million on the race, which they have argued will impact congressional 
+redistricting. “Whichever party controls the House to a significant degree controls 
+the country, which then steers the course of Western civilization,” said Musk. According 
+to The New York Times, Musk began directing money to the Wisconsin judicial race shortly 
+after Tesla sued Wisconsin over laws prohibiting auto manufacturers from selling 
+directly to consumers.
 
 – March 31, 2025 – President Trump commuted the sentence of Jason Galanis, whose congressional testimony last year aided Republican efforts to impeach former president Joe Biden. When asked to explain the commutation, a senior White House official mentioned Galanis’s contribution to the impeachment investigation. A former business associate of Hunter Biden, Galanis pled guilty to two securities fraud schemes and was sentenced to over fifteen years in prison and $162 million in forfeiture and restitution. The commutation eliminated Galanis’s unpaid financial penalties. “He and his codefendants engaged in market manipulation and the defrauding of shareholders, and they stole a large portion of the proceeds of tribal bonds that were intended to fund economic development projects,” said Audrey Strauss, the former US attorney for the Southern District of New York, after Galanis’s sentencing.
 
@@ -2563,15 +2762,22 @@ Political Action Conference (CPAC) wielding a chainsaw, bragging about the cuts 
    
    
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-January, 2025 (election started 20th, monday)    Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes
+January, 2025 (election started 20th, monday)
+Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes
 January 2025: Atrocities 1-22
 by Emily Greenberg and Cliff Mayotte
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
       
-Early in President Trump’s first term, McSweeney’s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent to track them, to ensure these horrors—happening almost daily—would not be forgotten. Now that Trump has returned to office, amid civil rights, humanitarian, economic, and constitutional crises, we felt it critical to make an inventory of this new round of horrors. This list will be updated monthly between now and the end of Donald Trump’s second term.
+Early in President Trump’s first term, McSweeney’s editors began to catalog the head-
+spinning number of misdeeds coming from his administration. We called this list a 
+collection of Trump’s cruelties, collusions, corruptions, and crimes, and it felt urgent 
+to track them, to ensure these horrors—happening almost daily—would not be forgotten. 
+Now that Trump has returned to office, amid civil rights, humanitarian, economic, and 
+constitutional crises, we felt it critical to make an inventory of this new round of 
+horrors. This list will be updated monthly between now and the end of Donald Trump’s 
+second term.
 
 - - -
-These lists, along with everything McSweeney’s publishes on this site, are offered ad-free and at no charge to our readers. If you are moved to make a donation in any amount or subscribe to our website’s Patreon, please do. This will help support this project and our other work.
 
 - - -
 ATROCITY KEY
@@ -2591,21 +2797,50 @@ Main Index
 Trump’s first term
 - - -
 JANUARY 2025
-– January 20, 2025 – During his inaugural address at the Capitol Rotunda, Donald Trump proclaimed, “The golden age of America begins right now… From this day forward, our country will flourish and be respected again all over the world.” During the speech, he condemned the Biden administration while President Biden and Vice President Kamala Harris sat directly behind him. Trump stated he would reverse “horrible betrayals” and railed against a “radical and corrupt establishment” that he said “extracted power and wealth from our citizens.” On the dais near him sat a few of the wealthiest citizens in the world, including Jeff Bezos, Elon Musk, and Mark Zuckerberg.
+– January 20, 2025 – During his inaugural address at the Capitol Rotunda, Donald Trump 
+proclaimed, “The golden age of America begins right now… From this day forward, our 
+country will flourish and be respected again all over the world.” During the speech, he 
+condemned the Biden administration while President Biden and Vice President Kamala Harris 
+sat directly behind him. Trump stated he would reverse “horrible betrayals” and railed 
+against a “radical and corrupt establishment” that he said “extracted power and wealth 
+from our citizens.” On the dais near him sat a few of the wealthiest citizens in the 
+world, including Jeff Bezos, Elon Musk, and Mark Zuckerberg.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Excerpt from Donald Trump’s inauguration speech. (PBS)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– January 20, 2025 – Trump offered unconditional pardons to approximately 1,500 people charged in connection with the January 6, 2021, attack on the US Capitol. “These are people who actually love our country,” Trump announced, “so we thought a pardon would be appropriate.” Several January 6 defendants refused to accept their pardons. Mary Hemphill, often referred to as “MAGA Granny,” said, “It’s an insult to the Capitol police officers, to the rule of law, and to the nation. It contributes to their false propaganda—that they continue to gaslight the nation and everyone that it was a peaceful protest.”
+– January 20, 2025 – Trump offered unconditional pardons to approximately 1,500 people 
+charged in connection with the January 6, 2021, attack on the US Capitol. “These are 
+people who actually love our country,” Trump announced, “so we thought a pardon would 
+be appropriate.” Several January 6 defendants refused to accept their pardons. Mary 
+Hemphill, often referred to as “MAGA Granny,” said, “It’s an insult to the Capitol 
+police officers, to the rule of law, and to the nation. It contributes to their false 
+propaganda—that they continue to gaslight the nation and everyone that it was a 
+peaceful protest.”
 
 – January 20, 2025 – In violation of the Fourteenth Amendment, Trump signed an executive order to end birthright citizenship. Attorneys general from twenty-two states sued in federal court. US District Judge John Coughenour blocked the order, describing it as “blatantly unconstitutional.” “We’re the only country in the world that does [birthright citizenship],” Trump said. Dozens of countries, including Canada, Mexico, and many South American nations, offer birthright citizenship.
 
 – January 20, 2025 – Trump signed an executive order withdrawing the United States from the Paris Climate Agreement. He described it as “a rip-off.” During his inaugural address, Trump said, “We will be a rich nation again, and it is that liquid gold under our feet that will help to do it.” Fossil fuel interests gave Trump’s presidential campaign an estimated $75 million. Newly appointed Energy Secretary Chris Wright founded the fracking firm Liberty Energy. In 2023, Wright claimed, “There is no climate crisis, and we’re not in the midst of an energy transition, either.”
 
-– January 20, 2025 – Trump signed Executive Order 14169, which mandated a ninety-day pause on all US foreign development assistance programs. The order, entitled “Reevaluating and Realigning United States Foreign Aid,” stated, “The United States foreign aid industry and bureaucracy are not aligned with American interests and in many cases antithetical to American values.” Secretary of State Marco Rubio said, “There will be changes, but the changes are not meant to be destructive, they’re not meant to be punitive.” Abby Maxam, head of Oxfam America, stated that suspending funding “could have life or death consequences” for children and families around the world.
+– January 20, 2025 – Trump signed Executive Order 14169, which mandated a ninety-day 
+pause on all US foreign development assistance programs. The order, entitled 
+“Reevaluating and Realigning United States Foreign Aid,” stated, “The United States 
+foreign aid industry and bureaucracy are not aligned with American interests and in many 
+cases antithetical to American values.” Secretary of State Marco Rubio said, “There will 
+be changes, but the changes are not meant to be destructive, they’re not meant to be 
+punitive.” Abby Maxam, head of Oxfam America, stated that suspending funding “could 
+have life or death consequences” for children and families around the world.
 
-– January 20, 2025 – During a speech at an inauguration celebration, Elon Musk, Trump’s pick to lead his Department of Governmental Efficiency, gave not one but two fascists gestures. “I just want to say thank you for making [Trump’s election victory] happen,” the billionaire told supporters. He then pounded his chest and extended his arm diagonally in the air, very similar to the Nazi Party’s infamous salute. After the crowd cheered, he did it a second time. In recent months, Musk had been increasingly engaging with far-right groups, like Germany’s Alternative für Deutschland. Trump, too, has been criticized for his fascist views, even by his vice president, JD Vance, who once called him “America’s Hitler.”
+– January 20, 2025 – During a speech at an inauguration celebration, Elon Musk, Trump’s 
+pick to lead his Department of Governmental Efficiency, gave not one but two fascists 
+gestures. “I just want to say thank you for making [Trump’s election victory] happen,” 
+the billionaire told supporters. He then pounded his chest and extended his arm 
+diagonally in the air, very similar to the Nazi Party’s infamous salute. After the 
+crowd cheered, he did it a second time. In recent months, Musk had been increasingly 
+engaging with far-right groups, like Germany’s Alternative für Deutschland. Trump, 
+too, has been criticized for his fascist views, even by his vice president, JD Vance, 
+who once called him “America’s Hitler.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Musk’s fascist salute (The Telegraph)</h3>
@@ -2615,13 +2850,39 @@ JANUARY 2025
 
 – January 23, 2025 – Trump fired more than a dozen inspectors general in a late-night purge of independent government watchdog officials assigned to investigate crime and abuse. The fired inspectors general received White House emails that stated, “Due to changing priorities, your position as Inspector General… is terminated, effective immediately.” In response to the firings, Trump said, “Some people thought that some were unfair or some were not doing the job.” He claimed that the mass removal of inspectors general was “a very standard thing to do.” The terminations directly violated a federal law that required a thirty-day notice to Congress that included a rationale for the firings.
 
-– January 24, 2025 – Just hours before he visited areas devastated by the Southern California wildfires, Trump blamed California’s Democratic Governor Gavin Newsom and other state officials for the fires. “Look, Gavin’s got one thing he can do,” Trump told Fox News. “He can release the water that comes from the north. There is massive amounts of water, rainwater, and mountain water that comes, too, with the snow, comes down as it melts, there’s so much water.” Water resource and environmental engineering experts said there was no connection between California’s water supply and the deadly wildfires.
+– January 24, 2025 – Just hours before he visited areas devastated by the Southern 
+California wildfires, Trump blamed California’s Democratic Governor Gavin Newsom and 
+other state officials for the fires. “Look, Gavin’s got one thing he can do,” Trump 
+told Fox News. “He can release the water that comes from the north. There is massive 
+amounts of water, rainwater, and mountain water that comes, too, with the snow, comes 
+down as it melts, there’s so much water.” Water resource and environmental engineering 
+experts said there was no connection between California’s water supply and the deadly 
+wildfires.
 
-– January 24, 2025 – Trump’s pick for secretary of defense, Fox News host Pete Hegseth, was narrowly confirmed after allegations of his past sexual violence, alcoholism, workplace misconduct, and affinity for far-right and neo-Nazi groups came to light. An affidavit by Hegseth’s former sister-in-law alleged that Hegseth, who has a white-extremist symbol tattooed on his chest, regularly made racist comments to his ex-wife while drunk. Upon his confirmation, Trump said, “We have a great secretary of defense, and we’re very happy,” adding, “the important thing is winning.”
+– January 24, 2025 – Trump’s pick for secretary of defense, Fox News host Pete Hegseth, 
+was narrowly confirmed after allegations of his past sexual violence, alcoholism, 
+workplace misconduct, and affinity for far-right and neo-Nazi groups came to light. An 
+affidavit by Hegseth’s former sister-in-law alleged that Hegseth, who has a white-
+extremist symbol tattooed on his chest, regularly made racist comments to his ex-wife 
+while drunk. Upon his confirmation, Trump said, “We have a great secretary of defense, 
+and we’re very happy,” adding, “the important thing is winning.”
 
-– January 25, 2025 – In Chicago, Secret Service agents showed up at Hamline Elementary School and attempted to question an eleven-year-old who had posted an anti-Trump video online. The agents first visited a residence in the neighborhood to investigate a “threat to one of our protectees in reference to the recent TikTok ban.” They then visited the school and showed identification to school administrators, who refused to let them in. Initially, school officials falsely stated that the agents were from ICE, reflecting the community’s growing fears amid heightened tensions over immigration policy. More than 90 percent of Hamline’s students are Latinx and about two-thirds are English-language learners.
+– January 25, 2025 – In Chicago, Secret Service agents showed up at Hamline Elementary 
+School and attempted to question an eleven-year-old who had posted an anti-Trump video 
+online. The agents first visited a residence in the neighborhood to investigate a “threat 
+to one of our protectees in reference to the recent TikTok ban.” They then visited the 
+school and showed identification to school administrators, who refused to let them in. 
+Initially, school officials falsely stated that the agents were from ICE, reflecting the 
+community’s growing fears amid heightened tensions over immigration policy. More than 90 
+percent of Hamline’s students are Latinx and about two-thirds are English-language learners.
 
-– January 25, 2025 – During a phone call with King Abdullah II of Jordan, Trump said he wanted Jordan to welcome more Palestinians from Gaza. “I’d love for you to take on more because I’m looking at the whole Gaza Strip right now, and it’s a mess. You’re talking about a million and a half people, and we just clean out that whole thing.” Jordanian Foreign Affairs Minister Ayman Safadi promptly replied, “Our refusal of displacement is a steadfast position that will not change.” In response to Trump’s suggestion, Senator Lindsey Graham said, “I don’t know what he’s talking about.”
+– January 25, 2025 – During a phone call with King Abdullah II of Jordan, Trump said he 
+wanted Jordan to welcome more Palestinians from Gaza. “I’d love for you to take on more 
+because I’m looking at the whole Gaza Strip right now, and it’s a mess. You’re talking 
+about a million and a half people, and we just clean out that whole thing.” Jordanian 
+Foreign Affairs Minister Ayman Safadi promptly replied, “Our refusal of displacement 
+is a steadfast position that will not change.” In response to Trump’s suggestion, 
+Senator Lindsey Graham said, “I don’t know what he’s talking about.”
 
 – January 25, 2025 – At a Las Vegas rally, Trump speculated about running for additional presidential terms. “It will be the greatest honor of my life to serve not once but twice—or three or four times.” Just two days later, in a speech to House Republicans at Mar-a-Lago, Trump added, “I’ve raised a lot of money for the next race that I assume I can’t use for myself, but I’m not 100 percent sure,” eliciting laughter from House Speaker Mike Johnson, a former constitutional lawyer. The Twenty-Second Amendment to the US Constitution explicitly bans a president from being elected to more than two terms.
 
@@ -2629,22 +2890,69 @@ JANUARY 2025
 
 – January 27, 2025 – In an internal memo sent to federal agencies, the White House ordered a temporary pause on federal grant and loan disbursements to ensure compliance with Trump’s recent executive orders. “The use of federal resources to advance Marxist equity, transgenderism, and Green New Deal social engineering policies is a waste of taxpayer dollars,” wrote Matthew J. Vaeth, then acting director of the Office of Management and Budget. A spreadsheet identified 2,600 federal programs under review, showing impacts to foreign aid, homeless shelters, food stamps, college financial aid, disaster reconstruction, Social Security, and senior health care.
 
-– January 27, 2025 – Trump signed an executive order aimed at restricting gender-affirming health care—such as puberty blockers, hormone therapy, and surgery—for those under the age of nineteen. “Across the country today, medical professionals are maiming and sterilizing a growing number of impressionable children under the radical and false claim that adults can change a child’s sex through a series of irreversible medical interventions,” the order stated. “This dangerous trend will be a stain on our Nation’s history, and it must end.” In temporarily blocking the executive order, US District Judge Brendan A. Hurson said, “This is a population with an extremely higher rate for suicide, poverty, unemployment, drug addiction. [Abruptly stopping health care would be] horribly dangerous for anyone, for any care, but especially for this extremely vulnerable population.” Research shows that gender-diverse minors face increased risks for mental health issues, substance use, and suicide, and that gender-affirming health care improves overall well-being and quality of life.
+– January 27, 2025 – Trump signed an executive order aimed at restricting gender-affirming 
+health care—such as puberty blockers, hormone therapy, and surgery—for those under the age 
+of nineteen. “Across the country today, medical professionals are maiming and sterilizing 
+a growing number of impressionable children under the radical and false claim that adults 
+can change a child’s sex through a series of irreversible medical interventions,” the 
+order stated. “This dangerous trend will be a stain on our Nation’s history, and it must 
+end.” In temporarily blocking the executive order, US District Judge Brendan A. Hurson 
+said, “This is a population with an extremely higher rate for suicide, poverty, 
+unemployment, drug addiction. [Abruptly stopping health care would be] horribly dangerous 
+for anyone, for any care, but especially for this extremely vulnerable population.” 
+Research shows that gender-diverse minors face increased risks for mental health 
+issues, substance use, and suicide, and that gender-affirming health care improves 
+overall well-being and quality of life.
 
 – January 28, 2025 – In her first White House briefing, Press Secretary Karoline Leavitt announced that the Elon Musk–led Department of Government Efficiency (DOGE) had prevented a planned $50 million from going “out the door to fund condoms in Gaza,” a “preposterous waste of taxpayer money.” Musk later reposted a video of Leavitt’s remarks with the comment “tip of the iceberg.” Leavitt’s claim was subsequently repeated and expanded upon by the president: “We identified and stopped $50 million being sent to Gaza to buy condoms for Hamas. They used them as a method of making bombs. How about that?” No evidence was offered to support Leavitt’s, Musk’s, or Trump’s claims. A federal report published in 2024 and now inaccessible on the United States Agency for International Development (USAID) website showed that the agency’s total worldwide spending on condoms in 2023 was only $7.1 million and that no condoms were provided or funded for the Middle East between 2021 and 2023.
 
-– January 28, 2025 – The day after a passenger plane and Army helicopter collided mid-air above the Potomac River in Washington, DC, Trump blamed the deadly crash on DEI. At the time of Trump’s statement, an investigation into the cause of the crash was still ongoing. Trump stated, without evidence, that a “diversity push” by the Federal Aviation Administration had resulted in “hiring people with severe intellectual and psychiatric disabilities.” “We have to have the smartest people,” said Trump, referring to air traffic controllers. “It doesn’t matter what they look like, how they speak, who they are.” When a reporter asked Trump directly whether he believed “this crash was somehow caused as the result of diversity hiring,” Trump responded, “It just could have been.” Sixty-seven people were killed in the collision, the first major US commercial passenger crash since 2009.
+– January 28, 2025 – The day after a passenger plane and Army helicopter collided mid-air 
+above the Potomac River in Washington, DC, Trump blamed the deadly crash on DEI. At the 
+time of Trump’s statement, an investigation into the cause of the crash was still ongoing. 
+Trump stated, without evidence, that a “diversity push” by the Federal Aviation 
+Administration had resulted in “hiring people with severe intellectual and psychiatric 
+disabilities.” “We have to have the smartest people,” said Trump, referring to air 
+traffic controllers. “It doesn’t matter what they look like, how they speak, who they 
+are.” When a reporter asked Trump directly whether he believed “this crash was somehow 
+caused as the result of diversity hiring,” Trump responded, “It just could have been.” 
+Sixty-seven people were killed in the collision, the first major US commercial 
+passenger crash since 2009.
 
-– January 30, 2025 – During his Senate confirmation hearing, Robert F. Kennedy Jr., Trump’s nominee for secretary of health and human services, doubled down on past statements that Black people have stronger immune systems than white people and should receive vaccines on a different schedule. In response to questions from Senator Angela Alsobrooks, who is Black, Kennedy said that a “series of studies” by the Mayo Clinic have shown that “to particular antigens Blacks have a much stronger reaction.” Dr. Richard Kennedy (no relation), a vaccine researcher at Mayo Clinic whom Robert F. Kennedy cited during the hearing, said the health secretary nominee was “twisting the data far beyond what they actually demonstrate.” Studies show that false beliefs about biological differences between Black and white people are associated with racial disparities in medical assessment and treatment.
+– January 30, 2025 – During his Senate confirmation hearing, Robert F. Kennedy Jr., 
+Trump’s nominee for secretary of health and human services, doubled down on past 
+statements that Black people have stronger immune systems than white people and should 
+receive vaccines on a different schedule. In response to questions from Senator Angela 
+Alsobrooks, who is Black, Kennedy said that a “series of studies” by the Mayo Clinic 
+have shown that “to particular antigens Blacks have a much stronger reaction.” Dr. 
+Richard Kennedy (no relation), a vaccine researcher at Mayo Clinic whom Robert F. 
+Kennedy cited during the hearing, said the health secretary nominee was “twisting the 
+data far beyond what they actually demonstrate.” Studies show that false beliefs about 
+biological differences between Black and white people are associated with racial 
+disparities in medical assessment and treatment.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Robert F. Kennedy testifying that Black people need fewer antigens than white people. (New York Post)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 – January 30, 2025 – The mass deportation operation spearheaded by Immigration and Customs Enforcement (ICE ) rattled immigrant communities across the country. A recent announcement by the Department of Homeland Security (DHS) stated that DHS officials would enter schools and churches to conduct raids. The deportation operation was meant to remove dangerous criminals. Trump’s border czar, Tom Homan, admitted to “collateral arrests.” The Trump administration said it had arrested 7,400 people in nine days, and White House and ICE officials highlighted several dozen arrested immigrants on social media. No information in the thousands of other cases was made available.
 
-– January 31, 2025 – The Justice Department fired dozens of prosecutors and demanded a list of FBI employees who had worked on investigations related to the January 6, 2021, attack on the US Capitol. Emil Bove, the acting deputy attorney general, characterized the initial hiring of these prosecutors during the Biden presidency as “subversive” and concurred with Trump’s description of the Capitol attack investigations as “a grave national injustice.” At the time of the Capitol attacks, Bove worked for the US Attorney’s Office for the Southern District of New York and directed prosecutors to support the FBI’s investigations. “At no point did I ever hear him or anybody else express concern about these investigations and these arrests that we were making,” said Christopher O’Leary, an FBI counterterrorism official who worked with Bove on the investigations.
+– January 31, 2025 – The Justice Department fired dozens of prosecutors and demanded a 
+list of FBI employees who had worked on investigations related to the January 6, 2021, 
+attack on the US Capitol. Emil Bove, the acting deputy attorney general, characterized 
+the initial hiring of these prosecutors during the Biden presidency as “subversive” and 
+concurred with Trump’s description of the Capitol attack investigations as “a grave 
+national injustice.” At the time of the Capitol attacks, Bove worked for the US Attorney’s 
+Office for the Southern District of New York and directed prosecutors to support the FBI’s 
+investigations. “At no point did I ever hear him or anybody else express concern about 
+these investigations and these arrests that we were making,” said Christopher O’Leary, 
+an FBI counterterrorism official who worked with Bove on the investigations.
 
-– January 31, 2025 – In compliance with Trump’s executive orders eliminating federal DEI programs and requiring the government to recognize only two sexes, numerous Department of Health and Human Services webpages and datasets were taken down, including CDC and NIH pages related to HIV, LGBTQ+ health, STI treatment, and food safety during pregnancy. In response, the Infectious Disease Society of America released a statement, noting that the removal of these online resources was “deeply concerning” and created “a dangerous gap in scientific information and data to monitor and respond to disease outbreaks.”
+– January 31, 2025 – In compliance with Trump’s executive orders eliminating federal DEI 
+programs and requiring the government to recognize only two sexes, numerous Department of 
+Health and Human Services webpages and datasets were taken down, including CDC and NIH 
+pages related to HIV, LGBTQ+ health, STI treatment, and food safety during pregnancy. In 
+response, the Infectious Disease Society of America released a statement, noting that 
+the removal of these online resources was “deeply concerning” and created “a dangerous 
+gap in scientific information and data to monitor and respond to disease outbreaks.”
  
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
