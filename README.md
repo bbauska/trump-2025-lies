@@ -178,16 +178,11 @@ Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-t
 
 3. <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.
 
-4. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">
-Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">
-about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.
+4. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.
 
-5. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
-Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation 
-<a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
+5. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation <a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
 rate hit a 40-year high under Biden in June 2022</a>, when it was 9.1%, but that was not close to the 
-<a href="https://fred.stlouisfed.org/series/CPIAUCNS">
-all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.
+<a href="https://fred.stlouisfed.org/series/CPIAUCNS">all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.
 
 6. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
 Falsely claimed</a> the price of bacon “quadrupled” during Biden’s presidency. 
@@ -272,44 +267,63 @@ Falsely claimed</a> Zelensky admitted “half of the money we sent him is ‘MIS
 <a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/">
 translation by the news outlet Ukrainska Pravda</a>.
 
-21. <a href="">
-Falsely claimed</a> in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to Ukrainian leaders, independent analysts, journalists, and, Reuters reported, US intelligence.
+21. <a href="https://truthsocial.com/@realDonaldTrump/posts/114161039436456514">Falsely claimed</a> 
+in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to 
+<a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">Ukrainian leaders</a>, <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">independent analysts</a>, 
+<a href="https://x.com/ChristopherJM/status/1901783024338878732">journalists</a>, and, 
+<a href="https://www.reuters.com/world/europe/intelligence-shared-with-white-house-shows-ukrainians-not-encircled-kursk-2025-03-20/">Reuters</a> reported, US intelligence.
 
-22. <a href="">
-Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were exaggerations of a rough written transcript of the call, which was released before Schiff delivered his rendition of it.
+22. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">
+Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were 
+<a href="https://www.cnn.com/2019/09/27/politics/fact-check-adam-schiff-trumps-ukraine-call/index.html">
+exaggerations</a> of 
+<a href="https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html">
+a rough written transcript</a> of the call, which was released before Schiff delivered his rendition of it.
 
-23. <a href="">
-Falsely claimed</a>
-Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump signed sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project announced in December 2020, the month before Trump left office, that construction was resuming.
+23. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">Falsely claimed</a>
+Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump <a href="https://www.bbc.com/news/world-europe-50875935">
+signed</a> sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project 
+<a href="https://www.ogj.com/pipelines-transportation/pipelines/article/14189195/nord-stream-2-pipelay-resumes"> announced in December 2020</a>, the month before Trump left office, that construction was resuming.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Immigration</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-24. <a href="">
-Falsely claimed</a> the US is the only country that grants birthright citizenship. Dozens of other countries, including Canada and Mexico, also grant automatic citizenship to people born on their soil.
+24. <a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">Falsely claimed</a> the US is the only country that grants birthright citizenship. <a href="https://www.cia.gov/the-world-factbook/field/citizenship/#:~:text=citizenship%20by%20birth%20describes%20the,of%20the%20citizenship%20of%20parents.">
+Dozens of other countries</a>, including Canada and Mexico, also grant automatic citizenship to people born on their soil.
 
-25. <a href="">
-Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And the majority of them replaced previous barriers, though Trump’s replacement barriers were generally much more formidable.)
+25. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
+the majority of them replaced previous barriers</a>, though Trump’s replacement barriers were generally much more formidable.)
 
-26. <a href="">
-Falsely claimed</a> “I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he did not complete the wall. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were about 280 miles where wall construction had been planned but not executed.
+26. <a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">Falsely claimed</a> 
+“I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
+did not complete the wall</a>. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were <a href="https://www.cnn.com/2022/11/15/politics/fact-check-trump-announcement-speech-2024/index.html">
+about 280 miles</a> where wall construction had been planned but not executed.
 
-27. <a href="">
-Falsely claimed</a> that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but not the lowest “ever recorded.”
+27. <a href="">Falsely claimed</a> 
+that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but <a href="">not the lowest</a> “ever recorded.”
 
-28. <a href="">
-Falsely claimed</a> that, as shown on a chart he frequently displayed at rallies, the US had the lowest level of illegal immigration ever when he left office in January 2021. In fact, the spot that the chart deceptively highlights as a historic low point was April 2020, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.
+28. <a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
+that, as shown on a chart he frequently displayed at rallies, the US had the lowest level of illegal immigration ever when he left office in January 2021. In fact, the spot that the chart deceptively highlights as a historic low point 
+<a href="https://www.cnn.com/2024/08/26/politics/fact-check-trump-immigration-chart/index.html">
+was April 2020</a>, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.
 
-29. <a href="">
-Falsely claimed</a> “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had recorded under 11 million nationwide “encounters” with migrants during that administration, including millions who were rapidly expelled from the country. Even adding in so-called gotaways who evaded detection, estimated by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.
+29. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">Falsely claimed</a> “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had  
+<a href="https://www.cbp.gov/newsroom/stats/nationwide-encounters">
+recorded</a> under 11 million nationwide “encounters” with migrants during that administration, including millions who were rapidly expelled from the country. Even adding in so-called gotaways who evaded detection, 
+<a href="https://homeland.house.gov/wp-content/uploads/2025/01/December-24-SS.pdf">
+estimated</a>  by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.
 
-30. <a href="">
-Falsely claimed</a> foreign leaders “all over the world” emptied their jails and mental health facilities to somehow “dump” people from those facilities into the US as migrants during the Biden administration – adding that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world said she knows of nothing like it.
+30. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">
+Falsely claimed</a> foreign leaders “all over the world” emptied their jails and mental health facilities to somehow “dump” people from those facilities into the US as migrants during the Biden administration – 
+<a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">
+adding</a> that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">said</a> she knows of nothing like it.
 
-31. <a href="">
-Falsely claimed</a> former Vice President Harris was the Biden administration’s “border czar.” In reality, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.
+31. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+Falsely claimed</a> former Vice President Harris was the Biden administration’s “border czar.” In  <a href="https://x.com/ReichlinMelnick/status/1815545630204342557">reality</a>, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.
 
-32. <a href="">Falsely claimed he “came up with” the term “caravan” in reference to migrants. He didn’t, as CNN and others noted when he previously claimed to have coined the phrase.
+32. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-governors-white-house-february-21-2025/#78">
+Falsely claimed</a> he “came up with” the term “caravan” in reference to migrants. He didn’t, as CNN and others 
+<a href="https://www.cnn.com/2024/10/18/politics/fact-check-trump-october-immigration/index.html">noted</a> when he previously claimed to have coined the phrase.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign affairs</h3>
@@ -320,38 +334,28 @@ Falsely claimed</a> he thwarted a plan from the Biden administration to spend $5
 34. <a href="">
 Falsely claimed</a> of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas released 105 hostages during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
 
-35. <a href="">
-Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were dozens of active armed conflicts at the time.
+35. <a href="">Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were dozens of active armed conflicts at the time.
 
-36. <a href="">
-Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea began in 1991.
+36. <a href="">Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea began in 1991.
 
-37. <a href="">
-Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in 2021 and 2024 - both of which included South Korean spending increases.
+37. <a href="">Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in 2021 and 2024 - both of which included South Korean spending increases.
 
-38. <a href="">
-Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan provides billions of dollars per year in support for the US military presence in the country.
+38. <a href="">Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan provides billions of dollars per year in support for the US military presence in the country.
 
-39. <a href="">
-Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
+39. <a href="">Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
 
-40. <a href="">
-Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration acknowledged in the last year of that presidency that Iran was continuing to fund terror groups including Hezbollah. The funding did decline in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, four experts told CNN in 2024.
+40. <a href="">Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration acknowledged in the last year of that presidency that Iran was continuing to fund terror groups including Hezbollah. The funding did decline in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, four experts told CNN in 2024.
 
-41. <a href="">
-Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated more than two years into Trump’s presidency, and the group continues to operate today.
+41. <a href="">Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated more than two years into Trump’s presidency, and the group continues to operate today.
 
-42. <a href="">
-Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has estimated that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
+42. <a href="">Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has estimated that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
 
-43. <a href="">
-Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, they show about 5,600 people died during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough found that “the number of white Americans who died was about 350.”
+43. <a href="">Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, they show about 5,600 people died during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough found that “the number of white Americans who died was about 350.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-44. <a href="">
-Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” Federal statistics show the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.
+44. <a href="">Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” Federal statistics show the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.
 
 45. <a href="">
 Falsely claimed</a> Biden is responsible for the trade deficit with China supposedly worsening to more than $1 trillion, saying Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the deficit in every year of Trump’s first presidency.
