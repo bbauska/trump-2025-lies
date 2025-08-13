@@ -8,10 +8,10 @@ his first presidential term, an average of 21 per day. The Toronto Star tallied 
 false claims from January 2017 to June, 2019</p>
 
 <p>On January 20, 2025 Trump became president a 2nd time. God save America. Grift? Over 
-3.5 billion in 6 months.</p>
-
+3.5 billion between Jan 20, 2025 and July 1, 2025.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 13 BIGGEST lies in his first month back in office</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>President Donald Trump moved at a blistering pace in his first month back in the White 
 House. He lied fast and furious, too.</p>
 
