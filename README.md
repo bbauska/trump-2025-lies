@@ -329,29 +329,41 @@ Falsely claimed</a> he “came up with” the term “caravan” in reference to
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign affairs</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-33. <a href="">
-Falsely claimed</a> he thwarted a plan from the Biden administration to spend $50 million on condoms for Hamas in Gaza, then falsely claimed it was $100 million. The tale was fictional at either figure. When Trump ally Elon Musk was challenged about the claim after it was debunked, Musk conceded that “some of the things that I say will be incorrect, and should be corrected.”
+33. <a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">
+Falsely claimed</a> he thwarted a plan from the Biden administration to spend $50 million on condoms for Hamas in Gaza, then falsely claimed it was $100 million. The tale was fictional at either figure. When Trump ally Elon Musk was challenged about the claim after it was debunked, Musk <a href="https://www.cnn.com/2025/02/12/politics/some-of-the-things-that-i-say-will-be-incorrect-musk-backs-away-from-false-claim-of-usd50-million-for-gaza-condoms/index.html">
+conceded</a> that “some of the things that I say will be incorrect, and should be corrected.”
 
-34. <a href="">
-Falsely claimed</a> of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas released 105 hostages during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
+34. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+Falsely claimed</a> of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas <a href="https://www.cnn.com/2025/01/15/us/whats-in-the-hamas-israel-ceasefire-and-hostage-release-deal/index.html">
+released 105 hostages</a> during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
 
-35. <a href="">Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were dozens of active armed conflicts at the time.
+35. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-executive-order-signing-oval-office-february-4-2025/#22">Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were 
+<a href="https://www.cnn.com/2025/01/07/politics/fact-check-trump-false-claims-january-6-europe-nato-and-canada/index.html">
+dozens</a> of active armed conflicts at the time.
 
-36. <a href="">Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea began in 1991.
+36. <a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea <a href="https://www.congress.gov/crs-product/IF11388">began in 1991</a>.
 
-37. <a href="">Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in 2021 and 2024 - both of which included South Korean spending increases.
+37. <a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in <a href="https://www.cnn.com/2021/03/07/politics/us-south-korea-cost-sharing-troops/index.html">2021</a> and 
+<a href="https://www.cnn.com/2024/10/04/politics/us-forces-south-korea-cost-sharing-agreement/index.html">2024</a> - both of which included South Korean spending increases.
 
-38. <a href="">Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan provides billions of dollars per year in support for the US military presence in the country.
+38. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan 
+<a href="https://www.gao.gov/assets/gao-21-270.pdf">
+provides billions of dollars per year</a> in support for the US military presence in the country.
 
-39. <a href="">Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
+39. <a href="https://amp.cnn.com/cnn/2025/03/21/politics/fact-check-trump-oval-office-remarks">Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
 
-40. <a href="">Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration acknowledged in the last year of that presidency that Iran was continuing to fund terror groups including Hezbollah. The funding did decline in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, four experts told CNN in 2024.
+40. <a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration <a href="https://2017-2021.state.gov/secretary-michael-r-pompeo-with-matthew-boyle-of-breitbart-news-network-and-siriusxm-patriot/">
+acknowledged in the last year of that presidency</a> that Iran was continuing to fund terror groups including Hezbollah. The funding 
+<a href="https://www.washingtonpost.com/world/middle_east/trumps-sanctions-on-iran-are-hitting-hezbollah-hard/2019/05/18/970bc656-5d48-11e9-98d4-844088d135f2_story.html">did decline</a> in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, <a href="https://www.cnn.com/2024/06/11/politics/fact-check-trump-iran-fund-terror-groups/index.html">four experts told CNN in 2024</a>.
 
-41. <a href="">Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated more than two years into Trump’s presidency, and the group continues to operate today.
+41. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated 
+<a href="https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"> more than two years</a> into Trump’s presidency, and the group 
+<a href="https://www.congress.gov/crs-product/IF10328">continues to operate today</a>.
 
-42. <a href="">Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has estimated that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
+42. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has <a href="https://www.cnn.com/2022/04/27/politics/afghan-weapons-left-behind/index.html">estimated</a> that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
 
-43. <a href="">Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, they show about 5,600 people died during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough found that “the number of white Americans who died was about 350.”
+43. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, <a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">they show about 5,600 people died</a> during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough 
+<a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">found</a> that “the number of white Americans who died was about 350.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
