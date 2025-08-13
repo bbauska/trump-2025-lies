@@ -4,11 +4,11 @@
 <p>A little background<br>
 <p>Donald Trump has made tens of thousands of lies.</p>
 <p>Fact-checkers at The Washington Post documented 30,573 false or misleading claims during 
-his first presidential term, an average of 21 per day. The Toronto Star tallied 5,276 
-false claims from January 2017 to June, 2019</p>
+his first presidential term (2016-2020), an average of 21 per day. The Toronto Star tallied 5,276 
+false claims from January 2017 to June, 2019 (2 1/2 years)</p>
 
-<p>On January 20, 2025 Trump became president a 2nd time. God save America. Grift? Over 
-3.5 billion between Jan 20, 2025 and July 1, 2025.</p>
+<p>On January 20, 2025 Trump became president a 2nd time. God save America. Grift? Yes. It 
+started immediately. Over 3.5 billion tallied so far, between Jan 20, 2025 and July 1, 2025.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 13 BIGGEST lies in his first month back in office</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -145,26 +145,24 @@ even close to correct – an assertion that he won the youth vote “by 36 point
 In fact, exit polls show he lost the youth vote to then-Vice President Kamala 
 Harris. Even if these polls were off, there’s no basis for the claim that he won the 
 youth vote by 36.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Trump's 100 BIGGEST lies in his first 100 days in office</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
-President Donald Trump filled his first 100 days back in office with the same relentless 
+<p>President Donald Trump filled his first 100 days back in office with the same relentless 
 lying and inaccuracy that was a hallmark of his first presidency and his 2016 and 2024 
-presidential campaigns.
+presidential campaigns.</p>
 
-Some of Trump’s 2025 false claims were about consequential policy matters, others about 
+<p>Some of Trump’s 2025 false claims were about consequential policy matters, others about 
 trivial personal fixations. Some were sophisticated distortions about obscure subjects, 
 others obvious fictions about issues average Americans experience in their daily lives. 
-Many were ad-libbed or posted on social media, but many were scripted into prepared remarks.
+Many were ad-libbed or posted on social media, but many were scripted into prepared remarks.</p>
 
-Aside from the staggering frequency and the trademark brazenness, what stood out was how 
+<p>Aside from the staggering frequency and the trademark brazenness, what stood out was how 
 repetitive Trump’s lying was. Though he regularly sprinkled in some fresh deception, he 
 deployed a core batch of favored falsehoods again and again – undeterred by the fact 
-that many of these claims had been publicly debunked for months or even years.
+that many of these claims had been publicly debunked for months or even years.</p>
 
-Here is a list of 100 separate false claims from Trump since his inauguration on January 
+<p><a href="https://www.cnn.com/politics/fact-check-trump-false-claims-debunked">Here is a list of 100 separate false claims</a> from Trump since his inauguration on January 
 20, fact-checked concisely with hyperlinks to more information. This is not a 
 comprehensive list of the president’s false claims during this period (there were well 
 over 100 in all) or a count of how many total times he was inaccurate (he uttered many 
@@ -173,239 +171,373 @@ of these 100 claims over and over again).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Inflation</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-1. Falsely claimed in April that grocery prices “are down” and “WAY DOWN.” Grocery prices had continued to increase since he took office – and the jump from February to March, about 0.49%, was the biggest one-month increase since October 2022.
+1. <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">Falsely claimed</a> in April that grocery prices “are down” <a href="https://truthsocial.com/@realDonaldTrump/posts/114392734082544469">and “WAY DOWN.”</a> 
+Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">continued to increase since he took office</a> – and the jump from February to March, about 0.49%, was the biggest one-month increase since October 2022.
 
-2. Falsely claimed in April that “the cost of eggs has come down like 93, 94% since we took office.” The consumer price of eggs hit a record high in March, and while they might well have fallen in April, the decline certainly wasn’t 93% or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.
+2. <a href="https://www.cnn.com/2025/04/23/politics/price-of-eggs-gas-trump-fact-check/index.html">Falsely claimed</a> in April that “the cost of eggs has come down like 93, 94% since we took office.” The consumer price of eggs <a href="https://fred.stlouisfed.org/series/APU0000708111">hit a record high in March</a>, and while they might well have fallen in April, the decline certainly wasn’t 93% or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.
 
-3. Falsely claimed April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.
+3. <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.
 
-4. Falsely claimed there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose about 8% from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.
+4. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">
+Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">
+about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.
 
-5. Falsely claimed President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation rate hit a 40-year high under Biden in June 2022, when it was 9.1%, but that was not close to the all-time record of 23.7%, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.
+5. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation 
+<a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
+rate hit a 40-year high under Biden in June 2022</a>, when it was 9.1%, but that was not close to the 
+<a href="https://fred.stlouisfed.org/series/CPIAUCNS">
+all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.
 
-6. Falsely claimed the price of bacon “quadrupled” during Biden’s presidency. Federal statistics show the average price of a pound of sliced bacon in December 2024, Biden’s last full month in office, was up about 19% since January 2021, the month Biden was inaugurated; the average price in January 2025, Biden’s last partial month in office, was up about 21% since January 2021. Neither was close to the 300% increase Trump claimed.
+6. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+Falsely claimed</a> the price of bacon “quadrupled” during Biden’s presidency. 
+<a href="https://fred.stlouisfed.org/series/APU0000704111">
+Federal statistics show</a> the average price of a pound of sliced bacon in December 2024, Biden’s last full month in office, was up about 19% since January 2021, the month Biden was inaugurated; the average price in January 2025, Biden’s last partial month in office, was up about 21% since January 2021. Neither was close to the 300% increase Trump claimed.
 
-7. Falsely claimed the price of apples doubled during Biden’s presidency. Federal statistics show the price of apples increased by about 7% between the month Biden was sworn in as president and December 2024; it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% increase Trump claimed.
+7. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+Falsely claimed</a> the price of apples doubled during Biden’s presidency. 
+<a href="https://data.bls.gov/timeseries/CUUR0000SEFK01">
+Federal statistics show</a> the price of apples increased by about 7% between the month Biden was sworn in as president and December 2024; it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% increase Trump claimed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trade, the economy, taxes</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-8. Falsely claimed that, before he came back to office, “We were losing $2 trillion a year on trade.” The total US deficit in goods and services trade in 2024 was about $918 billion; if you count only goods trade and ignore the services trade at which the US excels, it was about $1.2 trillion, still far shy of Trump’s figure. (And economists widely reject Trump’s notion that a trade deficit, the difference between the value of US imports and exports in a given year, is a loss.)
+8. <a href="https://time.com/7280129/donald-trump-fact-check-2025-interview/">
+Falsely claimed</a> that, before he came back to office, “We were losing $2 trillion a year on trade.” The total US deficit in goods and services trade in 2024 was 
+<a href="https://www.bea.gov/sites/default/files/2025-02/trad1224annual-hist.pdf">
+about $918 billion</a>; if you count only goods trade and ignore the services trade at which the US excels, it was about $1.2 trillion, still far shy of Trump’s figure. (And economists widely 
+<a href="https://www.factcheck.org/2025/04/trump-expands-on-dubious-daily-tariff-revenue-claim/">
+reject</a> Trump’s notion that a trade deficit, the difference between the value of US imports and exports in a given year, is a loss.)
 
-9. Falsely claimed in early April that the US was already taking in $2 billion, $3 billion, or even $3.5 billion per day in tariff revenue. The actual figure was in the hundreds of millions at most, not $2 billion, and it’s important to note that US importers, not foreign exporters, pay the tariff revenue.
+9. <a href="https://www.politifact.com/factchecks/2025/apr/10/donald-trump/fact-check-trump-said-tariffs-collections-are-almo/">
+Falsely claimed</a> in early April that the US was already taking in $2 billion, $3 billion, or even $3.5 billion per day in tariff revenue. The actual figure was in the hundreds of millions at most, not $2 billion, and it’s important to note that US importers, not foreign exporters, pay the tariff revenue.
 
-10. Falsely claimed the US has a “$350 billion” trade deficit with Mexico. Federal statistics show the 2024 deficit with Mexico in goods and services trade was about $179 billion; it was about $182 billion in goods trade alone.
+10. <a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
+Falsely claimed</a> the US has a “$350 billion” trade deficit with Mexico. 
+<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">
+Federal statistics show</a> the 2024 deficit with Mexico in goods and services trade was about $179 billion; it was about $182 billion in goods trade alone.
 
-11. Falsely claimed, after an interviewer reminded him that not a single tariff deal with another country had been announced yet, “I’ve made 200 deals.” He simply had not done so, and his supposed explanation for this assertion – “The deal is a deal that I choose…We are a department store, and we set the price” – did not substantiate it.
+11. <a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">
+Falsely claimed</a>, after an interviewer reminded him that not a single tariff deal with another country had been announced yet, “I’ve made 200 deals.” He simply had not done so, and his supposed explanation for this assertion – “The deal is a deal that I choose…We are a department store, and we set the price” – did not substantiate it.
 
-12. Falsely claimed, while touting the supposed benefits of tariffs, that Honda “just announced” it is building “a really big plant in Indiana.” Honda subsequently told CNN: “Honda did not announce plans for a new plant in the U.S. at this time.” Reuters, citing anonymous sources, had reported that Honda was planning to build its next-generation Civic hybrid in Indiana rather than Mexico as originally planned, but the report did not say Honda was building a new factory.
+12. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
+Falsely claimed</a>, while touting the supposed benefits of tariffs, that Honda “just announced” it is building “a really big plant in Indiana.” Honda subsequently told CNN: “Honda did not announce plans for a new plant in the U.S. at this time.” Reuters, citing anonymous sources, had 
+<a href="https://www.reuters.com/business/autos-transportation/honda-produce-next-civic-indiana-not-mexico-due-us-tariffs-sources-say-2025-03-03/">
+reported</a> that Honda was planning to build its next-generation Civic hybrid in Indiana rather than Mexico as originally planned, but the report did not say Honda was building a new factory.
 
-13. Falsely claimed “the United States was proportionately the wealthiest it has ever been” from 1789 to 1913, when tariffs made up a higher percentage of federal revenue, and that 1870 to 1913, before the reintroduction of the federal income tax, was “the richest period in the history of the United States, relatively speaking.” Trump didn’t explain what he meant by “proportionately the wealthiest” or “the richest…relatively speaking,” but economists say that by any standard measure, the US is far wealthier today than it was in the early 20th century and prior; per capita gross domestic product is now many times higher than it was then.
+13. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+Falsely claimed</a> “the United States was proportionately the wealthiest it has ever been” from 1789 to 1913, when tariffs made up a higher percentage of federal revenue, 
+<a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#119">
+and that 1870 to 1913</a>, before the reintroduction of the federal income tax, was “the richest period in the history of the United States, relatively speaking.” Trump didn’t explain what he meant by “proportionately the wealthiest” or “the richest…relatively speaking,” but economists say that by any standard measure, the US is far wealthier today than it was in the early 20th century and prior; per capita gross domestic product 
+<a href="https://www.latimes.com/business/story/2024-10-01/column-trumps-glorification-of-the-1890s-in-america-displays-his-dangerous-ignorance-of-economics-and-history">
+is  now many times higher than it was then</a>.
 
-14. Falsely claimed he signed “the largest tax cut in history” during his first presidency. Expert analyses have found his 2017 tax cut law was not the largest in US history, either in percentage of gross domestic product or in inflation-adjusted dollars.
+14. <a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
+Falsely claimed</a> he signed “the largest tax cut in history” during his first presidency. Expert analyses have 
+<a href="https://www.cnn.com/2024/08/13/politics/fact-check-trump-musk-20-false-claims/index.html">
+found  his 2017 tax cut law</a> was not the largest in US history, either in percentage of gross domestic product or in inflation-adjusted dollars.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Ukraine and Russia</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-15. Falsely claimed Ukraine started the war with Russia, saying, “You should’ve never started it. You could’ve made a deal.” Russia started the war, annexing Ukraine’s Crimea region in 2014 and then launching a full-scale invasion in 2022.
+15. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> Ukraine started the war with Russia, saying, “You should’ve never started it. You could’ve made a deal.” Russia started the war, 
+<a href="https://www.cnn.com/2014/03/18/world/europe/ukraine-crisis/index.html">
+annexing Ukraine’s Crimea region in 2014</a> and then 
+<a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-invasion-thursday-intl/index.html">
+launching a full-scale invasion in 2022</a>.
 
-16. Falsely claimed the US had provided “$350 billion” in wartime aid to Ukraine. There is no basis for this figure. According to the Kiel Institute for the World Economy, a German think tank that closely tracks wartime aid to Ukraine, the US had committed about $135 billion in wartime military, financial and humanitarian aid to Ukraine through February 2025 (at current exchange rates) and actually allocated about $130 billion of that sum.
+16. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> the US had provided “$350 billion” in wartime aid to Ukraine. There is no basis for this figure. 
+<a href="https://www.ifw-kiel.de/publications/ukraine-support-tracker-data-20758/">
+According to the Kiel Institute for the World Economy</a>, a German think tank that closely tracks wartime aid to Ukraine, the US had committed about $135 billion in wartime military, financial and humanitarian aid to Ukraine through February 2025 (at current exchange rates) and actually allocated about $130 billion of that sum.
 
-17. Falsely claimed Europe had provided $200 billion less in aid to Ukraine than the US had. In fact, the Kiel Institute data shows that Europe – the European Union plus individual European countries – had committed and allocated more total wartime military, financial and humanitarian aid to Ukraine than the US had through February; in aid allocated, it was about $157 billion for Europe to about $135 billion for the US.
+17. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> Europe had provided $200 billion less in aid to Ukraine than the US had. In fact, the Kiel Institute data shows that Europe – the European Union plus individual European countries – had committed and allocated more total wartime military, financial and humanitarian aid to Ukraine than the US had through February; in aid allocated, it was about $157 billion for Europe to about $135 billion for the US.
 
-18. Falsely claimed he was clearly speaking “in jest” when he said during his 2024 campaign that he would end the war in Ukraine by “day one” of this presidency. Trump made the pledge at least 53 times in 2023 and 2024 in an entirely serious context and tone, often declaring he would end the war even before his inauguration.
+18. <a href="https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war/index.html">
+Falsely claimed</a> he was clearly speaking “in jest” when he said during his 2024 campaign that he would end the war in Ukraine by “day one” of this presidency. Trump made the pledge 
+<a href="https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war/index.html">
+at least 53 times in 2023 and 2024</a> in an entirely serious context and tone, often declaring he would end the war even before his inauguration.
 
-19. Falsely claimed in February that Ukrainian President Volodymyr Zelensky was “down at 4% approval rating.” An approval survey conducted from late November to early January found 63% of Ukrainians either approved fully or tended to approve of Zelensky’s actions as president; another survey, conducted in February, found that 57% of Ukrainians said they trusted Zelensky.
+19. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> in February that Ukrainian President Volodymyr Zelensky was “down at 4% approval rating.” An approval 
+<a href="https://www.manchester.ac.uk/about/news/trump-is-making-false-claims-about-zelenskys-popularity/">
+survey</a> conducted from late November to early January found 63% of Ukrainians either approved fully or tended to approve of Zelensky’s actions as president; another 
+<a href="https://www.kiis.com.ua/?lang=eng&cat=reports&id=1496&page=1">
+survey</a>, conducted in February, found that 57% of Ukrainians said they trusted Zelensky.
 
-20. Falsely claimed Zelensky admitted “half of the money we sent him is ‘MISSING.’” Zelensky had made no such admission; rather, he had taken issue with inflated claims about how much US cash Ukraine had received, saying he doesn’t know where all the professed additional money has gone and that perhaps these higher figures are correct “on paper,” according to a translation by the news outlet Ukrainska Pravda.
+20. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> Zelensky admitted “half of the money we sent him is ‘MISSING.’” Zelensky had made no such admission; rather, he had taken issue with inflated claims about how much US cash Ukraine had received, saying he doesn’t know where all the professed additional money has gone and that perhaps these higher figures are correct “on paper,” according to a
+<a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/">
+translation by the news outlet Ukrainska Pravda</a>.
 
-21. Falsely claimed in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to Ukrainian leaders, independent analysts, journalists, and, Reuters reported, US intelligence.
+21. <a href="">
+Falsely claimed</a> in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to Ukrainian leaders, independent analysts, journalists, and, Reuters reported, US intelligence.
 
-22. Falsely claimed that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were exaggerations of a rough written transcript of the call, which was released before Schiff delivered his rendition of it.
+22. <a href="">
+Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were exaggerations of a rough written transcript of the call, which was released before Schiff delivered his rendition of it.
 
-23. Falsely claimed Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump signed sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project announced in December 2020, the month before Trump left office, that construction was resuming.
+23. <a href="">
+Falsely claimed</a>
+Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump signed sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project announced in December 2020, the month before Trump left office, that construction was resuming.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Immigration</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-24. Falsely claimed the US is the only country that grants birthright citizenship. Dozens of other countries, including Canada and Mexico, also grant automatic citizenship to people born on their soil.
+24. <a href="">
+Falsely claimed</a> the US is the only country that grants birthright citizenship. Dozens of other countries, including Canada and Mexico, also grant automatic citizenship to people born on their soil.
 
-25. Falsely claimed he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And the majority of them replaced previous barriers, though Trump’s replacement barriers were generally much more formidable.)
+25. <a href="">
+Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And the majority of them replaced previous barriers, though Trump’s replacement barriers were generally much more formidable.)
 
-26. Falsely claimed “I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he did not complete the wall. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were about 280 miles where wall construction had been planned but not executed.
+26. <a href="">
+Falsely claimed</a> “I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he did not complete the wall. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were about 280 miles where wall construction had been planned but not executed.
 
-27. Falsely claimed that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but not the lowest “ever recorded.”
+27. <a href="">
+Falsely claimed</a> that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but not the lowest “ever recorded.”
 
-28. Falsely claimed that, as shown on a chart he frequently displayed at rallies, the US had the lowest level of illegal immigration ever when he left office in January 2021. In fact, the spot that the chart deceptively highlights as a historic low point was April 2020, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.
+28. <a href="">
+Falsely claimed</a> that, as shown on a chart he frequently displayed at rallies, the US had the lowest level of illegal immigration ever when he left office in January 2021. In fact, the spot that the chart deceptively highlights as a historic low point was April 2020, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.
 
-29. Falsely claimed “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had recorded under 11 million nationwide “encounters” with migrants during that administration, including millions who were rapidly expelled from the country. Even adding in so-called gotaways who evaded detection, estimated by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.
+29. <a href="">
+Falsely claimed</a> “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had recorded under 11 million nationwide “encounters” with migrants during that administration, including millions who were rapidly expelled from the country. Even adding in so-called gotaways who evaded detection, estimated by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.
 
-30. Falsely claimed foreign leaders “all over the world” emptied their jails and mental health facilities to somehow “dump” people from those facilities into the US as migrants during the Biden administration – adding that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world said she knows of nothing like it.
+30. <a href="">
+Falsely claimed</a> foreign leaders “all over the world” emptied their jails and mental health facilities to somehow “dump” people from those facilities into the US as migrants during the Biden administration – adding that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world said she knows of nothing like it.
 
-31. Falsely claimed former Vice President Harris was the Biden administration’s “border czar.” In reality, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.
+31. <a href="">
+Falsely claimed</a> former Vice President Harris was the Biden administration’s “border czar.” In reality, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.
 
-32. Falsely claimed he “came up with” the term “caravan” in reference to migrants. He didn’t, as CNN and others noted when he previously claimed to have coined the phrase.
+32. <a href="">Falsely claimed he “came up with” the term “caravan” in reference to migrants. He didn’t, as CNN and others noted when he previously claimed to have coined the phrase.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign affairs</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-33. Falsely claimed he thwarted a plan from the Biden administration to spend $50 million on condoms for Hamas in Gaza, then falsely claimed it was $100 million. The tale was fictional at either figure. When Trump ally Elon Musk was challenged about the claim after it was debunked, Musk conceded that “some of the things that I say will be incorrect, and should be corrected.”
+33. <a href="">
+Falsely claimed</a> he thwarted a plan from the Biden administration to spend $50 million on condoms for Hamas in Gaza, then falsely claimed it was $100 million. The tale was fictional at either figure. When Trump ally Elon Musk was challenged about the claim after it was debunked, Musk conceded that “some of the things that I say will be incorrect, and should be corrected.”
 
-34. Falsely claimed of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas released 105 hostages during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
+34. <a href="">
+Falsely claimed</a> of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas released 105 hostages during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
 
-35. Falsely claimed there was “peace all over the world” when he left office in 2021. There were dozens of active armed conflicts at the time.
+35. <a href="">
+Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were dozens of active armed conflicts at the time.
 
-36. Falsely claimed of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea began in 1991.
+36. <a href="">
+Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea began in 1991.
 
-37. Falsely claimed Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in 2021 and 2024 - both of which included South Korean spending increases.
+37. <a href="">
+Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in 2021 and 2024 - both of which included South Korean spending increases.
 
-38. Falsely claimed the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan provides billions of dollars per year in support for the US military presence in the country.
+38. <a href="">
+Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan provides billions of dollars per year in support for the US military presence in the country.
 
-39. Falsely claimed, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
+39. <a href="">
+Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
 
-40. Falsely claimed Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration acknowledged in the last year of that presidency that Iran was continuing to fund terror groups including Hezbollah. The funding did decline in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, four experts told CNN in 2024.
+40. <a href="">
+Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration acknowledged in the last year of that presidency that Iran was continuing to fund terror groups including Hezbollah. The funding did decline in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, four experts told CNN in 2024.
 
-41. Falsely claimed he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated more than two years into Trump’s presidency, and the group continues to operate today.
+41. <a href="">
+Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated more than two years into Trump’s presidency, and the group continues to operate today.
 
-42. Falsely claimed the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has estimated that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
+42. <a href="">
+Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has estimated that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
 
-43. Falsely claimed “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, they show about 5,600 people died during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough found that “the number of white Americans who died was about 350.”
+43. <a href="">
+Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, they show about 5,600 people died during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough found that “the number of white Americans who died was about 350.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-44. Falsely claimed that “we have a deficit with China of over $1 trillion.” Federal statistics show the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.
+44. <a href="">
+Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” Federal statistics show the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.
 
-45. Falsely claimed Biden is responsible for the trade deficit with China supposedly worsening to more than $1 trillion, saying Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the deficit in every year of Trump’s first presidency.
+45. <a href="">
+Falsely claimed</a> Biden is responsible for the trade deficit with China supposedly worsening to more than $1 trillion, saying Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the deficit in every year of Trump’s first presidency.
 
-46. Falsely claimed the US took in “hundreds of billions of dollars from China” – that “they paid” – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.
+46. <a href="">
+Falsely claimed</a> the US took in “hundreds of billions of dollars from China” – that “they paid” – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.
 
-47. Falsely claimed no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China since 1789, and it was generating billions per year from such tariffs during the Obama administration.
+47. <a href="">
+Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China since 1789, and it was generating billions per year from such tariffs during the Obama administration.
 
-48. Falsely claimed, “Above all, China is operating the Panama Canal.” It isn’t; Panama is. Trump could have raised legitimate questions about China’s influence in the canal area, but “operating the canal” went too far.
+48. <a href="">
+Falsely claimed</a>, “Above all, China is operating the Panama Canal.” It isn’t; Panama is. Trump could have raised legitimate questions about China’s influence in the canal area, but “operating the canal” went too far.
 
-49. Falsely claimed that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration made a concerted effort to deter such purchases, but they never stopped – and then they rose sharply again, up to hundreds of thousands of barrels per day, while Trump was still president.
+49. <a href="">
+Falsely claimed</a> that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration made a concerted effort to deter such purchases, but they never stopped – and then they rose sharply again, up to hundreds of thousands of barrels per day, while Trump was still president.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Europe</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-50. Falsely claimed Europe doesn’t “take anything” sold by the US. While the European Union certainly has some trade barriers that impede the sale of US products there, federal statistics show the EU bought about $649 billion worth of US exports in 2024 – very far from nothing.
+50. <a href="">
+Falsely claimed</a> Europe doesn’t “take anything” sold by the US. While the European Union certainly has some trade barriers that impede the sale of US products there, federal statistics show the EU bought about $649 billion worth of US exports in 2024 – very far from nothing.
 
-51. Falsely claimed, of Europe, that “they don’t take our farm products.” The US government says the EU was the fourth-largest export market for US agricultural exports in 2024, buying a record $12.8 billion worth, despite some agricultural trade barriers.
+51. <a href="">
+Falsely claimed</a>, of Europe, that “they don’t take our farm products.” The US government says the EU was the fourth-largest export market for US agricultural exports in 2024, buying a record $12.8 billion worth, despite some agricultural trade barriers.
 
-52. Falsely claimed the US has a trade deficit with the EU of “$350 billion.” Federal statistics show the 2024 deficit with the EU in goods and services trade was about $161 billion; it was about $237 billion in goods trade alone.
+52. <a href="">
+Falsely claimed</a> the US has a trade deficit with the EU of “$350 billion.” Federal statistics show the 2024 deficit with the EU in goods and services trade was about $161 billion; it was about $237 billion in goods trade alone.
 
-53. Falsely claimed of the EU, “They don’t take our cars,” adding that “we don’t have a car that’s been sold to the European Union.” According to a March 2025 report from the European Automobile Manufacturers’ Association, “164,857 US-made cars were exported to the EU in 2024,” valued at about $8.8 billion at current exchange rates. Some of these are vehicles made by European automakers at plants in the US, and while US automakers have often struggled to gain popularity in Europe, it’s not true the EU categorically rejects US-made vehicles.
+53. <a href="">
+Falsely claimed</a> of the EU, “They don’t take our cars,” adding that “we don’t have a car that’s been sold to the European Union.” According to a March 2025 report from the European Automobile Manufacturers’ Association, “164,857 US-made cars were exported to the EU in 2024,” valued at about $8.8 billion at current exchange rates. Some of these are vehicles made by European automakers at plants in the US, and while US automakers have often struggled to gain popularity in Europe, it’s not true the EU categorically rejects US-made vehicles.
 
-54. Falsely claimed the EU has a trade barrier that makes it impossible to sell US cars there – a test in which “they drop a bowling ball on the top of your car from 20 feet up in the air, and if there’s a little dent, they say, ‘No, I’m sorry, your car doesn’t qualify.’” There is no EU car safety test involving bowling balls and no requirement for cars to not experience even minor damage when a large object strikes them.
+54. <a href="">
+Falsely claimed</a> the EU has a trade barrier that makes it impossible to sell US cars there – a test in which “they drop a bowling ball on the top of your car from 20 feet up in the air, and if there’s a little dent, they say, ‘No, I’m sorry, your car doesn’t qualify.’” There is no EU car safety test involving bowling balls and no requirement for cars to not experience even minor damage when a large object strikes them.
 
-55. Falsely claimed the EU was “formed for the purpose of taking advantage of the United States.” Experts on the history of the EU have told CNN such claims are “preposterous” and “could not be more wrong or inaccurate,” noting US presidents consistently supported European integration efforts that were intended to stabilize the continent and promote prosperity.
+55. <a href="">
+Falsely claimed</a> the EU was “formed for the purpose of taking advantage of the United States.” Experts on the history of the EU have told CNN such claims are “preposterous” and “could not be more wrong or inaccurate,” noting US presidents consistently supported European integration efforts that were intended to stabilize the continent and promote prosperity.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Canada</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-56. Falsely claimed Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that tens of thousands of metric tons of imported US milk per year, not merely a single carton, will face no tariffs at all – and the US is not even close to hitting its tariff-free milk quota, so US exports aren’t being hit with the high tariffs at all.
+56. <a href="">
+Falsely claimed</a> Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that tens of thousands of metric tons of imported US milk per year, not merely a single carton, will face no tariffs at all – and the US is not even close to hitting its tariff-free milk quota, so US exports aren’t being hit with the high tariffs at all.
 
-57. Falsely claimed he had Canada’s dairy-tariff situation “well taken care of” at the time he left office the first time, “but under Biden, they just kept raising it.” In fact, Canada did not raise its dairy tariffs during the Biden administration; the tariffs Trump is denouncing were left in place by his own USMCA.
+57. <a href="">
+Falsely claimed</a> he had Canada’s dairy-tariff situation “well taken care of” at the time he left office the first time, “but under Biden, they just kept raising it.” In fact, Canada did not raise its dairy tariffs during the Biden administration; the tariffs Trump is denouncing were left in place by his own USMCA.
 
-58. Falsely claimed the US has a $200 billion trade deficit with Canada. Federal statistics show the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.
+58. <a href="">
+Falsely claimed</a> the US has a $200 billion trade deficit with Canada. Federal statistics show the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.
 
-59. Falsely claimed Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, just 102nd-highest on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)
+59. <a href="">
+Falsely claimed</a> Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, just 102nd-highest on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)
 
-60. Falsely claimed, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, according to the US Department of Agriculture, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA notes on its website that “almost all” US agricultural exports to Canada face zero tariffs or quotas.
+60. <a href="">
+Falsely claimed</a>, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, according to the US Department of Agriculture, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA notes on its website that “almost all” US agricultural exports to Canada face zero tariffs or quotas.
 
-61. Falsely claimed Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like Bank of America, Wells Fargo, Citigroup and US Bank operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.
+61. <a href="">
+Falsely claimed</a> Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like Bank of America, Wells Fargo, Citigroup and US Bank operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Environment and energy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-62. Falsely claimed people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA reported in 2024 that the global average sea level rose about 0.3 inches from 2022 to 2023.
+62. <a href="">
+Falsely claimed</a> people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA reported in 2024 that the global average sea level rose about 0.3 inches from 2022 to 2023.
 
-63. Falsely claimed the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have explained that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.
+63. <a href="">
+Falsely claimed</a> the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have explained that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.
 
-64. Falsely claimed “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub did not actually go to Los Angeles; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.
+64. <a href="">
+Falsely claimed</a> “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub did not actually go to Los Angeles; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.
 
-65. Falsely claimed some of California’s water flows down from Canada. It doesn’t; the Columbia River that begins in Canada flows into the Pacific in Oregon.
+65. <a href="">
+Falsely claimed</a> some of California’s water flows down from Canada. It doesn’t; the Columbia River that begins in Canada flows into the Pacific in Oregon.
 
-66. Falsely claimed the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden pledged to pay $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.
+66. <a href="">
+Falsely claimed</a> the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden pledged to pay $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.
 
-67. Falsely claimed Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was never a mandate requiring American consumers to have electric cars; the tailpipe rules for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.
+67. <a href="">
+Falsely claimed</a> Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was never a mandate requiring American consumers to have electric cars; the tailpipe rules for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.
 
-68. Falsely claimed the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As FactCheck.org and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles reported that, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.
+68. <a href="">
+Falsely claimed</a> the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As FactCheck.org and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles reported that, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.
 
-69. Falsely claimed “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government told The Associated Press, and is not opening any new ones; the country has formally committed to phasing out coal by 2038 at the latest. It is true that Germany temporarily revived some idled coal plants after Russia slashed natural gas exports following its 2022 invasion of Ukraine, but those plants were taken offline again in 2024.
+69. <a href="">
+Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government told The Associated Press, and is not opening any new ones; the country has formally committed to phasing out coal by 2038 at the latest. It is true that Germany temporarily revived some idled coal plants after Russia slashed natural gas exports following its 2022 invasion of Ukraine, but those plants were taken offline again in 2024.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Gender, health, education, media</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-70. Falsely claimed two gold medalists in women’s boxing at the Olympics in Paris last year were men who “transitioned.” Neither champion had transitioned; as the International Olympic Committee noted, both were born as female, raised as female and have always competed in women’s events. Even the discredited boxing authority that controversially disqualified the women from a 2023 competition, vaguely claiming a test had found they had unfair competitive advantages, did not allege they had transitioned.
+70. <a href="">
+Falsely claimed</a> two gold medalists in women’s boxing at the Olympics in Paris last year were men who “transitioned.” Neither champion had transitioned; as the International Olympic Committee noted, both were born as female, raised as female and have always competed in women’s events. Even the discredited boxing authority that controversially disqualified the women from a 2023 competition, vaguely claiming a test had found they had unfair competitive advantages, did not allege they had transitioned.
 
-71. Falsely claimed “20 years ago, Autism in children was 1 in 10,000,” much rarer than today’s prevalence of about 1 in 31 children. Public statistics from the US Centers for Disease Control and Prevention (CDC) show that the prevalence of autism in 2004 was 1 in 125 children.
+71. <a href="">
+Falsely claimed</a> “20 years ago, Autism in children was 1 in 10,000,” much rarer than today’s prevalence of about 1 in 31 children. Public statistics from the US Centers for Disease Control and Prevention (CDC) show that the prevalence of autism in 2004 was 1 in 125 children.
 
-72. Falsely claimed that “we lose 300,000 people a year to fentanyl, not 100 (thousand), not 95 (thousand), not 60 (thousand) like you read.” There is no basis for Trump’s “300,000” figure; the US has never had 100,000 reported deaths involving synthetic opioids like fentanyl in a 12-month period, let alone 300,000, and while experts say there may well be an undercount, it is not nearly as high as Trump said.
+72. <a href="">
+Falsely claimed</a> that “we lose 300,000 people a year to fentanyl, not 100 (thousand), not 95 (thousand), not 60 (thousand) like you read.” There is no basis for Trump’s “300,000” figure; the US has never had 100,000 reported deaths involving synthetic opioids like fentanyl in a 12-month period, let alone 300,000, and while experts say there may well be an undercount, it is not nearly as high as Trump said.
 
-73. Falsely claimed the US ranks dead last, 40th out of 40 countries, in international education rankings. The White House couldn’t identify any education rankings where the US ranked 40th out of 40 countries; FactCheck.org and PolitiFact have noted that even among the wealthy, developed countries of the Organization for Economic Co-operation and Development, the US ranks well above average in reading and science and below average but still far from last in math.
+73. <a href="">
+Falsely claimed</a> the US ranks dead last, 40th out of 40 countries, in international education rankings. The White House couldn’t identify any education rankings where the US ranked 40th out of 40 countries; FactCheck.org and PolitiFact have noted that even among the wealthy, developed countries of the Organization for Economic Co-operation and Development, the US ranks well above average in reading and science and below average but still far from last in math.
 
-74. Falsely claimed that while Democratic governors closed schools during the Covid-19 pandemic, some governors “kept them open 100% of the time,” adding, “South Carolina did. Tennessee did.” The Republican governor of South Carolina ordered school closures in 2020, while the Republican governor of Tennessee recommended school closures that year (and the state’s school districts complied).
+74. <a href="">
+Falsely claimed</a> that while Democratic governors closed schools during the Covid-19 pandemic, some governors “kept them open 100% of the time,” adding, “South Carolina did. Tennessee did.” The Republican governor of South Carolina ordered school closures in 2020, while the Republican governor of Tennessee recommended school closures that year (and the state’s school districts complied).
 
-75. Falsely claimed, while alleging that CNN and MSNBC cover him too negatively, that “what they do is illegal.” It is not.
+75. <a href="">
+Falsely claimed</a>, while alleging that CNN and MSNBC cover him too negatively, that “what they do is illegal.” It is not.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Elections and Trump’s popularity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-76. Falsely claimed the 2020 election was “totally rigged.” There is no basis for the claim. Trump lost a legitimate election to Biden.
+76. <a href="">
+Falsely claimed</a> the 2020 election was “totally rigged.” There is no basis for the claim. Trump lost a legitimate election to Biden.
 
-77. Falsely claimed Democrats “tried” to “rig” the 2024 election he won. There is no basis for this claim, either.
+77. <a href="">
+Falsely claimed</a> Democrats “tried” to “rig” the 2024 election he won. There is no basis for this claim, either.
 
-78. Falsely claimed his 2020 vote total, “almost 75 million votes,” was incorrect. The votes were counted and reported accurately, and Trump’s vote total – about 74.2 million – is his actual total.
+78. <a href="">
+Falsely claimed</a> his 2020 vote total, “almost 75 million votes,” was incorrect. The votes were counted and reported accurately, and Trump’s vote total – about 74.2 million – is his actual total.
 
-79. Falsely claimed “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he got 81,283,501 votes.
+79. <a href="">
+Falsely claimed</a> “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he got 81,283,501 votes.
 
-80. Falsely claimed he got “much more than 80 million votes” in the 2024 election. Trump received about 77.3 million votes.
+80. <a href="">
+Falsely claimed</a> he got “much more than 80 million votes” in the 2024 election. Trump received about 77.3 million votes.
 
-81. Falsely claimed his 2024 vote total is “actually much more than” the reported total, since unspecified people “cheated like hell.” Trump’s official vote total is his actual vote total, and there is no evidence of cheating by vote counters or by his Democratic foes.
+81. <a href="">
+Falsely claimed</a> his 2024 vote total is “actually much more than” the reported total, since unspecified people “cheated like hell.” Trump’s official vote total is his actual vote total, and there is no evidence of cheating by vote counters or by his Democratic foes.
 
-82. Falsely claimed he won Wisconsin “three times.” He won it twice, in 2016 and 2024, but lost it in 2020.
+82. <a href="">
+Falsely claimed</a> he won Wisconsin “three times.” He won it twice, in 2016 and 2024, but lost it in 2020.
 
-83. Falsely claimed, “We’re the only country in the world that has mail-in voting.” Various other countries, including Canada, Germany, Switzerland, the United Kingdom, and Spain, allow some or all voters to vote by mail, though the specifics of their policies vary.
+83. <a href="">
+Falsely claimed</a>, “We’re the only country in the world that has mail-in voting.” Various other countries, including Canada, Germany, Switzerland, the United Kingdom, and Spain, allow some or all voters to vote by mail, though the specifics of their policies vary.
 
-84. Falsely claimed a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, saying absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.
+84. <a href="">
+Falsely claimed</a> a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, saying absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.
 
-85. Falsely described the Biden administration as election cheaters, saying that “the only thing they’re good at, really, is cheating” and that “anybody that cheats that much and that well is not stupid.” This is nonsense.
+85. <a href="">
+Falsely described</a> the Biden administration as election cheaters, saying that “the only thing they’re good at, really, is cheating” and that “anybody that cheats that much and that well is not stupid.” This is nonsense.
 
-86. Falsely claimed in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief certified the 2024 presidential election results on December 13, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results on December 3.
+86. <a href="">
+Falsely claimed</a> in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief certified the 2024 presidential election results on December 13, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results on December 3.
 
-87. Falsely claimed on February 21, while speaking about California and the presidential election, that “they were voting a week and a half ago.” Nobody anywhere in the country was still voting in the November 2024 presidential election in February 2025.
+87. <a href="">
+Falsely claimed</a> on February 21, while speaking about California and the presidential election, that “they were voting a week and a half ago.” Nobody anywhere in the country was still voting in the November 2024 presidential election in February 2025.
 
-88. Falsely claimed “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN exit polls showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an ongoing debate among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)
+88. <a href="">
+Falsely claimed</a> “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN exit polls showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an ongoing debate among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)
 
-89. Falsely claimed his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, in the 40s and 50s at the time he made it, was not even close to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.
+89. <a href="">
+Falsely claimed</a> his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, in the 40s and 50s at the time he made it, was not even close to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.
 
-90. Falsely claimed, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” There were empty seats at numerous Trump rallies in 2024, including one where he made the boast that “we never have an empty seat.”
+90. <a href="">
+Falsely claimed</a>, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” There were empty seats at numerous Trump rallies in 2024, including one where he made the boast that “we never have an empty seat.”
 
-91. Falsely claimed that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from CNN and other outlets estimated that hundreds of people left.
+91. <a href="">
+Falsely claimed</a> that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from CNN and other outlets estimated that hundreds of people left.
 
 The January 6, 2021, attack on the Capitol
-92. Falsely claimed the perpetrators of the Capitol riot “didn’t assault.” They did, as video after video and trial after trial made clear. The Justice Department has said more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.
+92. <a href="">
+Falsely claimed</a> the perpetrators of the Capitol riot “didn’t assault.” They did, as video after video and trial after trial made clear. The Justice Department has said more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.
 
-93. Falsely claimed the January 6 rioters “had no guns.” Multiple rioters were armed with guns.
+93. <a href="">
+Falsely claimed</a> the January 6 rioters “had no guns.” Multiple rioters were armed with guns.
 
-94. Falsely claimed rioter Ashli Babbitt “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. Video evidence shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.
+94. <a href="">
+Falsely claimed</a> rioter Ashli Babbitt “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. Video evidence shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.
 
 95. Falsely claimed the House select committee that investigated the attack on the Capitol “deleted and destroyed all of the information that they collected.” The committee preserved a large volume of evidence, though there has been a long-running dispute between Republicans and Democrats over the preservation of certain committee records.
 
-96. Falsely claimed Democratic former House Speaker Nancy Pelosi is “on tape” admitting that she had rejected his offer of 10,000 National Guard troops to protect the Capitol on January 6, 2021. There is no evidence Pelosi turned down or even received such an offer, and she has repeatedly rejected, not confirmed, Trump’s story about what happened. Pelosi was recorded by her daughter expressing frustration with Capitol security that day and saying, “I take responsibility for not having them just prepare for more” – not saying she had turned down a Trump offer of 10,000 troops or that, as Trump has also wrongly claimed, she was in charge of Capitol security.
+96. <a href="">
+Falsely claimed</a> Democratic former House Speaker Nancy Pelosi is “on tape” admitting that she had rejected his offer of 10,000 National Guard troops to protect the Capitol on January 6, 2021. There is no evidence Pelosi turned down or even received such an offer, and she has repeatedly rejected, not confirmed, Trump’s story about what happened. Pelosi was recorded by her daughter expressing frustration with Capitol security that day and saying, “I take responsibility for not having them just prepare for more” – not saying she had turned down a Trump offer of 10,000 troops or that, as Trump has also wrongly claimed, she was in charge of Capitol security.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Federal government</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-97. Falsely claimed Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched during Trump’s own administration in 2019.
+97. <a href="">
+Falsely claimed</a> Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched during Trump’s own administration in 2019.
 
-98. Falsely claimed “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already stops payments to people listed as being age 115 and older. As a government watchdog noted in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration noted in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.
+98. <a href="">
+Falsely claimed</a> “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already stops payments to people listed as being age 115 and older. As a government watchdog noted in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration noted in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.
 
-99. Falsely claimed that when a federal employee didn’t respond to the initial Elon Musk email blast asking them to list accomplishments from the previous week, “Usually that means that maybe that person doesn’t exist, or that person doesn’t want to say they’re working for another company while being paid by the United States government.” That’s not true; there were explanations for the early non-responses other than improper moonlighting or someone not existing while being paid as a federal employee. For one, leaders at multiple federal agencies had told their employees not to respond to the email.
+99. <a href="">
+Falsely claimed</a> that when a federal employee didn’t respond to the initial Elon Musk email blast asking them to list accomplishments from the previous week, “Usually that means that maybe that person doesn’t exist, or that person doesn’t want to say they’re working for another company while being paid by the United States government.” That’s not true; there were explanations for the early non-responses other than improper moonlighting or someone not existing while being paid as a federal employee. For one, leaders at multiple federal agencies had told their employees not to respond to the email.
 
-100. Falsely described the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, Robert Hur, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”
+100. <a href="">
+Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, Robert Hur, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”
 
 https://www.project2025.observer/
 
