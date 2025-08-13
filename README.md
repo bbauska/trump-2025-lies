@@ -515,29 +515,52 @@ US Bank</a> operate there today. While Canada’s tight regulations have discour
 <h3>Environment and energy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="62">
-  <li>62. <a href="">
-Falsely claimed</a> people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA reported in 2024 that the global average sea level rose about 0.3 inches from 2022 to 2023.</li>
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-interview-maria-bartiromo-fox-news-sunday-futures-march-9-2025/#162">
+  Falsely claimed</a> people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA 
+  <a href="https://sealevel.nasa.gov/news/270/nasa-analysis-sees-spike-in-2023-global-sea-level-due-to-el-nino/#:~:text=Global%20average%20sea%20level%20rose,the%20course%20of%20a%20year">
+  reported in 2024</a> that the global average sea level rose about 0.3 inches from 2022 to 2023.</li>
 
-  <li>63. <a href="">
-Falsely claimed</a> the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have explained that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.</li>
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-energy-exploration-executive-order-april-8-2025/#92">
+Falsely claimed</a> the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have 
+<a href="https://www.cnn.com/2025/01/09/politics/fact-check-trump-california-wildfires-fema/index.html">
+explained</a> that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.</li>
 
-  <li>64. <a href="">
-Falsely claimed</a> “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub did not actually go to Los Angeles; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.</li>
+  <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-los-angeles-water/index.html">
+Falsely claimed</a> “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub 
+<a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-los-angeles-water/index.html">
+did not actually go to Los Angeles</a>; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.</li>
 
-  <li>65. <a href="">
+  <li><a href="https://www.washingtonpost.com/politics/2025/04/16/trump-california-water-faucet-fact-checker/">
 Falsely claimed</a> some of California’s water flows down from Canada. It doesn’t; the Columbia River that begins in Canada flows into the Pacific in Oregon.</li>
 
-  <li>66. <a href="">
-Falsely claimed</a> the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden pledged to pay $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.</li>
+  <li>66. <a href="https://www.cnn.com/2025/03/04/politics/fact-check-trump-address-congress/index.html">
+Falsely claimed</a> the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden <a href="https://www.cnn.com/2021/09/21/politics/biden-climate-change-global-funding/index.html">
+pledged to pay</a> $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.</li>
 
-  <li>67. <a href="">
-Falsely claimed</a> Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was never a mandate requiring American consumers to have electric cars; the tailpipe rules for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.</li>
+  <li><a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+Falsely claimed</a> Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was 
+<a href="https://www.cnn.com/2025/01/22/business/trump-ev-policy-change/index.html">
+never</a> a mandate requiring American consumers to have electric cars; the 
+<a href="https://www.cnn.com/2024/03/20/climate/epa-biden-electric-cars/index.html">
+tailpipe rules</a> for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.</li>
 
-  <li>68. <a href="">
-Falsely claimed</a> the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As FactCheck.org and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles reported that, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.</li>
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-auto-tariffs-oval-office-march-26-2025/#14">
+Falsely claimed</a> the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As 
+<a href="https://www.factcheck.org/2024/08/trump-misleads-on-the-cost-of-electric-vehicle-chargers/">FactCheck.org</a> 
+and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles 
+<a href="https://www.washingtonpost.com/climate-solutions/2024/03/28/ev-charging-stations-slow-rollout/">
+reported that</a>, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.</li>
 
-  <li>69. <a href="">
-Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government told The Associated Press, and is not opening any new ones; the country has formally committed to phasing out coal by 2038 at the latest. It is true that Germany temporarily revived some idled coal plants after Russia slashed natural gas exports following its 2022 invasion of Ukraine, but those plants were taken offline again in 2024.</li>
+  <li><a href="https://www.youtube.com/watch?v=mpiFKMye2rQ">
+Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government 
+<a href="https://apnews.com/article/trump-coal-industry-mining-fact-check-69bc9919c2899a87c65c4c89a84a973e">
+told The Associated Press</a>, and is not opening any new ones; the country has 
+<a href="https://www.cleanenergywire.org/news/german-government-says-no-new-law-planned-ensure-coal-exit-earlier-2038">
+formally committed</a> to phasing out coal by 2038 at the latest. It is true that Germany 
+<a href="https://www.bloomberg.com/news/articles/2023-10-04/germany-orders-three-old-lignite-plants-to-operate-in-winter">
+temporarily revived</a> some idled coal plants after 
+<a href="https://www.cnn.com/2022/09/02/energy/nord-stream-1-pipeline-turned-off/index.html">
+Russia slashed natural gas exports following its 2022 invasion of Ukraine</a>, but those plants were taken offline again in 2024.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Gender, health, education, media</h3>
