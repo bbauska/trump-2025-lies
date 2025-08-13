@@ -2,7 +2,7 @@
 <h1 id="#trump-2025">trump-2025</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>A little background<br>
-<p>Donald Trump has made tens of thousands of lies.</p>
+<p>Donald Trump has made tens of thousands of lies. These have cost human lives.</p>
 <p>Fact-checkers at The Washington Post documented 30,573 false or misleading claims during 
 his first presidential term (2016-2020), an average of 21 per day. The Toronto Star tallied 5,276 
 false claims from January 2017 to June, 2019 (2 1/2 years)</p>
@@ -404,28 +404,28 @@ acknowledged in the last year of that presidency</a> that Iran was continuing to
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="44">
-  <li>44. <a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
+  <li><a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
     Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” 
 	<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">Federal statistics show</a> the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.</li>
 
-  <li>45. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
+  <li><a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
     Falsely claimed</a> Biden is responsible for the trade deficit with China supposedly worsening to more than 
 	$1 trillion, 
 	<a href="https://www.cnn.com/2025/01/23/politics/fact-check-trump-davos/index.html">
 	saying</a> Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the 
 	deficit in <a href="https://www.bea.gov/sites/default/files/2021-05/trad0321.pdf">every year</a> of Trump’s first presidency.</li>
 
-  <li>46. <a href="https://www.cnn.com/2025/04/07/politics/fact-check-trump-trade-europe-china/index.html">
+  <li><a href="https://www.cnn.com/2025/04/07/politics/fact-check-trump-trade-europe-china/index.html">
     Falsely claimed</a> the US took in “hundreds of billions of dollars from China” – that 
 	<a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
 	“they paid”</a> – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.</li>
 
-  <li>47. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
 Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China <a href="https://fraser.stlouisfed.org/title/tariff-1789-hamilton-tariff-5884?page=2">
 since 1789</a>, and it was <a href="https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/">
 generating billions</a> per year from such tariffs during the Obama administration.</li>
 
-  <li>48. <a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
+  <li><a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
 Falsely claimed</a>, “Above all, China is operating the Panama Canal.” 
   <a href="https://www.cnn.com/2025/01/17/politics/trump-panama-canal-threats-history-mulino/index.html">
   It isn’t</a>; Panama is. Trump could have raised 
@@ -442,173 +442,193 @@ Falsely claimed</a> that during his first presidency, he successfully pressured 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Europe</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-50. <a href="">
-Falsely claimed</a> Europe doesn’t “take anything” sold by the US. While the European Union certainly has some trade barriers that impede the sale of US products there, federal statistics show the EU bought about $649 billion worth of US exports in 2024 – very far from nothing.
+<ol start="50">
+  <li><a href="https://www.cnn.com/2025/04/07/politics/fact-check-trump-trade-europe-china/index.html">
+Falsely claimed</a> Europe doesn’t “take anything” sold by the US. While the European Union certainly has some trade barriers that impede the sale of US products there, 
+<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">
+federal statistics show</a> the EU bought about $649 billion worth of US exports in 2024 – very far from nothing.</li>
 
-51. <a href="">
-Falsely claimed</a>, of Europe, that “they don’t take our farm products.” The US government says the EU was the fourth-largest export market for US agricultural exports in 2024, buying a record $12.8 billion worth, despite some agricultural trade barriers.
+  <li><a href="https://www.cnn.com/2025/04/07/politics/fact-check-trump-trade-europe-china/index.html">
+Falsely claimed</a>, of Europe, that “they don’t take our farm products.” The US government 
+<a href="https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/agricultural-trade">
+says</a> the EU was the fourth-largest export market for US agricultural exports in 2024, buying a record $12.8 billion worth, despite some agricultural trade barriers.</li>
 
-52. <a href="">
-Falsely claimed</a> the US has a trade deficit with the EU of “$350 billion.” Federal statistics show the 2024 deficit with the EU in goods and services trade was about $161 billion; it was about $237 billion in goods trade alone.
+  <li><a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
+Falsely claimed</a> the US has a trade deficit with the EU of “$350 billion.” 
+<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">Federal statistics show</a> the 2024 deficit with the EU in goods and services trade was about $161 billion; it was about $237 billion in goods trade alone.</li>
 
-53. <a href="">
-Falsely claimed</a> of the EU, “They don’t take our cars,” adding that “we don’t have a car that’s been sold to the European Union.” According to a March 2025 report from the European Automobile Manufacturers’ Association, “164,857 US-made cars were exported to the EU in 2024,” valued at about $8.8 billion at current exchange rates. Some of these are vehicles made by European automakers at plants in the US, and while US automakers have often struggled to gain popularity in Europe, it’s not true the EU categorically rejects US-made vehicles.
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-benjamin-netanyahu-israel-april-7-2025/">
+Falsely claimed</a> of the EU, “They don’t take our cars,” adding that “we don’t have a car that’s been sold to the European Union.” According to a March 2025 
+<a href="https://www.acea.auto/files/ACEA_fact_sheet_EU_US_vehicle_trade_March_2025.pdf">
+report</a> from the European Automobile Manufacturers’ Association, “164,857 US-made cars were exported to the EU in 2024,” valued at about $8.8 billion at current exchange rates. Some of these are vehicles 
+<a href="https://www.atlanticcouncil.org/blogs/econographics/us-eu-auto-tariffs-what-s-at-stake-copy/">
+made by European automakers at plants in the US</a>, and while US automakers have often struggled to gain popularity in Europe, it’s not true the EU categorically rejects US-made vehicles.</li>
 
-54. <a href="">
-Falsely claimed</a> the EU has a trade barrier that makes it impossible to sell US cars there – a test in which “they drop a bowling ball on the top of your car from 20 feet up in the air, and if there’s a little dent, they say, ‘No, I’m sorry, your car doesn’t qualify.’” There is no EU car safety test involving bowling balls and no requirement for cars to not experience even minor damage when a large object strikes them.
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-benjamin-netanyahu-israel-april-7-2025/#110">
+Falsely claimed</a> the EU has a trade barrier that makes it impossible to sell US cars there – a test in which “they drop a bowling ball on the top of your car from 20 feet up in the air, and if there’s a little dent, they say, ‘No, I’m sorry, your car doesn’t qualify.’” There is no EU car safety test involving bowling balls and 
+<a href="https://nordot.app/1282372704765412334">no requirement</a> for cars to not experience even minor damage when a large object strikes them.</li>
 
-55. <a href="">
-Falsely claimed</a> the EU was “formed for the purpose of taking advantage of the United States.” Experts on the history of the EU have told CNN such claims are “preposterous” and “could not be more wrong or inaccurate,” noting US presidents consistently supported European integration efforts that were intended to stabilize the continent and promote prosperity.
-
+  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">
+Falsely claimed</a> the EU was “formed for the purpose of taking advantage of the United States.” Experts on the history of the EU have told CNN such claims are “preposterous” and “could not be more wrong or inaccurate,” noting US presidents consistently supported European integration efforts that were intended to stabilize the continent and promote prosperity.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Canada</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-56. <a href="">
-Falsely claimed</a> Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that tens of thousands of metric tons of imported US milk per year, not merely a single carton, will face no tariffs at all – and the US is not even close to hitting its tariff-free milk quota, so US exports aren’t being hit with the high tariffs at all.
+<ol start="56">
+  <li>56. <a href="">
+Falsely claimed</a> Canada imposes low tariffs on merely “the first little carton of milk” exported by the US, but then US exports get hit with tariffs “up to 275, 300%.” In reality, in Trump’s US-Mexico-Canada Agreement (USMCA), Canada guaranteed that tens of thousands of metric tons of imported US milk per year, not merely a single carton, will face no tariffs at all – and the US is not even close to hitting its tariff-free milk quota, so US exports aren’t being hit with the high tariffs at all.</li>
 
-57. <a href="">
-Falsely claimed</a> he had Canada’s dairy-tariff situation “well taken care of” at the time he left office the first time, “but under Biden, they just kept raising it.” In fact, Canada did not raise its dairy tariffs during the Biden administration; the tariffs Trump is denouncing were left in place by his own USMCA.
+  <li>57. <a href="">
+Falsely claimed</a> he had Canada’s dairy-tariff situation “well taken care of” at the time he left office the first time, “but under Biden, they just kept raising it.” In fact, Canada did not raise its dairy tariffs during the Biden administration; the tariffs Trump is denouncing were left in place by his own USMCA.</li>
 
-58. <a href="">
-Falsely claimed</a> the US has a $200 billion trade deficit with Canada. Federal statistics show the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.
+  <li>58. <a href="">
+Falsely claimed</a> the US has a $200 billion trade deficit with Canada. Federal statistics show the 2024 deficit with Canada in goods and services trade was about $36 billion; it was about $71 billion in goods trade alone.</li>
 
-59. <a href="">
-Falsely claimed</a> Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, just 102nd-highest on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)
+  <li>59. <a href="">
+Falsely claimed</a> Canada is “ONE OF THE HIGHEST TARIFFING NATIONS ANYWHERE IN THE WORLD.” Canada is a relatively low-tariff country on the whole, just 102nd-highest on a World Bank list of 137 countries’ trade-weighted average tariff rates in 2022 – and had a lower average (1.37%) than the US (1.49%) that year, the most recent for which data is available. (During this Trump presidency, Canada has announced new retaliatory tariffs on the US in direct response to Trump’s own new tariffs on Canada.)</li>
 
-60. <a href="">
-Falsely claimed</a>, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, according to the US Department of Agriculture, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA notes on its website that “almost all” US agricultural exports to Canada face zero tariffs or quotas.
+  <li>60. <a href="">
+Falsely claimed</a>, of Canada, that “they don’t take our agricultural product for the most part”; he mentioned dairy, then said, “A little bit they do, but not much.” This is false even with Trump’s qualifiers. Canada was the world’s second-largest buyer of US agricultural exports in 2024, according to the US Department of Agriculture, purchasing about $28.4 billion worth. While Canada does limit foreign access to its dairy, egg and poultry markets in particular, the USDA notes on its website that “almost all” US agricultural exports to Canada face zero tariffs or quotas.</li>
 
-61. <a href="">
-Falsely claimed</a> Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like Bank of America, Wells Fargo, Citigroup and US Bank operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.
-
+  <li>61. <a href="">
+Falsely claimed</a> Canada prohibits US banks. US banks have been operating in Canada for well over a century, and well-known US banks like Bank of America, Wells Fargo, Citigroup and US Bank operate there today. While Canada’s tight regulations have discouraged many foreign banks from opening retail branches in particular, Canada does not forbid the presence of foreign banks.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Environment and energy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-62. <a href="">
-Falsely claimed</a> people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA reported in 2024 that the global average sea level rose about 0.3 inches from 2022 to 2023.
+<ol start="62">
+  <li>62. <a href="">
+Falsely claimed</a> people concerned about climate change say “the ocean is going to rise one-eighth of an inch in the next 300 years.” The global average sea level is rising more per year than Trump claimed these “climate lunatics” say it will rise over 300 years; NASA reported in 2024 that the global average sea level rose about 0.3 inches from 2022 to 2023.</li>
 
-63. <a href="">
-Falsely claimed</a> the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have explained that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.
+  <li>63. <a href="">
+Falsely claimed</a> the January wildfires in Los Angeles happened as a result of California’s Democratic leaders refusing to send the city sufficient water “because they were protecting a smelt,” an obscure fish species in Northern California. Experts on California water policy have explained that efforts to protect the smelt had nothing to do with the fires and did not impede the firefighting effort.</li>
 
-64. <a href="">
-Falsely claimed</a> “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub did not actually go to Los Angeles; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.
+  <li>64. <a href="">
+Falsely claimed</a> “I broke into Los Angeles” and “I invaded Los Angeles” to provide the city with much-needed water, in late January and early February, “and the water is now flowing down.” The 2 billion-plus gallons of water Trump had released from two dams in California’s Central Valley agricultural hub did not actually go to Los Angeles; the water was directed to a dry lake basin elsewhere in the Central Valley – more than 100 miles north of Los Angeles.</li>
 
-65. <a href="">
-Falsely claimed</a> some of California’s water flows down from Canada. It doesn’t; the Columbia River that begins in Canada flows into the Pacific in Oregon.
+  <li>65. <a href="">
+Falsely claimed</a> some of California’s water flows down from Canada. It doesn’t; the Columbia River that begins in Canada flows into the Pacific in Oregon.</li>
 
-66. <a href="">
-Falsely claimed</a> the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden pledged to pay $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.
+  <li>66. <a href="">
+Falsely claimed</a> the Paris climate agreement cost the US “trillions of dollars that other countries were not paying.” The US has never spent or committed anywhere close to trillions of dollars in connection to the accord; Biden pledged to pay $11.4 billion per year toward international climate financing upon taking office, but Congress appropriated less than even that.</li>
 
-67. <a href="">
-Falsely claimed</a> Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was never a mandate requiring American consumers to have electric cars; the tailpipe rules for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.
+  <li>67. <a href="">
+Falsely claimed</a> Biden imposed a mandate “where everybody has to have an electric car.” Biden did make a legislative and regulatory push to get automakers to reduce emissions and adopt electric vehicles, but there was never a mandate requiring American consumers to have electric cars; the tailpipe rules for automakers the Biden administration unveiled in 2024 aimed to have electric vehicles make up 35% to 56% new vehicles sold in 2032.</li>
 
-68. <a href="">
-Falsely claimed</a> the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As FactCheck.org and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles reported that, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.
+  <li>68. <a href="">
+Falsely claimed</a> the Biden administration “ended up spending $9 billion on eight” charging stations for electric cars. That didn’t happen. As FactCheck.org and others have noted, Trump was distorting news articles about the slow pace at which $7.5 billion in federal funds allocated for electric charging have been spent. The articles reported that, as of March 2024, only eight charging stations had been built under the program; the articles did not say that these stations had themselves cost the entire $7.5 billion, let alone $9 billion.</li>
 
-69. <a href="">
-Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government told The Associated Press, and is not opening any new ones; the country has formally committed to phasing out coal by 2038 at the latest. It is true that Germany temporarily revived some idled coal plants after Russia slashed natural gas exports following its 2022 invasion of Ukraine, but those plants were taken offline again in 2024.
-
+  <li>69. <a href="">
+Falsely claimed</a> “they’re opening up coal plants all over Germany.” Germany closed 18 coal plants in 2024, its government told The Associated Press, and is not opening any new ones; the country has formally committed to phasing out coal by 2038 at the latest. It is true that Germany temporarily revived some idled coal plants after Russia slashed natural gas exports following its 2022 invasion of Ukraine, but those plants were taken offline again in 2024.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Gender, health, education, media</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-70. <a href="">
-Falsely claimed</a> two gold medalists in women’s boxing at the Olympics in Paris last year were men who “transitioned.” Neither champion had transitioned; as the International Olympic Committee noted, both were born as female, raised as female and have always competed in women’s events. Even the discredited boxing authority that controversially disqualified the women from a 2023 competition, vaguely claiming a test had found they had unfair competitive advantages, did not allege they had transitioned.
+<ol start="70">
+  <li>70. <a href="">
+Falsely claimed</a> two gold medalists in women’s boxing at the Olympics in Paris last year were men who “transitioned.” Neither champion had transitioned; as the International Olympic Committee noted, both were born as female, raised as female and have always competed in women’s events. Even the discredited boxing authority that controversially disqualified the women from a 2023 competition, vaguely claiming a test had found they had unfair competitive advantages, did not allege they had transitioned.</li>
 
-71. <a href="">
-Falsely claimed</a> “20 years ago, Autism in children was 1 in 10,000,” much rarer than today’s prevalence of about 1 in 31 children. Public statistics from the US Centers for Disease Control and Prevention (CDC) show that the prevalence of autism in 2004 was 1 in 125 children.
+  <li>71. <a href="">
+Falsely claimed</a> “20 years ago, Autism in children was 1 in 10,000,” much rarer than today’s prevalence of about 1 in 31 children. Public statistics from the US Centers for Disease Control and Prevention (CDC) show that the prevalence of autism in 2004 was 1 in 125 children.</li>
 
-72. <a href="">
-Falsely claimed</a> that “we lose 300,000 people a year to fentanyl, not 100 (thousand), not 95 (thousand), not 60 (thousand) like you read.” There is no basis for Trump’s “300,000” figure; the US has never had 100,000 reported deaths involving synthetic opioids like fentanyl in a 12-month period, let alone 300,000, and while experts say there may well be an undercount, it is not nearly as high as Trump said.
+  <li>72. <a href="">
+Falsely claimed</a> that “we lose 300,000 people a year to fentanyl, not 100 (thousand), not 95 (thousand), not 60 (thousand) like you read.” There is no basis for Trump’s “300,000” figure; the US has never had 100,000 reported deaths involving synthetic opioids like fentanyl in a 12-month period, let alone 300,000, and while experts say there may well be an undercount, it is not nearly as high as Trump said.</li>
 
-73. <a href="">
-Falsely claimed</a> the US ranks dead last, 40th out of 40 countries, in international education rankings. The White House couldn’t identify any education rankings where the US ranked 40th out of 40 countries; FactCheck.org and PolitiFact have noted that even among the wealthy, developed countries of the Organization for Economic Co-operation and Development, the US ranks well above average in reading and science and below average but still far from last in math.
+  <li>73. <a href="">
+Falsely claimed</a> the US ranks dead last, 40th out of 40 countries, in international education rankings. The White House couldn’t identify any education rankings where the US ranked 40th out of 40 countries; FactCheck.org and PolitiFact have noted that even among the wealthy, developed countries of the Organization for Economic Co-operation and Development, the US ranks well above average in reading and science and below average but still far from last in math.</li>
 
-74. <a href="">
-Falsely claimed</a> that while Democratic governors closed schools during the Covid-19 pandemic, some governors “kept them open 100% of the time,” adding, “South Carolina did. Tennessee did.” The Republican governor of South Carolina ordered school closures in 2020, while the Republican governor of Tennessee recommended school closures that year (and the state’s school districts complied).
+  <li>74. <a href="">
+Falsely claimed</a> that while Democratic governors closed schools during the Covid-19 pandemic, some governors “kept them open 100% of the time,” adding, “South Carolina did. Tennessee did.” The Republican governor of South Carolina ordered school closures in 2020, while the Republican governor of Tennessee recommended school closures that year (and the state’s school districts complied).</li>
 
-75. <a href="">
-Falsely claimed</a>, while alleging that CNN and MSNBC cover him too negatively, that “what they do is illegal.” It is not.
-
+  <li>75. <a href="">
+Falsely claimed</a>, while alleging that CNN and MSNBC cover him too negatively, that “what they do is illegal.” It is not.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Elections and Trump’s popularity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-76. <a href="">
-Falsely claimed</a> the 2020 election was “totally rigged.” There is no basis for the claim. Trump lost a legitimate election to Biden.
+<ol start="76">
+  <li>76. <a href="">
+Falsely claimed</a> the 2020 election was “totally rigged.” There is no basis for the claim. Trump lost a legitimate election to Biden.</li>
 
-77. <a href="">
-Falsely claimed</a> Democrats “tried” to “rig” the 2024 election he won. There is no basis for this claim, either.
+  <li>77. <a href="">
+Falsely claimed</a> Democrats “tried” to “rig” the 2024 election he won. There is no basis for this claim, either.</li>
 
-78. <a href="">
-Falsely claimed</a> his 2020 vote total, “almost 75 million votes,” was incorrect. The votes were counted and reported accurately, and Trump’s vote total – about 74.2 million – is his actual total.
+  <li>78. <a href="">
+Falsely claimed</a> his 2020 vote total, “almost 75 million votes,” was incorrect. The votes were counted and reported accurately, and Trump’s vote total – about 74.2 million – is his actual total.</li>
 
-79. <a href="">
-Falsely claimed</a> “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he got 81,283,501 votes.
+  <li>79. <a href="">
+Falsely claimed</a> “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he got 81,283,501 votes.</li>
 
-80. <a href="">
-Falsely claimed</a> he got “much more than 80 million votes” in the 2024 election. Trump received about 77.3 million votes.
+  <li>80. <a href="">
+Falsely claimed</a> he got “much more than 80 million votes” in the 2024 election. Trump received about 77.3 million votes.</li>
 
-81. <a href="">
-Falsely claimed</a> his 2024 vote total is “actually much more than” the reported total, since unspecified people “cheated like hell.” Trump’s official vote total is his actual vote total, and there is no evidence of cheating by vote counters or by his Democratic foes.
+  <li>81. <a href="">
+Falsely claimed</a> his 2024 vote total is “actually much more than” the reported total, since unspecified people “cheated like hell.” Trump’s official vote total is his actual vote total, and there is no evidence of cheating by vote counters or by his Democratic foes.</li>
 
-82. <a href="">
-Falsely claimed</a> he won Wisconsin “three times.” He won it twice, in 2016 and 2024, but lost it in 2020.
+  <li>82. <a href="">
+Falsely claimed</a> he won Wisconsin “three times.” He won it twice, in 2016 and 2024, but lost it in 2020.</li>
 
-83. <a href="">
-Falsely claimed</a>, “We’re the only country in the world that has mail-in voting.” Various other countries, including Canada, Germany, Switzerland, the United Kingdom, and Spain, allow some or all voters to vote by mail, though the specifics of their policies vary.
+  <li>83. <a href="">
+Falsely claimed</a>, “We’re the only country in the world that has mail-in voting.” Various other countries, including Canada, Germany, Switzerland, the United Kingdom, and Spain, allow some or all voters to vote by mail, though the specifics of their policies vary.</li>
 
-84. <a href="">
-Falsely claimed</a> a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, saying absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.
+  <li>84. <a href="">
+Falsely claimed</a> a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, saying absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.</li>
 
-85. <a href="">
-Falsely described</a> the Biden administration as election cheaters, saying that “the only thing they’re good at, really, is cheating” and that “anybody that cheats that much and that well is not stupid.” This is nonsense.
+  <li>85. <a href="">
+Falsely described</a> the Biden administration as election cheaters, saying that “the only thing they’re good at, really, is cheating” and that “anybody that cheats that much and that well is not stupid.” This is nonsense.</li>
 
-86. <a href="">
-Falsely claimed</a> in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief certified the 2024 presidential election results on December 13, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results on December 3.
+  <li>86. <a href="">
+Falsely claimed</a> in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief certified the 2024 presidential election results on December 13, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results on December 3.</li>
 
-87. <a href="">
-Falsely claimed</a> on February 21, while speaking about California and the presidential election, that “they were voting a week and a half ago.” Nobody anywhere in the country was still voting in the November 2024 presidential election in February 2025.
+  <li>87. <a href="">
+Falsely claimed</a> on February 21, while speaking about California and the presidential election, that “they were voting a week and a half ago.” Nobody anywhere in the country was still voting in the November 2024 presidential election in February 2025.</li>
 
-88. <a href="">
-Falsely claimed</a> “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN exit polls showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an ongoing debate among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)
+  <li>88. <a href="">
+Falsely claimed</a> “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN exit polls showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an ongoing debate among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)</li>
 
-89. <a href="">
-Falsely claimed</a> his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, in the 40s and 50s at the time he made it, was not even close to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.
+  <li>89. <a href="">
+Falsely claimed</a> his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, in the 40s and 50s at the time he made it, was not even close to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.</li>
 
-90. <a href="">
-Falsely claimed</a>, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” There were empty seats at numerous Trump rallies in 2024, including one where he made the boast that “we never have an empty seat.”
+  <li>90. <a href="">
+Falsely claimed</a>, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” There were empty seats at numerous Trump rallies in 2024, including one where he made the boast that “we never have an empty seat.”</li>
 
-91. <a href="">
-Falsely claimed</a> that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from CNN and other outlets estimated that hundreds of people left.
+  <li>91. <a href="">
+Falsely claimed</a> that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from CNN and other outlets estimated that hundreds of people left.</li>
+</ol>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>The January 6, 2021, attack on the Capitol</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ol start="92">
+  <li>92. <a href="">
+Falsely claimed</a> the perpetrators of the Capitol riot “didn’t assault.” They did, as video after video and trial after trial made clear. The Justice Department has said more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.</li>
 
-The January 6, 2021, attack on the Capitol
-92. <a href="">
-Falsely claimed</a> the perpetrators of the Capitol riot “didn’t assault.” They did, as video after video and trial after trial made clear. The Justice Department has said more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.
+  <li>93. <a href="">
+Falsely claimed</a> the January 6 rioters “had no guns.” Multiple rioters were armed with guns.</li>
 
-93. <a href="">
-Falsely claimed</a> the January 6 rioters “had no guns.” Multiple rioters were armed with guns.
+  <li>94. <a href="">
+Falsely claimed</a> rioter Ashli Babbitt “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. Video evidence shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.</li>
 
-94. <a href="">
-Falsely claimed</a> rioter Ashli Babbitt “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. Video evidence shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.
+  <li>95. Falsely claimed the House select committee that investigated the attack on the Capitol “deleted and destroyed all of the information that they collected.” The committee preserved a large volume of evidence, though there has been a long-running dispute between Republicans and Democrats over the preservation of certain committee records.</li>
 
-95. Falsely claimed the House select committee that investigated the attack on the Capitol “deleted and destroyed all of the information that they collected.” The committee preserved a large volume of evidence, though there has been a long-running dispute between Republicans and Democrats over the preservation of certain committee records.
-
-96. <a href="">
-Falsely claimed</a> Democratic former House Speaker Nancy Pelosi is “on tape” admitting that she had rejected his offer of 10,000 National Guard troops to protect the Capitol on January 6, 2021. There is no evidence Pelosi turned down or even received such an offer, and she has repeatedly rejected, not confirmed, Trump’s story about what happened. Pelosi was recorded by her daughter expressing frustration with Capitol security that day and saying, “I take responsibility for not having them just prepare for more” – not saying she had turned down a Trump offer of 10,000 troops or that, as Trump has also wrongly claimed, she was in charge of Capitol security.
-
+  <li>96. <a href="">
+Falsely claimed</a> Democratic former House Speaker Nancy Pelosi is “on tape” admitting that she had rejected his offer of 10,000 National Guard troops to protect the Capitol on January 6, 2021. There is no evidence Pelosi turned down or even received such an offer, and she has repeatedly rejected, not confirmed, Trump’s story about what happened. Pelosi was recorded by her daughter expressing frustration with Capitol security that day and saying, “I take responsibility for not having them just prepare for more” – not saying she had turned down a Trump offer of 10,000 troops or that, as Trump has also wrongly claimed, she was in charge of Capitol security.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Federal government</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-97. <a href="">
-Falsely claimed</a> Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched during Trump’s own administration in 2019.
+<ol start="97">
+  <li>97. <a href="">
+Falsely claimed</a> Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched during Trump’s own administration in 2019.</li>
 
-98. <a href="">
-Falsely claimed</a> “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already stops payments to people listed as being age 115 and older. As a government watchdog noted in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration noted in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.
+  <li>98. <a href="">
+Falsely claimed</a> “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already stops payments to people listed as being age 115 and older. As a government watchdog noted in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration noted in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.</li>
 
-99. <a href="">
-Falsely claimed</a> that when a federal employee didn’t respond to the initial Elon Musk email blast asking them to list accomplishments from the previous week, “Usually that means that maybe that person doesn’t exist, or that person doesn’t want to say they’re working for another company while being paid by the United States government.” That’s not true; there were explanations for the early non-responses other than improper moonlighting or someone not existing while being paid as a federal employee. For one, leaders at multiple federal agencies had told their employees not to respond to the email.
+  <li>99. <a href="">
+Falsely claimed</a> that when a federal employee didn’t respond to the initial Elon Musk email blast asking them to list accomplishments from the previous week, “Usually that means that maybe that person doesn’t exist, or that person doesn’t want to say they’re working for another company while being paid by the United States government.” That’s not true; there were explanations for the early non-responses other than improper moonlighting or someone not existing while being paid as a federal employee. For one, leaders at multiple federal agencies had told their employees not to respond to the email.</li>
 
-100. <a href="">
-Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, Robert Hur, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”
+  <li>100. <a href="">
+Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, Robert Hur, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”</li>
+</ol>
 
 https://www.project2025.observer/
 
@@ -1385,17 +1405,84 @@ with people telling jokes.”
 <h3>AI-generated photo of Trump as the Pope.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– May 2, 2025 – The White House released a new budget blueprint for fiscal year 2026 that proposed funding cuts for education, foreign aid, the environment, health, and public assistance while increasing spending on defense and homeland security. According to a letter from the Office of Management and Budget, the proposed budget would provide a “historic” $175 billion to “fully secure the border” while slashing funds for the National Park Service, UN peacekeepers, the Low Income Home Energy Assistance Program, the National Institutes for Health, the Centers for Disease Control and Prevention, and the Internal Revenue Service, among other programs. Climate science research, foreign economic and disaster assistance, and schools would also face cuts. “This budget proposal would set our country back decades by decimating investments to help families afford the basics, to keep communities safe, and to ensure America remains a world leader in innovation and lifesaving research,” said Senator Patty Murray.
+– May 2, 2025 – The White House released a new budget blueprint for fiscal year 2026 that 
+proposed funding cuts for education, foreign aid, the environment, health, and public 
+assistance while increasing spending on defense and homeland security. According to a 
+letter from the Office of Management and Budget, the proposed budget would provide a 
+“historic” $175 billion to “fully secure the border” while slashing funds for the National 
+Park Service, UN peacekeepers, the Low Income Home Energy Assistance Program, the National 
+Institutes for Health, the Centers for Disease Control and Prevention, and the Internal 
+Revenue Service, among other programs. Climate science research, foreign economic and 
+disaster assistance, and schools would also face cuts. “This budget proposal would set 
+our country back decades by decimating investments to help families afford the basics, to 
+keep communities safe, and to ensure America remains a world leader in innovation and 
+lifesaving research,” said Senator Patty Murray.
 
-– May 2, 2025 – Hours after President Trump proposed eliminating the National Endowment for the Arts in a new budget proposal, the agency began rescinding grant offers. Arts administrators were informed of the changes via emails stating that the NEA "is updating its grantmaking policy priorities to focus funding on projects that reflect the nation’s rich artistic heritage and creativity as prioritized by the president… [and] terminating awards that fall outside of these new priorities.” The emails said the NEA would focus on projects that “elevate” historically Black colleges and universities and Hispanic-serving colleges. However, many of those impacted noted that the withdrawn grants had been supporting work by artists of color. For example, Portland Playhouse’s withdrawn grant would have helped finance their production of August Wilson’s Joe Turner’s Come and Gone, and Yale Repertory Theatre’s withdrawn grant would have helped with the development and production of a stage adaptation of Zora Neale Hurston’s short story “Spunk.” Trump’s new budget blueprint also proposed eliminating the National Endowment for the Humanities and the Institute of Military and Library Services.
+– May 2, 2025 – Hours after President Trump proposed eliminating the National Endowment 
+for the Arts in a new budget proposal, the agency began rescinding grant offers. Arts 
+administrators were informed of the changes via emails stating that the NEA "is updating 
+its grantmaking policy priorities to focus funding on projects that reflect the nation’s 
+rich artistic heritage and creativity as prioritized by the president… [and] terminating 
+awards that fall outside of these new priorities.” The emails said the NEA would focus 
+on projects that “elevate” historically Black colleges and universities and Hispanic-
+serving colleges. However, many of those impacted noted that the withdrawn grants had 
+been supporting work by artists of color. For example, Portland Playhouse’s withdrawn 
+grant would have helped finance their production of August Wilson’s Joe Turner’s Come and 
+Gone, and Yale Repertory Theatre’s withdrawn grant would have helped with the development 
+and production of a stage adaptation of Zora Neale Hurston’s short story “Spunk.” Trump’s 
+new budget blueprint also proposed eliminating the National Endowment for the Humanities 
+and the Institute of Military and Library Services.
 
-– May 2, 2025 – In a rare rebuke, five former National Weather Service directors signed an open letter criticizing the Trump administration’s staffing cuts to their organization and issuing a stern warning: “NWS staff will have an impossible task to continue its current level of services. Our worst nightmare is that weather forecast offices will be so understaffed that there will be needless loss of life.” As the directors noted in their letter, inaccurate weather forecasting has wide-ranging implications: “Airplanes can’t fly without weather observations and forecasts; ships crossing the oceans rely on storm forecasts to avoid the high seas; farmers rely on seasonal forecasts to plant and harvest their crops which feed us. Perhaps most importantly, NWS issues all of the tornado warnings, hurricane warnings, flood warnings, extreme wildfire conditions and other information during extreme weather events.” The Weather Service has lost about 10 percent of its staff since Trump took office, and Trump’s latest budget proposal recommended a $1.5 billion cut to the Weather Service’s parent agency, the National Oceanic and Atmospheric Administration, which has likewise already endured significant staffing cuts.
+– May 2, 2025 – In a rare rebuke, five former National Weather Service directors signed 
+an open letter criticizing the Trump administration’s staffing cuts to their organization 
+and issuing a stern warning: “NWS staff will have an impossible task to continue its 
+current level of services. Our worst nightmare is that weather forecast offices will be 
+so understaffed that there will be needless loss of life.” As the directors noted in their 
+letter, inaccurate weather forecasting has wide-ranging implications: “Airplanes can’t fly 
+without weather observations and forecasts; ships crossing the oceans rely on storm 
+forecasts to avoid the high seas; farmers rely on seasonal forecasts to plant and harvest 
+their crops which feed us. Perhaps most importantly, NWS issues all of the tornado 
+warnings, hurricane warnings, flood warnings, extreme wildfire conditions and other 
+information during extreme weather events.” The Weather Service has lost about 10 percent 
+of its staff since Trump took office, and Trump’s latest budget proposal recommended a 
+$1.5 billion cut to the Weather Service’s parent agency, the National Oceanic and 
+Atmospheric Administration, which has likewise already endured significant staffing cuts.
 
-– May 4, 2025 – Enrique Tarrio, former leader of the white-supremacist group The Proud Boys, visited Donald Trump at Mar-a-Lago and thanked the president for pardoning him for his participation in the January 6 takeover of the Capitol building. One of Trump’s first acts as president in his second term was pardoning all those you were convicted for their roles in the January 6 insurrection. “He knew the hardships me and my family faced for three long years,” Mr. Tarrio wrote on social media. Since being pardoned, Tarrio has started a podcast and a crypto coin venture with other former members of the Proud Boys, who were also convicted and pardoned. Of the meeting with the president, Tarrio said, “He is working on making things right. I thanked him for giving me life back. He replied with… I Love You guys.”
+– May 4, 2025 – Enrique Tarrio, former leader of the white-supremacist group The Proud 
+Boys, visited Donald Trump at Mar-a-Lago and thanked the president for pardoning him for 
+his participation in the January 6 takeover of the Capitol building. One of Trump’s first 
+acts as president in his second term was pardoning all those you were convicted for their 
+roles in the January 6 insurrection. “He knew the hardships me and my family faced for 
+three long years,” Mr. Tarrio wrote on social media. Since being pardoned, Tarrio has 
+started a podcast and a crypto coin venture with other former members of the Proud Boys, 
+who were also convicted and pardoned. Of the meeting with the president, Tarrio said, “He 
+is working on making things right. I thanked him for giving me life back. He replied with… 
+I Love You guys.”
 
-– May 4, 2025 – In a Truth Social post, Trump announced he is authorizing the reopening of the notorious prison Alcatraz. “For too long, America has been plagued by vicious, violent, and repeat Criminal Offenders, the dregs of society, who will never contribute anything other than Misery and Suffering,” the president of the United States wrote. “When we were a more serious Nation, in times past, we did not hesitate to lock up the most dangerous criminals, and keep them far away from anyone they could harm. That’s the way it’s supposed to be.” Trump’s directive comes as he has been fighting with federal courts over deporting legal citizens to prisons in El Salvador and Guantanamo Bay. Alcatraz was closed in 1963 and has since become a historic landmark and a major tourist destination in San Francisco. On its website, the Bureau of Prisons states that Alcatraz was originally closed due to high costs. A major campaign promise of Trump’s was to cut federal spending.
+– May 4, 2025 – In a Truth Social post, Trump announced he is authorizing the reopening 
+of the notorious prison Alcatraz. “For too long, America has been plagued by vicious, 
+violent, and repeat Criminal Offenders, the dregs of society, who will never contribute 
+anything other than Misery and Suffering,” the president of the United States wrote. 
+“When we were a more serious Nation, in times past, we did not hesitate to lock up the 
+most dangerous criminals, and keep them far away from anyone they could harm. That’s the 
+way it’s supposed to be.” Trump’s directive comes as he has been fighting with federal 
+courts over deporting legal citizens to prisons in El Salvador and Guantanamo Bay. 
+Alcatraz was closed in 1963 and has since become a historic landmark and a major tourist 
+destination in San Francisco. On its website, the Bureau of Prisons states that Alcatraz 
+was originally closed due to high costs. A major campaign promise of Trump’s was to cut 
+federal spending.
 
-– May 4, 025 – During a wide-ranging and testy interview on Meet the Press, Trump waffled when asked about upholding the Constitution. He said, “I don’t know. I’m not, I’m not a lawyer. I don’t know.” In a related response, Trump doubled down on his agenda to deport millions of undocumented immigrants. “Some of the worst people on Earth,” Trump said, "I was elected to get them the hell out of here, and the courts are holding me from doing it.” Recent polls show that over half of Americans disapprove of his handling of immigration. In another part of the interview, Trump repeated his desire to make Canada the fifty-first state, but said it was “highly unlikely” doing so would require military action. That said, he didn’t rule out military action when it came to taking over Greenland from Denmark. “Something could happen with Greenland,” Trump said. “I’ll be honest, we need that for national and international security.”
+– May 4, 025 – During a wide-ranging and testy interview on Meet the Press, Trump waffled 
+when asked about upholding the Constitution. He said, “I don’t know. I’m not, I’m not a 
+lawyer. I don’t know.” In a related response, Trump doubled down on his agenda to deport 
+millions of undocumented immigrants. “Some of the worst people on Earth,” Trump said, 
+"I was elected to get them the hell out of here, and the courts are holding me from doing 
+it.” Recent polls show that over half of Americans disapprove of his handling of 
+immigration. In another part of the interview, Trump repeated his desire to make Canada 
+the fifty-first state, but said it was “highly unlikely” doing so would require military 
+action. That said, he didn’t rule out military action when it came to taking over 
+Greenland from Denmark. “Something could happen with Greenland,” Trump said. “I’ll be 
+honest, we need that for national and international security.”
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trump, asked if he has to ‘uphold the Constitution,’ says, ‘I don’t know.’ (NBC)</h3>
