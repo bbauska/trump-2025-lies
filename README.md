@@ -162,7 +162,8 @@ repetitive Trump’s lying was. Though he regularly sprinkled in some fresh dece
 deployed a core batch of favored falsehoods again and again – undeterred by the fact 
 that many of these claims had been publicly debunked for months or even years.</p>
 
-<p><a href="https://www.cnn.com/politics/fact-check-trump-false-claims-debunked">Here is a list of 100 separate false claims</a> from Trump since his inauguration on January 
+<p><a href="https://www.cnn.com/politics/fact-check-trump-false-claims-debunked">
+Here is a list of 100 separate false claims</a> from Trump since his inauguration on January 
 20, fact-checked concisely with hyperlinks to more information. This is not a 
 comprehensive list of the president’s false claims during this period (there were well 
 over 100 in all) or a count of how many total times he was inaccurate (he uttered many 
@@ -172,219 +173,272 @@ of these 100 claims over and over again).
 <h3>Inflation</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol>
-  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">Falsely claimed</a> in April that grocery prices “are down” <a href="https://truthsocial.com/@realDonaldTrump/posts/114392734082544469">and “WAY DOWN.”</a><br>
-  Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">continued to increase since he took office</a> – and the jump from February to March, about 0.49%, was the biggest one-month increase since October 2022.</li>
+  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">
+    Falsely claimed</a> in April that grocery prices “are down” <a href="https://truthsocial.com/@realDonaldTrump/posts/114392734082544469">and “WAY DOWN.”</a><br>
+	Grocery prices had <a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-grocery-prices-down/index.html">continued to increase since he took office</a> – and the jump from February to March, about 0.49%, 
+	was the biggest one-month increase since October 2022.</li>
 
-  <li><a href="https://www.cnn.com/2025/04/23/politics/price-of-eggs-gas-trump-fact-check/index.html">Falsely claimed</a> in April that “the cost of eggs has come down like 93, 94% since we took office.” The consumer price of eggs <a href="https://fred.stlouisfed.org/series/APU0000708111">hit a record high in March</a>, and while they might well have fallen in April, the decline certainly wasn’t 93% or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.</li>
+  <li><a href="https://www.cnn.com/2025/04/23/politics/price-of-eggs-gas-trump-fact-check/index.html">
+    Falsely claimed</a> in April that “the cost of eggs has come down like 93, 94% since we took office.” 
+	The consumer price of eggs <a href="https://fred.stlouisfed.org/series/APU0000708111">hit a record 
+	high in March</a>, and while they might well have fallen in April, the decline certainly wasn’t 93% 
+	or 94%; wholesale egg prices had fallen roughly 52% since the week Trump took office.</li>
 
-  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA – and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was selling for under $2.19 per gallon that day.</li>
+  <li><a href="https://www.cnn.com/2025/04/17/politics/fact-check-trump-gas-prices-false-claims/index.html">
+    Falsely claimed</a> April 17 that gas prices had fallen to $1.98 per gallon in two states the day prior. 
+	In fact, no state’s average gas price was below $2.70 per gallon the day prior, according to data from AAA 
+	– and of the tens of thousands of individual stations tracked by the firm GasBuddy, not a single one was 
+	selling for under $2.19 per gallon that day.</li>
 
-  <li><a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">about 8%</a>  from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he left office, January 2021.</li>
-
-  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the history of our country.” Trump could have fairly said the year-over-year US inflation <a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">
-rate hit a 40-year high under Biden in June 2022</a>, when it was 9.1%, but that was not close to the 
-<a href="https://fred.stlouisfed.org/series/CPIAUCNS">all-time record  of  23.7%</a>, set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% during President Jimmy Carter’s term.</li>
-
+  <li><a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">
+    Falsely claimed</a> there was “no inflation” during his first presidency. Inflation was relatively 
+	low, but it existed; prices rose  <a href="https://fred.stlouisfed.org/series/CPIAUCNS">about 8%</a> 
+	 from the beginning of Trump’s term to the end. And year-over-year inflation was 1.4% in the month he 
+	left office, January 2021.</li>
+  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+    Falsely claimed</a> President Joe Biden’s administration had the highest inflation “in the 
+	history of our country.” Trump could have fairly said the year-over-year US inflation 
+	<a href="https://www.cnn.com/2022/07/13/economy/cpi-inflation-june/index.html">rate hit a 
+	40-year high under Biden in June 2022</a>, when it was 9.1%, but that was not close to 
+	the <a href="https://fred.stlouisfed.org/series/CPIAUCNS">all-time record  of  23.7%</a>, 
+	set in 1920. Trump’s claim was also wrong if he was claiming there was record cumulative 
+	inflation over the course of Biden’s presidency. It was about 21%, compared to about 49% 
+	during President Jimmy Carter’s term.</li>
   <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
-Falsely claimed</a> the price of bacon “quadrupled” during Biden’s presidency. 
-<a href="https://fred.stlouisfed.org/series/APU0000704111">
-Federal statistics show</a> the average price of a pound of sliced bacon in December 2024, Biden’s last full month in office, was up about 19% since January 2021, the month Biden was inaugurated; the average price in January 2025, Biden’s last partial month in office, was up about 21% since January 2021. Neither was close to the 300% increase Trump claimed.</li>
-
-  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
-Falsely claimed</a> the price of apples doubled during Biden’s presidency. 
-<a href="https://data.bls.gov/timeseries/CUUR0000SEFK01">
-Federal statistics show</a> the price of apples increased by about 7% between the month Biden was sworn in as president and December 2024; it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% increase Trump claimed.</li>
+    Falsely claimed</a> the price of bacon “quadrupled” during Biden’s presidency. 
+	<a href="https://fred.stlouisfed.org/series/APU0000704111">
+	Federal statistics show</a> the average price of a pound of sliced bacon in December 2024, 
+	Biden’s last full month in office, was up about 19% since January 2021, the month Biden was 
+	inaugurated; the average price in January 2025, Biden’s last partial month in office, was up 
+	about 21% since January 2021. Neither was close to the 300% increase Trump claimed.</li>
+  <li>
+    <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#100">
+	Falsely claimed</a> the price of apples doubled during Biden’s presidency. 
+	<a href="https://data.bls.gov/timeseries/CUUR0000SEFK01">Federal statistics show</a> the price of 
+	apples increased by about 7% between the month Biden was sworn in as president and December 2024; 
+	it was about an 8% increase between January 2021 and January 2025. Neither was close to the 100% 
+	increase Trump claimed.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Trade, the economy, taxes</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-8. <a href="https://time.com/7280129/donald-trump-fact-check-2025-interview/">
-Falsely claimed</a> that, before he came back to office, “We were losing $2 trillion a year on trade.” The total US deficit in goods and services trade in 2024 was 
-<a href="https://www.bea.gov/sites/default/files/2025-02/trad1224annual-hist.pdf">
-about $918 billion</a>; if you count only goods trade and ignore the services trade at which the US excels, it was about $1.2 trillion, still far shy of Trump’s figure. (And economists widely 
-<a href="https://www.factcheck.org/2025/04/trump-expands-on-dubious-daily-tariff-revenue-claim/">
-reject</a> Trump’s notion that a trade deficit, the difference between the value of US imports and exports in a given year, is a loss.)
+<ol start="8">
+  <li><a href="https://time.com/7280129/donald-trump-fact-check-2025-interview/">
+    Falsely claimed</a> that, before he came back to office, “We were losing $2 trillion a year on trade.” 
+	The total US deficit in goods and services trade in 2024 was 
+	<a href="https://www.bea.gov/sites/default/files/2025-02/trad1224annual-hist.pdf">about $918 billion</a>; 
+	if you count only goods trade and ignore the services trade at which the US excels, it was about $1.2 
+	trillion, still far shy of Trump’s figure. (And economists widely 
+	<a href="https://www.factcheck.org/2025/04/trump-expands-on-dubious-daily-tariff-revenue-claim/">
+	reject</a> Trump’s notion that a trade deficit, the difference between the value of US imports and 
+	exports in a given year, is a loss.)</li>
+  <li><a href="https://www.politifact.com/factchecks/2025/apr/10/donald-trump/fact-check-trump-said-tariffs-collections-are-almo/">
+    Falsely claimed</a> in early April that the US was already taking in $2 billion, $3 billion, or 
+	even $3.5 billion per day in tariff revenue. The actual figure was in the hundreds of millions at 
+	most, not $2 billion, and it’s important to note that US importers, not foreign exporters, pay 
+	the tariff revenue.</li>
+  <li><a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
+    Falsely claimed</a> the US has a “$350 billion” trade deficit with Mexico. 
+	<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">
+	Federal statistics show</a> the 2024 deficit with Mexico in goods and services trade was about $179 
+	billion; it was about $182 billion in goods trade alone.</li>
+  <li><a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">
+    Falsely claimed</a>, after an interviewer reminded him that not a single tariff deal with another 
+	country had been announced yet, “I’ve made 200 deals.” He simply had not done so, and his supposed 
+	explanation for this assertion – “The deal is a deal that I choose…We are a department store, and 
+	we set the price” – did not substantiate it.</li>
 
-9. <a href="https://www.politifact.com/factchecks/2025/apr/10/donald-trump/fact-check-trump-said-tariffs-collections-are-almo/">
-Falsely claimed</a> in early April that the US was already taking in $2 billion, $3 billion, or even $3.5 billion per day in tariff revenue. The actual figure was in the hundreds of millions at most, not $2 billion, and it’s important to note that US importers, not foreign exporters, pay the tariff revenue.
-
-10. <a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
-Falsely claimed</a> the US has a “$350 billion” trade deficit with Mexico. 
-<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">
-Federal statistics show</a> the 2024 deficit with Mexico in goods and services trade was about $179 billion; it was about $182 billion in goods trade alone.
-
-11. <a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">
-Falsely claimed</a>, after an interviewer reminded him that not a single tariff deal with another country had been announced yet, “I’ve made 200 deals.” He simply had not done so, and his supposed explanation for this assertion – “The deal is a deal that I choose…We are a department store, and we set the price” – did not substantiate it.
-
-12. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
+  <li><a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
 Falsely claimed</a>, while touting the supposed benefits of tariffs, that Honda “just announced” it is building “a really big plant in Indiana.” Honda subsequently told CNN: “Honda did not announce plans for a new plant in the U.S. at this time.” Reuters, citing anonymous sources, had 
 <a href="https://www.reuters.com/business/autos-transportation/honda-produce-next-civic-indiana-not-mexico-due-us-tariffs-sources-say-2025-03-03/">
-reported</a> that Honda was planning to build its next-generation Civic hybrid in Indiana rather than Mexico as originally planned, but the report did not say Honda was building a new factory.
+reported</a> that Honda was planning to build its next-generation Civic hybrid in Indiana rather than Mexico as originally planned, but the report did not say Honda was building a new factory.</li>
 
-13. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+  <li><a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
 Falsely claimed</a> “the United States was proportionately the wealthiest it has ever been” from 1789 to 1913, when tariffs made up a higher percentage of federal revenue, 
 <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-house-gop-conference-miami-january-27-2025/#119">
 and that 1870 to 1913</a>, before the reintroduction of the federal income tax, was “the richest period in the history of the United States, relatively speaking.” Trump didn’t explain what he meant by “proportionately the wealthiest” or “the richest…relatively speaking,” but economists say that by any standard measure, the US is far wealthier today than it was in the early 20th century and prior; per capita gross domestic product 
 <a href="https://www.latimes.com/business/story/2024-10-01/column-trumps-glorification-of-the-1890s-in-america-displays-his-dangerous-ignorance-of-economics-and-history">
-is  now many times higher than it was then</a>.
+is  now many times higher than it was then</a>.</li>
 
-14. <a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
+  <li><a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
 Falsely claimed</a> he signed “the largest tax cut in history” during his first presidency. Expert analyses have 
 <a href="https://www.cnn.com/2024/08/13/politics/fact-check-trump-musk-20-false-claims/index.html">
-found  his 2017 tax cut law</a> was not the largest in US history, either in percentage of gross domestic product or in inflation-adjusted dollars.
-
+found  his 2017 tax cut law</a> was not the largest in US history, either in percentage of gross domestic product or in inflation-adjusted dollars.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Ukraine and Russia</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-15. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+<ol start="15">
+    <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
 Falsely claimed</a> Ukraine started the war with Russia, saying, “You should’ve never started it. You could’ve made a deal.” Russia started the war, 
 <a href="https://www.cnn.com/2014/03/18/world/europe/ukraine-crisis/index.html">
 annexing Ukraine’s Crimea region in 2014</a> and then 
 <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-invasion-thursday-intl/index.html">
-launching a full-scale invasion in 2022</a>.
+launching a full-scale invasion in 2022</a>.</li>
 
-16. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+  <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
 Falsely claimed</a> the US had provided “$350 billion” in wartime aid to Ukraine. There is no basis for this figure. 
 <a href="https://www.ifw-kiel.de/publications/ukraine-support-tracker-data-20758/">
-According to the Kiel Institute for the World Economy</a>, a German think tank that closely tracks wartime aid to Ukraine, the US had committed about $135 billion in wartime military, financial and humanitarian aid to Ukraine through February 2025 (at current exchange rates) and actually allocated about $130 billion of that sum.
+According to the Kiel Institute for the World Economy</a>, a German think tank that closely tracks wartime aid to Ukraine, the US had committed about $135 billion in wartime military, financial and humanitarian aid to Ukraine through February 2025 (at current exchange rates) and actually allocated about $130 billion of that sum.</li>
 
-17. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
-Falsely claimed</a> Europe had provided $200 billion less in aid to Ukraine than the US had. In fact, the Kiel Institute data shows that Europe – the European Union plus individual European countries – had committed and allocated more total wartime military, financial and humanitarian aid to Ukraine than the US had through February; in aid allocated, it was about $157 billion for Europe to about $135 billion for the US.
+  <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+Falsely claimed</a> Europe had provided $200 billion less in aid to Ukraine than the US had. In fact, the Kiel Institute data shows that Europe – the European Union plus individual European countries – had committed and allocated more total wartime military, financial and humanitarian aid to Ukraine than the US had through February; in aid allocated, it was about $157 billion for Europe to about $135 billion for the US.</li>
 
-18. <a href="https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war/index.html">
+  <li><a href="https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war/index.html">
 Falsely claimed</a> he was clearly speaking “in jest” when he said during his 2024 campaign that he would end the war in Ukraine by “day one” of this presidency. Trump made the pledge 
 <a href="https://www.cnn.com/2025/04/25/politics/fact-check-trump-ukraine-war/index.html">
-at least 53 times in 2023 and 2024</a> in an entirely serious context and tone, often declaring he would end the war even before his inauguration.
+at least 53 times in 2023 and 2024</a> in an entirely serious context and tone, often declaring he would end the war even before his inauguration.</li>
 
-19. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+  <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
 Falsely claimed</a> in February that Ukrainian President Volodymyr Zelensky was “down at 4% approval rating.” An approval 
 <a href="https://www.manchester.ac.uk/about/news/trump-is-making-false-claims-about-zelenskys-popularity/">
 survey</a> conducted from late November to early January found 63% of Ukrainians either approved fully or tended to approve of Zelensky’s actions as president; another 
 <a href="https://www.kiis.com.ua/?lang=eng&cat=reports&id=1496&page=1">
-survey</a>, conducted in February, found that 57% of Ukrainians said they trusted Zelensky.
+survey</a>, conducted in February, found that 57% of Ukrainians said they trusted Zelensky.</li>
 
-20. <a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
+  <li><a href="https://www.cnn.com/2025/02/19/politics/fact-check-trumps-lies-about-zelensky-and-ukraine/index.html">
 Falsely claimed</a> Zelensky admitted “half of the money we sent him is ‘MISSING.’” Zelensky had made no such admission; rather, he had taken issue with inflated claims about how much US cash Ukraine had received, saying he doesn’t know where all the professed additional money has gone and that perhaps these higher figures are correct “on paper,” according to a
 <a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/">
-translation by the news outlet Ukrainska Pravda</a>.
+translation by the news outlet Ukrainska Pravda</a>.</li>
 
-21. <a href="https://truthsocial.com/@realDonaldTrump/posts/114161039436456514">Falsely claimed</a> 
+  <li><a href="https://truthsocial.com/@realDonaldTrump/posts/114161039436456514">Falsely claimed</a> 
 in mid-March that “AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY.” There was no encirclement of thousands of Ukrainian troops at the time, according to 
 <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">Ukrainian leaders</a>, <a href="https://www.cnn.com/2025/03/15/europe/zelensky-putin-kursk-encircle-russia-ukraine-intl/index.html">independent analysts</a>, 
 <a href="https://x.com/ChristopherJM/status/1901783024338878732">journalists</a>, and, 
-<a href="https://www.reuters.com/world/europe/intelligence-shared-with-white-house-shows-ukrainians-not-encircled-kursk-2025-03-20/">Reuters</a> reported, US intelligence.
+<a href="https://www.reuters.com/world/europe/intelligence-shared-with-white-house-shows-ukrainians-not-encircled-kursk-2025-03-20/">Reuters</a> reported, US intelligence.</li>
 
-22. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">
 Falsely claimed</a> that after Democratic senator and former House member Adam Schiff made up an account of Trump’s controversial 2019 phone call with Zelensky, “they found out that there was a tape of the conversation.” There is still no known US recording of that Trump-Zelensky conversation; the Schiff comments Trump was criticizing were 
 <a href="https://www.cnn.com/2019/09/27/politics/fact-check-adam-schiff-trumps-ukraine-call/index.html">
 exaggerations</a> of 
 <a href="https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html">
-a rough written transcript</a> of the call, which was released before Schiff delivered his rendition of it.
+a rough written transcript</a> of the call, which was released before Schiff delivered his rendition of it.</li>
 
-23. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">Falsely claimed</a>
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-micheal-martin-ireland-march-12-2025/#157">Falsely claimed</a>
 Russia’s Nord Stream 2 pipeline “was dead” when he left office in January 2021 because he had “stopped it.” It wasn’t dead. Trump <a href="https://www.bbc.com/news/world-europe-50875935">
 signed</a> sanctions related to the project into law in December 2019, when the pipeline was already about 90% complete, and the state-owned Russian company behind the project 
-<a href="https://www.ogj.com/pipelines-transportation/pipelines/article/14189195/nord-stream-2-pipelay-resumes"> announced in December 2020</a>, the month before Trump left office, that construction was resuming.
-
+<a href="https://www.ogj.com/pipelines-transportation/pipelines/article/14189195/nord-stream-2-pipelay-resumes"> announced in December 2020</a>, the month before Trump left office, that construction was resuming.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Immigration</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-24. <a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">Falsely claimed</a> the US is the only country that grants birthright citizenship. <a href="https://www.cia.gov/the-world-factbook/field/citizenship/#:~:text=citizenship%20by%20birth%20describes%20the,of%20the%20citizenship%20of%20parents.">
-Dozens of other countries</a>, including Canada and Mexico, also grant automatic citizenship to people born on their soil.
+<ol start="24">
+  <li><a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">Falsely claimed</a> the US is the only country that grants birthright citizenship. <a href="https://www.cia.gov/the-world-factbook/field/citizenship/#:~:text=citizenship%20by%20birth%20describes%20the,of%20the%20citizenship%20of%20parents.">
+Dozens of other countries</a>, including Canada and Mexico, also grant automatic citizenship to people born on their soil.</li>
 
-25. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
-the majority of them replaced previous barriers</a>, though Trump’s replacement barriers were generally much more formidable.)
+  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> he had “571 miles of border wall” constructed during his first presidency. Federal statistics show 458 miles were built during those four years. (And <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
+the majority of them replaced previous barriers</a>, though Trump’s replacement barriers were generally much more formidable.)</li>
 
-26. <a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">Falsely claimed</a> 
+  <li><a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">Falsely claimed</a> 
 “I completed the wall, what I was doing,” but then had wanted to build “an extension” before Biden halted construction. Trump’s phrasing here was a bit confusing, but he <a href="https://www.cnn.com/2023/07/19/politics/fact-check-christie-trump-border-wall/index.html">
 did not complete the wall</a>. The 458 miles of construction fell far short of the 1,000 miles he campaigned on building, and when he left office, there were <a href="https://www.cnn.com/2022/11/15/politics/fact-check-trump-announcement-speech-2024/index.html">
-about 280 miles</a> where wall construction had been planned but not executed.
+about 280 miles</a> where wall construction had been planned but not executed.</li>
 
-27. <a href="">Falsely claimed</a> 
-that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but <a href="">not the lowest</a> “ever recorded.”
+  <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
+that his first full month back in office in 2025 had “the lowest level of illegal border crossings ever recorded.” It was the lowest number recorded since the early 1960s, but <a href="https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/US59B8~1.PDF">not the lowest</a> “ever recorded.”</li>
 
-28. <a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
+  <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> 
 that, as shown on a chart he frequently displayed at rallies, the US had the lowest level of illegal immigration ever when he left office in January 2021. In fact, the spot that the chart deceptively highlights as a historic low point 
 <a href="https://www.cnn.com/2024/08/26/politics/fact-check-trump-immigration-chart/index.html">
-was April 2020</a>, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.
+was April 2020</a>, when Trump still had more than eight months left in his term and when global migration had slowed to a trickle because of the Covid-19 pandemic. After hitting a roughly three-year low (not an all-time low) in April 2020, migration numbers at the southern border increased each month through the end of Trump’s first term.</li>
 
-29. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">Falsely claimed</a> “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had  
+  <li><a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">Falsely claimed</a> “21 million” migrants were allowed into the country by the Biden administration, “not even including the gotaways” who evaded detection. Through December 2024, the last full month under Biden, the country had  
 <a href="https://www.cbp.gov/newsroom/stats/nationwide-encounters">
 recorded</a> under 11 million nationwide “encounters” with migrants during that administration, including millions who were rapidly expelled from the country. Even adding in so-called gotaways who evaded detection, 
 <a href="https://homeland.house.gov/wp-content/uploads/2025/01/December-24-SS.pdf">
-estimated</a>  by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.
+estimated</a>  by House Republicans as being roughly 2.2 million, there’s no way the total is 21 million.</li>
 
-30. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">
+  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">
 Falsely claimed</a> foreign leaders “all over the world” emptied their jails and mental health facilities to somehow “dump” people from those facilities into the US as migrants during the Biden administration – 
 <a href="https://time.com/7280114/donald-trump-2025-interview-transcript/">
-adding</a> that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">said</a> she knows of nothing like it.
+adding</a> that in “some countries” it was “a complete emptying of their prison system.” Trump and his allies have never provided proof that this happened in any country, let alone in many countries as he has claimed, and an expert on prison systems around the world <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">said</a> she knows of nothing like it.</li>
 
-31. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
-Falsely claimed</a> former Vice President Harris was the Biden administration’s “border czar.” In  <a href="https://x.com/ReichlinMelnick/status/1815545630204342557">reality</a>, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.
+  <li><a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+Falsely claimed</a> former Vice President Harris was the Biden administration’s “border czar.” In  <a href="https://x.com/ReichlinMelnick/status/1815545630204342557">reality</a>, the White House always rejected that label; Biden gave Harris a more limited immigration-related assignment in 2021, asking her to lead diplomacy with El Salvador, Guatemala and Honduras in an attempt to address the conditions that prompted their citizens to try to migrate to the US.</li>
 
-32. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-governors-white-house-february-21-2025/#78">
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-governors-white-house-february-21-2025/#78">
 Falsely claimed</a> he “came up with” the term “caravan” in reference to migrants. He didn’t, as CNN and others 
-<a href="https://www.cnn.com/2024/10/18/politics/fact-check-trump-october-immigration/index.html">noted</a> when he previously claimed to have coined the phrase.
-
+<a href="https://www.cnn.com/2024/10/18/politics/fact-check-trump-october-immigration/index.html">noted</a> when he previously claimed to have coined the phrase.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign affairs</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-33. <a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">
+<ol start="33">
+  <li><a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">
 Falsely claimed</a> he thwarted a plan from the Biden administration to spend $50 million on condoms for Hamas in Gaza, then falsely claimed it was $100 million. The tale was fictional at either figure. When Trump ally Elon Musk was challenged about the claim after it was debunked, Musk <a href="https://www.cnn.com/2025/02/12/politics/some-of-the-things-that-i-say-will-be-incorrect-musk-backs-away-from-false-claim-of-usd50-million-for-gaza-condoms/index.html">
-conceded</a> that “some of the things that I say will be incorrect, and should be corrected.”
+conceded</a> that “some of the things that I say will be incorrect, and should be corrected.”</li>
 
-34. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+  <li><a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
 Falsely claimed</a> of hostages in Gaza: “Biden got none back, by the way, just so you understand: none, zero.” Leaving aside the question of who deserves more credit for the ceasefire-for-hostages deal secured by representatives of both Trump and Biden in the final days of Biden’s presidency, Hamas <a href="https://www.cnn.com/2025/01/15/us/whats-in-the-hamas-israel-ceasefire-and-hostage-release-deal/index.html">
-released 105 hostages</a> during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.
+released 105 hostages</a> during a brief 2023 truce brokered in part by the Biden administration about a year before Trump’s election victory.</li>
 
-35. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-executive-order-signing-oval-office-february-4-2025/#22">Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were 
+  <li><a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-executive-order-signing-oval-office-february-4-2025/#22">Falsely claimed</a> there was “peace all over the world” when he left office in 2021. There were 
 <a href="https://www.cnn.com/2025/01/07/politics/fact-check-trump-false-claims-january-6-europe-nato-and-canada/index.html">
-dozens</a> of active armed conflicts at the time.
+dozens</a> of active armed conflicts at the time.</li>
 
-36. <a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea <a href="https://www.congress.gov/crs-product/IF11388">began in 1991</a>.
+  <li><a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> of South Korea’s cost-sharing payments related to the US military presence in that country: “They began these Military payments during my first term.” In fact, the cost-sharing deals with South Korea <a href="https://www.congress.gov/crs-product/IF11388">began in 1991</a>.</li>
 
-37. <a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in <a href="https://www.cnn.com/2021/03/07/politics/us-south-korea-cost-sharing-troops/index.html">2021</a> and 
-<a href="https://www.cnn.com/2024/10/04/politics/us-forces-south-korea-cost-sharing-agreement/index.html">2024</a> - both of which included South Korean spending increases.
+  <li><a href="https://www.cnn.com/2025/04/09/politics/fact-check-biden-south-korea-trump/index.html">Falsely claimed</a> Biden “terminated the deal” with South Korea. In fact, Trump’s cost-sharing deals with South Korea had expired by the time he left office, and Biden proceeded to make new ones in <a href="https://www.cnn.com/2021/03/07/politics/us-south-korea-cost-sharing-troops/index.html">2021</a> and 
+<a href="https://www.cnn.com/2024/10/04/politics/us-forces-south-korea-cost-sharing-agreement/index.html">2024</a> - both of which included South Korean spending increases.</li>
 
-38. <a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan 
+  <li><a href="https://www.cnn.com/2025/04/10/politics/cabinet-meeting-trump-china-japan-eu/index.html">Falsely claimed</a> the US has a deal to defend Japan in which “we pay all the money; they don’t pay anything.” Japan 
 <a href="https://www.gao.gov/assets/gao-21-270.pdf">
-provides billions of dollars per year</a> in support for the US military presence in the country.
+provides billions of dollars per year</a> in support for the US military presence in the country.</li>
 
-39. <a href="https://amp.cnn.com/cnn/2025/03/21/politics/fact-check-trump-oval-office-remarks">Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.
+  <li><a href="https://amp.cnn.com/cnn/2025/03/21/politics/fact-check-trump-oval-office-remarks">Falsely claimed</a>, “NATO was gone until I came along.” Experts on NATO say there is simply no basis for his assertion that the alliance was vanishing before he took office.</li>
 
-40. <a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration <a href="https://2017-2021.state.gov/secretary-michael-r-pompeo-with-matthew-boyle-of-breitbart-news-network-and-siriusxm-patriot/">
+  <li><a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">Falsely claimed</a> Iran was so “broke” during his first presidency that “they weren’t giving any money to Hamas or Hezbollah.” Trump’s own administration <a href="https://2017-2021.state.gov/secretary-michael-r-pompeo-with-matthew-boyle-of-breitbart-news-network-and-siriusxm-patriot/">
 acknowledged in the last year of that presidency</a> that Iran was continuing to fund terror groups including Hezbollah. The funding 
-<a href="https://www.washingtonpost.com/world/middle_east/trumps-sanctions-on-iran-are-hitting-hezbollah-hard/2019/05/18/970bc656-5d48-11e9-98d4-844088d135f2_story.html">did decline</a> in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, <a href="https://www.cnn.com/2024/06/11/politics/fact-check-trump-iran-fund-terror-groups/index.html">four experts told CNN in 2024</a>.
+<a href="https://www.washingtonpost.com/world/middle_east/trumps-sanctions-on-iran-are-hitting-hezbollah-hard/2019/05/18/970bc656-5d48-11e9-98d4-844088d135f2_story.html">did decline</a> in the second half of the term, when the Iranian economy struggled because of Trump’s sanctions, but the cash for Hamas and Hezbollah never ceased during that presidency, <a href="https://www.cnn.com/2024/06/11/politics/fact-check-trump-iran-fund-terror-groups/index.html">four experts told CNN in 2024</a>.</li>
 
-41. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated 
+  <li><a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> he “got rid of” the ISIS terror group in just “three weeks” even though “people” had told him it would take five years. The so-called ISIS “caliphate” was declared fully liberated 
 <a href="https://www.cnn.com/2019/03/23/middleeast/isis-caliphate-end-intl/index.html"> more than two years</a> into Trump’s presidency, and the group 
-<a href="https://www.congress.gov/crs-product/IF10328">continues to operate today</a>.
+<a href="https://www.congress.gov/crs-product/IF10328">continues to operate today</a>.</li>
 
-42. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has <a href="https://www.cnn.com/2022/04/27/politics/afghan-weapons-left-behind/index.html">estimated</a> that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.
+  <li><a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">Falsely claimed</a> the US left “tens of billions of dollars worth” of military equipment to the Taliban when Biden pulled US troops out of the country in 2021. The Defense Department has <a href="https://www.cnn.com/2022/04/27/politics/afghan-weapons-left-behind/index.html">estimated</a> that this equipment surrendered by the Afghan forces had been worth about $7.1 billion – a chunk of the roughly $18.6 billion worth of equipment provided to the Afghan forces between 2005 and 2021.</li>
 
-43. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, <a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">they show about 5,600 people died</a> during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough 
-<a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">found</a> that “the number of white Americans who died was about 350.”
-
+  <li><a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">Falsely claimed</a> “38,000 people died, from our country, building the Panama Canal.” Experts say that figure is not close to accurate. While the century-old records are imprecise, <a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">they show about 5,600 people died</a> during the canal’s American construction phase between 1903 and 1914 and that the vast majority of those people were from the Caribbean. The late historian David McCullough 
+<a href="https://books.google.com/books?id=uVaeIXMxJpQC&printsec=frontcover&dq=Path+Between+the+Seas+david+mccullough+americans+died&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjjwrmrra-LAxU_K1kFHZE9BuQQ6AF6BAgKEAM#v=onepage&q=%22the%20number%20of%20white%20americans%22&f=false">found</a> that “the number of white Americans who died was about 350.”</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-44. <a href="">Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” Federal statistics show the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.
+<ol start="44">
+  <li>44. <a href="https://www.cnn.com/2025/03/06/politics/us-trade-tariffs-trump-fact-check/index.html">
+    Falsely claimed</a> that “we have a deficit with China of over $1 trillion.” 
+	<a href="https://www.bea.gov/sites/default/files/2025-03/trad0125.pdf">Federal statistics show</a> the 2024 trade deficit with China in goods and services trade was about $263 billion. Even if you count only trade in goods, the 2024 deficit with China was about $295 billion, still not close to Trump’s figure.</li>
 
-45. <a href="">
-Falsely claimed</a> Biden is responsible for the trade deficit with China supposedly worsening to more than $1 trillion, saying Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the deficit in every year of Trump’s first presidency.
+  <li>45. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
+    Falsely claimed</a> Biden is responsible for the trade deficit with China supposedly worsening to more than 
+	$1 trillion, 
+	<a href="https://www.cnn.com/2025/01/23/politics/fact-check-trump-davos/index.html">
+	saying</a> Biden let it “get out of hand.” In fact, the 2024 deficit of about $263 billion was lower than the 
+	deficit in <a href="https://www.bea.gov/sites/default/files/2021-05/trad0321.pdf">every year</a> of Trump’s first presidency.</li>
 
-46. <a href="">
-Falsely claimed</a> the US took in “hundreds of billions of dollars from China” – that “they paid” – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.
+  <li>46. <a href="https://www.cnn.com/2025/04/07/politics/fact-check-trump-trade-europe-china/index.html">
+    Falsely claimed</a> the US took in “hundreds of billions of dollars from China” – that 
+	<a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+	“they paid”</a> – because of the tariffs he imposed during his first presidency. US importers, not foreign exporters like China, make the tariff payments, and study after study has found that Americans bore the overwhelming majority of the costs.</li>
 
-47. <a href="">
-Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China since 1789, and it was generating billions per year from such tariffs during the Obama administration.
+  <li>47. <a href="https://www.cnn.com/2025/04/02/politics/fact-check-trump-tariffs-trade/index.html">
+Falsely claimed</a> no previous president had taken in even “10 cents” in revenue from tariffs on China. The US has generated revenue from tariffs on imports from China <a href="https://fraser.stlouisfed.org/title/tariff-1789-hamilton-tariff-5884?page=2">
+since 1789</a>, and it was <a href="https://www.factcheck.org/2019/05/trump-wrong-on-china-trade-again/">
+generating billions</a> per year from such tariffs during the Obama administration.</li>
 
-48. <a href="">
-Falsely claimed</a>, “Above all, China is operating the Panama Canal.” It isn’t; Panama is. Trump could have raised legitimate questions about China’s influence in the canal area, but “operating the canal” went too far.
+  <li>48. <a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
+Falsely claimed</a>, “Above all, China is operating the Panama Canal.” 
+  <a href="https://www.cnn.com/2025/01/17/politics/trump-panama-canal-threats-history-mulino/index.html">
+  It isn’t</a>; Panama is. Trump could have raised 
+  <a href="https://www.csis.org/analysis/key-decision-point-coming-panama-canal">
+  legitimate questions</a> about China’s influence in the canal area, but “operating the canal” went too far.</li>
 
-49. <a href="">
-Falsely claimed</a> that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration made a concerted effort to deter such purchases, but they never stopped – and then they rose sharply again, up to hundreds of thousands of barrels per day, while Trump was still president.
-
+  <li><a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
+Falsely claimed</a> that during his first presidency, he successfully pressured China into completely ceasing its purchases of oil from Iran. China’s oil imports from Iran did briefly plummet under Trump in 2019, the year the Trump administration 
+  <a href="https://www.cnn.com/2019/04/22/politics/trump-administration-iranian-oil-sanction-waiver/index.html">
+  made a concerted effort to deter such purchases</a>, but they never stopped – and then they rose sharply again, up to 
+    <a href="https://www.cnn.com/2023/12/01/politics/trump-dishonesty-avalanche-102-fall-false-claims/index.html">
+	hundreds of thousands of barrels per day</a>, while Trump was still president.</li>
+</ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Europe</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
