@@ -559,85 +559,110 @@ It is not</a>.</li>
 <h3>Elections and Trump’s popularity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="76">
-  <li>76. <a href="">
+  <li>76. <a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
 Falsely claimed</a> the 2020 election was “totally rigged.” There is no basis for the claim. Trump lost a legitimate election to Biden.</li>
-  <li>77. <a href="">
+  <li>77. <a href="https://rollcall.com/factbase/trump/search/">
 Falsely claimed</a> Democrats “tried” to “rig” the 2024 election he won. There is no basis for this claim, either.</li>
   <li>78. <a href="">
 Falsely claimed</a> his 2020 vote total, “almost 75 million votes,” was incorrect. The votes were counted and reported accurately, and Trump’s vote total – about 74.2 million – is his actual total.</li>
 
-  <li>79. <a href="">
-Falsely claimed</a> “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he got 81,283,501 votes.</li>
+  <li>79. <a href="https://www.theatlantic.com/politics/archive/2025/04/donald-trump-oval-office-interview-excerpts/682623/">
+Falsely claimed</a> “Biden didn’t get 80 million votes” in 2020. Biden did; in fact, he 
+<a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf">got 81,283,501 votes</a>.</li>
 
-  <li>80. <a href="">
+  <li>80. <a href="https://www.cnn.com/2025/03/21/politics/fact-check-trump-oval-office-remarks/index.html">
 Falsely claimed</a> he got “much more than 80 million votes” in the 2024 election. Trump received about 77.3 million votes.</li>
 
-  <li>81. <a href="">
+  <li>81. <a href="http://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
 Falsely claimed</a> his 2024 vote total is “actually much more than” the reported total, since unspecified people “cheated like hell.” Trump’s official vote total is his actual vote total, and there is no evidence of cheating by vote counters or by his Democratic foes.</li>
 
-  <li>82. <a href="">
+  <li>82. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-executive-orders-white-house-march-31-2025/#100">
 Falsely claimed</a> he won Wisconsin “three times.” He won it twice, in 2016 and 2024, but lost it in 2020.</li>
 
-  <li>83. <a href="">
-Falsely claimed</a>, “We’re the only country in the world that has mail-in voting.” Various other countries, including Canada, Germany, Switzerland, the United Kingdom, and Spain, allow some or all voters to vote by mail, though the specifics of their policies vary.</li>
+  <li>83. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">
+Falsely claimed</a>, “We’re the only country in the world that has mail-in voting.” Various other countries, including 
+<a href="https://www.elections.ca/voting-by-mail">Canada</a>, 
+<a href="https://handbookgermany.de/en/rights-laws/elections.html">Germany</a>, 
+<a href="https://www.ch.ch/en/votes-and-elections/elections/where-and-when-to-vote/#when-to-vote">Switzerland</a>, 
+<a href="https://www.gov.uk/apply-postal-vote">the United Kingdom</a>, and 
+<a href="https://www.reuters.com/world/europe/record-spanish-postal-vote-triggers-ballot-bottlenecks-snap-election-nears-2023-07-13/">Spain</a>, allow some or all voters to vote by mail, though the specifics of their policies vary.</li>
 
-  <li>84. <a href="">
-Falsely claimed</a> a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, saying absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.</li>
+  <li>84. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-governors-white-house-february-21-2025/#141">
+Falsely claimed</a> a commission chaired by Democratic former President Jimmy Carter concluded that “if you have mail-in voting, you’re going to have massive fraud.” Though the commission Carter co-chaired in 2005 was generally skeptical of mail-in voting, 
+<a href="https://web.archive.org/web/20200413145148/https:/www.legislationline.org/download/id/1472/file/3b50795b2d0374cbef5c29766256.pdf">saying</a>
+ absentee ballots were “the largest source of potential voter fraud,” it didn’t say massive fraud was inevitable with mail-in voting; in fact, it highlighted an example of successful all-mail elections, in Oregon, and offered recommendations for making the use of mail-in ballots more secure.</li>
 
-  <li>85. <a href="">
+  <li>85. <a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
 Falsely described</a> the Biden administration as election cheaters, saying that “the only thing they’re good at, really, is cheating” and that “anybody that cheats that much and that well is not stupid.” This is nonsense.</li>
 
-  <li>86. <a href="">
-Falsely claimed</a> in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief certified the 2024 presidential election results on December 13, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results on December 3.</li>
+  <li>86. <a href="https://www.cnn.com/2025/02/12/politics/california-2024-votes-trump-fact-check/index.html">
+Falsely claimed</a> in a February 11 social media post that “California just stopped counting their votes on the 2024 Presidential Election.” While California does take notably long to finish its vote counts, its elections chief 
+<a href="https://www.sos.ca.gov/administration/news-releases-and-advisories/2024-news-releases-and-advisories/secretary-state-shirley-n-weber-phd-has-certified-results-california-november-5-2024-general-election">
+certified the 2024 presidential election results on December 13</a>, nearly two months prior to Trump’s post, and individual California counties certified their own presidential results 
+<a href="https://www.actionnewsnow.com/news/california-counties-certify-election-results-for-the-first-time-on-unified-deadline/article_89856ae4-b1e5-11ef-9beb-c7c95d331b6d.html">on December 3</a>.</li>
 
-  <li>87. <a href="">
+  <li>87. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-speech-governors-white-house-february-21-2025/#134">
 Falsely claimed</a> on February 21, while speaking about California and the presidential election, that “they were voting a week and a half ago.” Nobody anywhere in the country was still voting in the November 2024 presidential election in February 2025.</li>
 
-  <li>88. <a href="">
-Falsely claimed</a> “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN exit polls showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an ongoing debate among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)</li>
+  <li>88. <a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">
+Falsely claimed</a> “I won youth by 36 points” in the 2024 election. He didn’t say how he was defining “youth,” but the claim that Trump won youth by 36 points is clearly false; CNN 
+<a href="https://www.cnn.com/election/2024/exit-polls/national-results/general/president/0">exit polls</a> 
+showed Harris beat him among voters ages 18-24, 25-29 and 30-39. (There is an 
+<a href="https://tufts-pol.medium.com/have-young-voters-really-abandoned-the-democrats-140a554598ff">
+ongoing debate</a> among experts about how exactly young people voted, but Trump certainly did not win them by 36 points.)</li>
 
-  <li>89. <a href="">
-Falsely claimed</a> his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, in the 40s and 50s at the time he made it, was not even close to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.</li>
+  <li>89. <a href="https://www.cnn.com/2025/02/22/politics/fact-check-trump-cpac-2025-election/index.html">
+Falsely claimed</a> his “poll numbers” are the highest “that any Republican president has ever had.” There was no reasonable basis for the claim; his approval rating, 
+<a href="https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html">
+in the 40s and 50s</a> at the time he made it, was 
+<a href="https://ropercenter.cornell.edu/presidential-approval/highslows">not even close</a> 
+to the best of all time for a Republican president. President George W. Bush hit 92% shortly after the terror attacks of September 11, 2001, and President George H.W. Bush hit 89% at the end of the Gulf War in 1991.</li>
 
-  <li>90. <a href="">
-Falsely claimed</a>, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” There were empty seats at numerous Trump rallies in 2024, including one where he made the boast that “we never have an empty seat.”</li>
+  <li>90. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-executive-orders-white-house-march-31-2025/#160">
+Falsely claimed</a>, while talking about the 2024 campaign, “We never had empty seats, it’s amazing.” 
+<a href="https://www.nbcnews.com/politics/donald-trump/trumps-enthusiastic-crowds-dwindle-elections-closing-days-rcna178672">There were empty seats</a> 
+at numerous Trump rallies in 2024, 
+<a href="https://www.huffpost.com/entry/trump-empty-seats-boast-reading-pennsylvania-rally_n_67072ce0e4b047df57066ba6">including one</a> where he made the boast that “we never have an empty seat.”</li>
 
-  <li>91. <a href="">
-Falsely claimed</a> that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from CNN and other outlets estimated that hundreds of people left.</li>
+  <li>91. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-interview-domenech-the-spectator-february-27-2025/#18">
+Falsely claimed</a> that when he was hours late to a 2024 rally in Michigan because he was taping a podcast interview with Joe Rogan, “Not a person left…not a person left.” Videos from the rally showed people leaving before Trump arrived; reporters from 
+<a href="https://x.com/KateSullivanDC/status/1849983240204894704">CNN</a> and 
+<a href="https://x.com/Kjwalsh_news/status/1849974126762479914">other outlets</a> estimated that hundreds of people left.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The January 6, 2021, attack on the Capitol</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="92">
-  <li>92. <a href="">
-Falsely claimed</a> the perpetrators of the Capitol riot “didn’t assault.” They did, as video after video and trial after trial made clear. The Justice Department has said more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.</li>
+  <li>92. <a href="https://www.cnn.com/2025/02/20/politics/analysis-trumps-13-biggest-lies-first-month-2025/index.html">
+Falsely claimed</a> the perpetrators of the Capitol riot “didn’t assault.” They did, as 
+<a href="https://www.cnn.com/2021/12/24/politics/january-6-video-capitol-hill-riot/index.html">video</a> after <a href="https://www.cnn.com/2021/06/23/politics/capitol-riot-videos-attack-police/index.html">video</a> and <a href="https://www.justice.gov/usao-dc/pr/four-men-sentenced-prison-actions-during-jan-6-capitol-breach">trial</a> <a href="https://www.justice.gov/usao-dc/pr/new-jersey-man-found-guilty-assaulting-law-enforcement-and-other-charges-during-jan-6">after</a> <a href="https://www.justice.gov/usao-dc/pr/texas-couple-sentenced-prison-assaulting-law-enforcement-and-other-charges-during-jan-6">trial</a> made clear. The Justice Department has <a href="https://web.archive.org/web/20250116124241/https:/www.justice.gov/usao-dc/48-months-jan-6-attack-us-capitol">said</a> more than 140 officers were assaulted on January 6 and that more than 170 people pleaded guilty to such assaults.</li>
 
-  <li>93. <a href="">
-Falsely claimed</a> the January 6 rioters “had no guns.” Multiple rioters were armed with guns.</li>
+  <li>93. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-interview-greg-kelly-newsmax-march-25-2025/#59">
+Falsely claimed</a> the January 6 rioters “had no guns.” <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-interview-greg-kelly-newsmax-march-25-2025/#59">Multiple rioters</a> were armed with guns.</li>
 
-  <li>94. <a href="">
-Falsely claimed</a> rioter Ashli Babbitt “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. Video evidence shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.</li>
+  <li>94. <a href="https://rollcall.com/factbase/trump/transcript/donald-trump-interview-greg-kelly-newsmax-march-25-2025/#59">
+Falsely claimed</a> rioter <a href="https://www.cnn.com/2021/06/18/politics/ashli-babbitt-capitol-hill-riot-death-invs/index.html">Ashli Babbitt</a> “was innocently standing there, they even say trying to sort of hold back the crowd,” when she was shot by a Capitol Police officer. <a href="https://x.com/bellingcat/status/1347428500530204674">Video evidence</a> shows Babbitt was shot as she was trying to climb through a broken window to the Speaker’s Lobby outside the House of Representatives.</li>
 
-  <li>95. Falsely claimed the House select committee that investigated the attack on the Capitol “deleted and destroyed all of the information that they collected.” The committee preserved a large volume of evidence, though there has been a long-running dispute between Republicans and Democrats over the preservation of certain committee records.</li>
+  <li>95. <a href="https://www.cnn.com/2025/01/22/politics/fact-check-trump-litters-oval-office-interview-with-false-claims/index.html">Falsely claimed</a> the House select committee that investigated the attack on the Capitol “deleted and destroyed all of the information that they collected.” The committee <a href="https://www.factcheck.org/2025/01/factchecking-trumps-inaugural-address/">preserved a large volume of evidence</a>, though there has been a long-running dispute between Republicans and Democrats over the preservation of certain committee records.</li>
 
-  <li>96. <a href="">
+  <li>96. <a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">
 Falsely claimed</a> Democratic former House Speaker Nancy Pelosi is “on tape” admitting that she had rejected his offer of 10,000 National Guard troops to protect the Capitol on January 6, 2021. There is no evidence Pelosi turned down or even received such an offer, and she has repeatedly rejected, not confirmed, Trump’s story about what happened. Pelosi was recorded by her daughter expressing frustration with Capitol security that day and saying, “I take responsibility for not having them just prepare for more” – not saying she had turned down a Trump offer of 10,000 troops or that, as Trump has also wrongly claimed, she was in charge of Capitol security.</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Federal government</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ol start="97">
-  <li>97. <a href="">
-Falsely claimed</a> Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched during Trump’s own administration in 2019.</li>
+  <li>97. <a href="https://www.cnn.com/2025/01/30/politics/faa-disability-hiring-trump-fact-check/index.html">
+Falsely claimed</a> Biden made a last-minute push before Trump returned to office to hire people with significant disabilities as air traffic controllers. The Federal Aviation Administration pilot program he was referring to was actually a years-old initiative launched <a href="https://www.faa.gov/newsroom/faa-provides-aviation-careers-people-disabilities">during Trump’s own administration in 2019</a>.</li>
 
-  <li>98. <a href="">
-Falsely claimed</a> “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already stops payments to people listed as being age 115 and older. As a government watchdog noted in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration noted in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.</li>
+  <li>98. <a href="https://www.cnn.com/2025/03/04/politics/fact-check-trump-address-congress/index.html">
+Falsely claimed</a> “money is being paid to many” of the more than 10 million people listed in the Social Security database as being 120 years old or older. Social Security already <a href="https://secure.ssa.gov/poms.nsf/lnx/0202602578">stops payments</a> to people listed as being age 115 and older. As a government watchdog <a href="https://oig.ssa.gov/assets/uploads/a-06-21-51022.pdf">noted</a> in a 2023 report and the Trump-appointed acting commissioner of the Social Security Administration <a href="https://apnews.com/article/social-security-doge-musk-trump-improper-payments-57f9e374e77e7a24fdff3afa294aa7fe">noted</a> in a February 2025 statement, someone not being marked as deceased in the database doesn’t mean they’re actually receiving checks.</li>
 
-  <li>99. <a href="">
+  <li>99. <a href="https://www.cnn.com/2025/02/26/politics/fact-check-trump-cabinet-meeting/index.html">
 Falsely claimed</a> that when a federal employee didn’t respond to the initial Elon Musk email blast asking them to list accomplishments from the previous week, “Usually that means that maybe that person doesn’t exist, or that person doesn’t want to say they’re working for another company while being paid by the United States government.” That’s not true; there were explanations for the early non-responses other than improper moonlighting or someone not existing while being paid as a federal employee. For one, leaders at multiple federal agencies had told their employees not to respond to the email.</li>
 
-  <li>100. <a href="">
-Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, Robert Hur, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”</li>
+  <li>100. <a href="https://www.cnn.com/2025/03/14/politics/fact-check-trump-immigration-biden-ukraine-doj/index.html">
+Falsely described</a> the special counsel investigation into Biden’s handling of classified documents, saying Biden was “essentially found guilty” and adding that “nobody knows what the ruling was.” Biden was not found guilty, “essentially” or not, and there was no judicial “ruling” at all; Biden was not even charged with a crime. The special counsel who was appointed to look into Biden’s handling of classified documents, <a href="https://www.cnn.com/2024/02/08/politics/robert-hur-report-biden-classified-documents-read">Robert Hur</a>, wrote in a public report that “the evidence does not establish Mr. Biden’s guilt beyond a reasonable doubt” and that “several defenses are likely to create reasonable doubt as to such charges.”</li>
 </ol>
 
 https://www.project2025.observer/
