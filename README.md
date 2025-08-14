@@ -2863,9 +2863,25 @@ who once called him “America’s Hitler.”
 <h3>Musk’s fascist salute (The Telegraph)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-– January 21, 2025 – Trump introduced Executive Order 14151, aimed at ending diversity, equity, and inclusion (DEI) and diversity, equity, inclusion, and accessibility (DEIA) policies throughout the federal government. The order stated, “Federal employment practices, and employee performance reviews, shall reward individual initiative, skills, performance, and hard work and shall not under any circumstances consider DEI or DEIA factors, goals, policies, mandates, or requirements.” Everett Kelley, president of the American Federation of Government Employees, said the government already hires and promotes exclusively based on merit: “The results are clear: a diverse federal workforce that looks like the nation it serves. We should all be proud of that.”
+– January 21, 2025 – Trump introduced Executive Order 14151, aimed at ending diversity, 
+equity, and inclusion (DEI) and diversity, equity, inclusion, and accessibility (DEIA) 
+policies throughout the federal government. The order stated, “Federal employment 
+practices, and employee performance reviews, shall reward individual initiative, 
+skills, performance, and hard work and shall not under any circumstances consider DEI 
+or DEIA factors, goals, policies, mandates, or requirements.” Everett Kelley, president 
+of the American Federation of Government Employees, said the government already hires 
+and promotes exclusively based on merit: “The results are clear: a diverse federal 
+workforce that looks like the nation it serves. We should all be proud of that.”
 
-– January 23, 2025 – Trump fired more than a dozen inspectors general in a late-night purge of independent government watchdog officials assigned to investigate crime and abuse. The fired inspectors general received White House emails that stated, “Due to changing priorities, your position as Inspector General… is terminated, effective immediately.” In response to the firings, Trump said, “Some people thought that some were unfair or some were not doing the job.” He claimed that the mass removal of inspectors general was “a very standard thing to do.” The terminations directly violated a federal law that required a thirty-day notice to Congress that included a rationale for the firings.
+– January 23, 2025 – Trump fired more than a dozen inspectors general in a late-night 
+purge of independent government watchdog officials assigned to investigate crime and 
+abuse. The fired inspectors general received White House emails that stated, “Due to 
+changing priorities, your position as Inspector General… is terminated, effective 
+immediately.” In response to the firings, Trump said, “Some people thought that some 
+were unfair or some were not doing the job.” He claimed that the mass removal of 
+inspectors general was “a very standard thing to do.” The terminations directly violated 
+a federal law that required a thirty-day notice to Congress that included a rationale 
+for the firings.
 
 – January 24, 2025 – Just hours before he visited areas devastated by the Southern 
 California wildfires, Trump blamed California’s Democratic Governor Gavin Newsom and 
@@ -2901,11 +2917,32 @@ Foreign Affairs Minister Ayman Safadi promptly replied, “Our refusal of displa
 is a steadfast position that will not change.” In response to Trump’s suggestion, 
 Senator Lindsey Graham said, “I don’t know what he’s talking about.”
 
-– January 25, 2025 – At a Las Vegas rally, Trump speculated about running for additional presidential terms. “It will be the greatest honor of my life to serve not once but twice—or three or four times.” Just two days later, in a speech to House Republicans at Mar-a-Lago, Trump added, “I’ve raised a lot of money for the next race that I assume I can’t use for myself, but I’m not 100 percent sure,” eliciting laughter from House Speaker Mike Johnson, a former constitutional lawyer. The Twenty-Second Amendment to the US Constitution explicitly bans a president from being elected to more than two terms.
+– January 25, 2025 – At a Las Vegas rally, Trump speculated about running for additional 
+presidential terms. “It will be the greatest honor of my life to serve not once but twice—
+or three or four times.” Just two days later, in a speech to House Republicans at Mar-a-
+Lago, Trump added, “I’ve raised a lot of money for the next race that I assume I can’t 
+use for myself, but I’m not 100 percent sure,” eliciting laughter from House Speaker 
+Mike Johnson, a former constitutional lawyer. The Twenty-Second Amendment to the US 
+Constitution explicitly bans a president from being elected to more than two terms.
 
-– January 27, 2025 – President Trump signed executive orders banning transgender individuals from serving in the military, eliminating the military’s diversity programs, and reinstating with back pay service members who were previously discharged for refusing COVID-19 vaccinations. The order banning trans service members stated that “adoption of a gender identity inconsistent with an individual’s sex conflicts with a soldier’s commitment to an honorable, truthful, and disciplined lifestyle” and “is not consistent with the humility and selflessness required of a service member.” In 2018, the Army, Navy, Air Force, and Marine Corps chiefs all told Congress that transgender troops did not negatively impact unit cohesion, discipline issues, or morale.
+– January 27, 2025 – President Trump signed executive orders banning transgender 
+individuals from serving in the military, eliminating the military’s diversity programs, 
+and reinstating with back pay service members who were previously discharged for 
+refusing COVID-19 vaccinations. The order banning trans service members stated that 
+“adoption of a gender identity inconsistent with an individual’s sex conflicts with a 
+soldier’s commitment to an honorable, truthful, and disciplined lifestyle” and “is not 
+consistent with the humility and selflessness required of a service member.” In 2018, 
+the Army, Navy, Air Force, and Marine Corps chiefs all told Congress that transgender 
+troops did not negatively impact unit cohesion, discipline issues, or morale.
 
-– January 27, 2025 – In an internal memo sent to federal agencies, the White House ordered a temporary pause on federal grant and loan disbursements to ensure compliance with Trump’s recent executive orders. “The use of federal resources to advance Marxist equity, transgenderism, and Green New Deal social engineering policies is a waste of taxpayer dollars,” wrote Matthew J. Vaeth, then acting director of the Office of Management and Budget. A spreadsheet identified 2,600 federal programs under review, showing impacts to foreign aid, homeless shelters, food stamps, college financial aid, disaster reconstruction, Social Security, and senior health care.
+– January 27, 2025 – In an internal memo sent to federal agencies, the White House 
+ordered a temporary pause on federal grant and loan disbursements to ensure compliance 
+with Trump’s recent executive orders. “The use of federal resources to advance Marxist 
+equity, transgenderism, and Green New Deal social engineering policies is a waste of 
+taxpayer dollars,” wrote Matthew J. Vaeth, then acting director of the Office of 
+Management and Budget. A spreadsheet identified 2,600 federal programs under review, 
+showing impacts to foreign aid, homeless shelters, food stamps, college financial 
+aid, disaster reconstruction, Social Security, and senior health care.
 
 – January 27, 2025 – Trump signed an executive order aimed at restricting gender-affirming 
 health care—such as puberty blockers, hormone therapy, and surgery—for those under the age 
@@ -2921,7 +2958,18 @@ Research shows that gender-diverse minors face increased risks for mental health
 issues, substance use, and suicide, and that gender-affirming health care improves 
 overall well-being and quality of life.
 
-– January 28, 2025 – In her first White House briefing, Press Secretary Karoline Leavitt announced that the Elon Musk–led Department of Government Efficiency (DOGE) had prevented a planned $50 million from going “out the door to fund condoms in Gaza,” a “preposterous waste of taxpayer money.” Musk later reposted a video of Leavitt’s remarks with the comment “tip of the iceberg.” Leavitt’s claim was subsequently repeated and expanded upon by the president: “We identified and stopped $50 million being sent to Gaza to buy condoms for Hamas. They used them as a method of making bombs. How about that?” No evidence was offered to support Leavitt’s, Musk’s, or Trump’s claims. A federal report published in 2024 and now inaccessible on the United States Agency for International Development (USAID) website showed that the agency’s total worldwide spending on condoms in 2023 was only $7.1 million and that no condoms were provided or funded for the Middle East between 2021 and 2023.
+– January 28, 2025 – In her first White House briefing, Press Secretary Karoline Leavitt 
+announced that the Elon Musk–led Department of Government Efficiency (DOGE) had prevented 
+a planned $50 million from going “out the door to fund condoms in Gaza,” a “preposterous 
+waste of taxpayer money.” Musk later reposted a video of Leavitt’s remarks with the 
+comment “tip of the iceberg.” Leavitt’s claim was subsequently repeated and expanded 
+upon by the president: “We identified and stopped $50 million being sent to Gaza to buy 
+condoms for Hamas. They used them as a method of making bombs. How about that?” No 
+evidence was offered to support Leavitt’s, Musk’s, or Trump’s claims. A federal report 
+published in 2024 and now inaccessible on the United States Agency for International 
+Development (USAID) website showed that the agency’s total worldwide spending on 
+condoms in 2023 was only $7.1 million and that no condoms were provided or funded for 
+the Middle East between 2021 and 2023.
 
 – January 28, 2025 – The day after a passenger plane and Army helicopter collided mid-air 
 above the Potomac River in Washington, DC, Trump blamed the deadly crash on DEI. At the 
@@ -2948,9 +2996,17 @@ biological differences between Black and white people are associated with racial
 disparities in medical assessment and treatment.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Robert F. Kennedy testifying that Black people need fewer antigens than white people. (New York Post)</h3>
+<h3>Robert F. Kennedy testifying that Black people need fewer antigens than white people. 
+(New York Post)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-– January 30, 2025 – The mass deportation operation spearheaded by Immigration and Customs Enforcement (ICE ) rattled immigrant communities across the country. A recent announcement by the Department of Homeland Security (DHS) stated that DHS officials would enter schools and churches to conduct raids. The deportation operation was meant to remove dangerous criminals. Trump’s border czar, Tom Homan, admitted to “collateral arrests.” The Trump administration said it had arrested 7,400 people in nine days, and White House and ICE officials highlighted several dozen arrested immigrants on social media. No information in the thousands of other cases was made available.
+– January 30, 2025 – The mass deportation operation spearheaded by Immigration and Customs 
+Enforcement (ICE ) rattled immigrant communities across the country. A recent announcement 
+by the Department of Homeland Security (DHS) stated that DHS officials would enter schools 
+and churches to conduct raids. The deportation operation was meant to remove dangerous 
+criminals. Trump’s border czar, Tom Homan, admitted to “collateral arrests.” The Trump 
+administration said it had arrested 7,400 people in nine days, and White House and ICE 
+officials highlighted several dozen arrested immigrants on social media. No information 
+in the thousands of other cases was made available.
 
 – January 31, 2025 – The Justice Department fired dozens of prosecutors and demanded a 
 list of FBI employees who had worked on investigations related to the January 6, 2021, 
